@@ -1,0 +1,7 @@
+# Ignore the large data folders completely
+Everyone_Active/
+Places_Leisure/
+Serco_Leisure/
+
+# Ignore the heavy SPSS survey data files
+*.sav
