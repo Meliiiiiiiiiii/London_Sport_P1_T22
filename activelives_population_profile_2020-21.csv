@@ -1,0 +1,1887 @@
+survey_year,borough,demographic_group,category,pct_active,pct_fairly_active,pct_inactive,respondents,weighted_base,suppress
+2020-21,London,Age9,16-24,65.5,10.4,24.1,1395,3652.0,False
+2020-21,London,Age9,25-34,69.3,10.8,19.9,3111,6150.5,False
+2020-21,London,Age9,35-44,65.6,11.0,23.4,3271,5624.6,False
+2020-21,London,Age9,45-54,64.9,10.0,25.1,2802,4415.0,False
+2020-21,London,Age9,55-64,65.7,12.0,22.2,2433,3453.7,False
+2020-21,London,Age9,65-74,64.6,9.5,25.8,1972,2357.7,False
+2020-21,London,Age9,75-84,52.0,10.2,37.7,995,1580.8,False
+2020-21,London,Age9,85+,26.9,10.9,62.1,226,315.4,False
+2020-21,Barking and Dagenham,Age9,16-24,65.3,14.7,20.0,64,102.6,False
+2020-21,Barking and Dagenham,Age9,25-34,60.4,8.3,31.2,80,105.3,False
+2020-21,Barking and Dagenham,Age9,35-44,44.7,11.6,43.7,126,157.2,False
+2020-21,Barking and Dagenham,Age9,45-54,62.4,7.2,30.4,97,110.9,False
+2020-21,Barking and Dagenham,Age9,55-64,40.7,23.4,35.9,65,61.7,False
+2020-21,Barking and Dagenham,Age9,65-74,49.2,16.5,34.3,48,35.0,False
+2020-21,Barking and Dagenham,Age9,75-84,31.7,9.1,59.2,23,25.6,True
+2020-21,Barking and Dagenham,Age9,85+,27.3,21.3,51.4,7,5.9,True
+2020-21,Barnet,Age9,16-24,82.5,9.8,7.7,45,161.6,False
+2020-21,Barnet,Age9,25-34,52.1,12.8,35.1,89,235.0,False
+2020-21,Barnet,Age9,35-44,59.1,12.9,28.0,117,260.4,False
+2020-21,Barnet,Age9,45-54,67.6,8.2,24.2,72,175.3,False
+2020-21,Barnet,Age9,55-64,78.0,13.3,8.7,80,154.0,False
+2020-21,Barnet,Age9,65-74,68.3,12.7,19.0,63,110.7,False
+2020-21,Barnet,Age9,75-84,62.6,13.9,23.4,33,85.1,False
+2020-21,Barnet,Age9,85+,41.0,10.8,48.2,11,21.1,True
+2020-21,Bexley,Age9,16-24,57.9,15.2,26.9,31,77.5,False
+2020-21,Bexley,Age9,25-34,62.8,19.5,17.7,73,139.5,False
+2020-21,Bexley,Age9,35-44,59.8,15.7,24.4,93,140.3,False
+2020-21,Bexley,Age9,45-54,64.6,12.7,22.7,82,137.8,False
+2020-21,Bexley,Age9,55-64,57.8,13.6,28.6,90,112.5,False
+2020-21,Bexley,Age9,65-74,57.2,13.5,29.3,66,75.0,False
+2020-21,Bexley,Age9,75-84,54.3,10.6,35.1,43,72.1,False
+2020-21,Bexley,Age9,85+,28.6,6.7,64.7,13,16.2,True
+2020-21,Brent,Age9,16-24,56.6,18.8,24.5,60,186.3,False
+2020-21,Brent,Age9,25-34,61.2,14.2,24.5,91,228.6,False
+2020-21,Brent,Age9,35-44,60.3,9.9,29.8,106,196.5,False
+2020-21,Brent,Age9,45-54,62.3,7.3,30.4,71,128.9,False
+2020-21,Brent,Age9,55-64,59.2,2.9,37.9,67,95.3,False
+2020-21,Brent,Age9,65-74,50.2,12.9,37.0,70,91.4,False
+2020-21,Brent,Age9,75-84,34.6,8.9,56.6,24,46.8,True
+2020-21,Brent,Age9,85+,26.8,12.3,60.8,13,15.5,True
+2020-21,Bromley,Age9,16-24,62.3,23.1,14.6,19,75.0,True
+2020-21,Bromley,Age9,25-34,85.8,5.1,9.2,49,121.1,False
+2020-21,Bromley,Age9,35-44,69.1,13.2,17.6,79,162.4,False
+2020-21,Bromley,Age9,45-54,73.6,9.6,16.8,99,234.8,False
+2020-21,Bromley,Age9,55-64,71.5,13.6,14.9,77,163.3,False
+2020-21,Bromley,Age9,65-74,67.3,4.3,28.4,96,152.3,False
+2020-21,Bromley,Age9,75-84,67.2,6.7,26.1,60,115.6,False
+2020-21,Bromley,Age9,85+,9.2,14.4,76.4,11,18.0,True
+2020-21,Camden,Age9,16-24,67.5,7.0,25.5,68,186.7,False
+2020-21,Camden,Age9,25-34,79.9,4.2,15.8,112,222.4,False
+2020-21,Camden,Age9,35-44,62.6,9.0,28.4,81,126.7,False
+2020-21,Camden,Age9,45-54,58.5,12.5,29.0,81,117.0,False
+2020-21,Camden,Age9,55-64,73.4,15.8,10.8,65,96.2,False
+2020-21,Camden,Age9,65-74,82.9,5.1,12.0,58,71.8,False
+2020-21,Camden,Age9,75-84,45.8,17.4,36.8,32,51.7,False
+2020-21,Camden,Age9,85+,59.4,0.0,40.6,6,7.6,True
+2020-21,City of London,Age9,16-24,58.4,20.9,20.7,33,5.1,False
+2020-21,City of London,Age9,25-34,57.5,14.7,27.8,67,8.4,False
+2020-21,City of London,Age9,35-44,38.8,22.3,38.9,70,7.0,False
+2020-21,City of London,Age9,45-54,47.5,10.0,42.5,44,4.0,False
+2020-21,City of London,Age9,55-64,61.6,4.9,33.5,33,2.5,False
+2020-21,City of London,Age9,65-74,48.1,2.1,49.8,44,3.3,False
+2020-21,City of London,Age9,75-84,7.2,0.0,92.8,17,2.0,True
+2020-21,City of London,Age9,85+,0.0,32.0,68.0,3,0.2,True
+2020-21,Croydon,Age9,16-24,53.4,10.0,36.6,42,128.7,False
+2020-21,Croydon,Age9,25-34,67.5,10.8,21.7,93,248.6,False
+2020-21,Croydon,Age9,35-44,66.5,8.3,25.2,104,234.5,False
+2020-21,Croydon,Age9,45-54,69.8,10.6,19.5,71,182.4,False
+2020-21,Croydon,Age9,55-64,54.5,19.2,26.3,82,165.2,False
+2020-21,Croydon,Age9,65-74,65.8,18.1,16.2,61,99.4,False
+2020-21,Croydon,Age9,75-84,55.6,13.5,30.9,43,87.8,False
+2020-21,Croydon,Age9,85+,46.2,0.0,53.8,5,9.3,True
+2020-21,Ealing,Age9,16-24,68.8,3.8,27.4,35,127.9,False
+2020-21,Ealing,Age9,25-34,60.3,9.1,30.6,104,244.5,False
+2020-21,Ealing,Age9,35-44,58.1,20.7,21.2,85,164.8,False
+2020-21,Ealing,Age9,45-54,64.3,10.4,25.3,95,178.6,False
+2020-21,Ealing,Age9,55-64,66.2,9.0,24.7,89,157.3,False
+2020-21,Ealing,Age9,65-74,57.7,2.5,39.8,67,105.6,False
+2020-21,Ealing,Age9,75-84,43.6,18.9,37.6,24,43.1,True
+2020-21,Ealing,Age9,85+,48.2,0.0,51.8,3,4.6,True
+2020-21,Enfield,Age9,16-24,70.8,5.0,24.2,44,128.8,False
+2020-21,Enfield,Age9,25-34,65.7,15.5,18.8,49,132.1,False
+2020-21,Enfield,Age9,35-44,62.5,12.2,25.3,96,203.4,False
+2020-21,Enfield,Age9,45-54,62.7,8.2,29.2,104,219.5,False
+2020-21,Enfield,Age9,55-64,59.4,17.9,22.7,94,173.1,False
+2020-21,Enfield,Age9,65-74,58.9,18.4,22.7,67,85.5,False
+2020-21,Enfield,Age9,75-84,51.9,5.3,42.8,26,54.9,True
+2020-21,Enfield,Age9,85+,0.0,0.0,100.0,3,3.5,True
+2020-21,Greenwich,Age9,16-24,68.6,7.6,23.8,38,88.3,False
+2020-21,Greenwich,Age9,25-34,71.5,6.6,21.8,104,213.5,False
+2020-21,Greenwich,Age9,35-44,62.7,10.4,26.9,106,216.2,False
+2020-21,Greenwich,Age9,45-54,57.6,5.9,36.5,85,133.9,False
+2020-21,Greenwich,Age9,55-64,74.7,6.4,18.9,62,95.9,False
+2020-21,Greenwich,Age9,65-74,75.0,7.4,17.6,67,82.9,False
+2020-21,Greenwich,Age9,75-84,59.9,10.1,30.0,24,36.2,True
+2020-21,Greenwich,Age9,85+,29.7,0.0,70.3,5,9.6,True
+2020-21,Hackney,Age9,16-24,70.7,0.3,29.1,55,155.6,False
+2020-21,Hackney,Age9,25-34,79.7,6.5,13.8,131,267.2,False
+2020-21,Hackney,Age9,35-44,67.8,12.9,19.2,86,150.2,False
+2020-21,Hackney,Age9,45-54,68.1,6.8,25.1,70,98.9,False
+2020-21,Hackney,Age9,55-64,59.0,5.5,35.5,62,83.3,False
+2020-21,Hackney,Age9,65-74,61.8,7.3,30.9,57,76.2,False
+2020-21,Hackney,Age9,75-84,42.6,5.4,52.0,14,20.2,True
+2020-21,Hackney,Age9,85+,24.4,0.0,75.6,5,13.3,True
+2020-21,Hammersmith and Fulham,Age9,16-24,69.4,7.2,23.4,46,78.0,False
+2020-21,Hammersmith and Fulham,Age9,25-34,74.2,9.2,16.7,106,163.2,False
+2020-21,Hammersmith and Fulham,Age9,35-44,88.6,4.3,7.1,84,119.7,False
+2020-21,Hammersmith and Fulham,Age9,45-54,76.5,5.6,18.0,75,80.9,False
+2020-21,Hammersmith and Fulham,Age9,55-64,72.6,9.5,17.9,73,61.2,False
+2020-21,Hammersmith and Fulham,Age9,65-74,67.4,8.6,23.9,56,51.8,False
+2020-21,Hammersmith and Fulham,Age9,75-84,63.9,17.6,18.5,27,30.8,True
+2020-21,Hammersmith and Fulham,Age9,85+,50.0,15.3,34.7,6,9.4,True
+2020-21,Haringey,Age9,16-24,70.1,6.3,23.6,47,131.2,False
+2020-21,Haringey,Age9,25-34,67.0,11.5,21.5,82,152.6,False
+2020-21,Haringey,Age9,35-44,67.9,12.5,19.6,90,159.5,False
+2020-21,Haringey,Age9,45-54,68.2,9.9,21.9,91,144.2,False
+2020-21,Haringey,Age9,55-64,65.7,14.7,19.7,76,110.0,False
+2020-21,Haringey,Age9,65-74,69.2,9.1,21.7,63,73.6,False
+2020-21,Haringey,Age9,75-84,41.2,2.8,56.0,25,47.8,True
+2020-21,Haringey,Age9,85+,35.3,35.2,29.5,6,7.3,True
+2020-21,Harrow,Age9,16-24,56.6,15.3,28.1,48,117.1,False
+2020-21,Harrow,Age9,25-34,59.2,12.4,28.3,56,118.7,False
+2020-21,Harrow,Age9,35-44,53.8,14.3,31.9,104,165.0,False
+2020-21,Harrow,Age9,45-54,64.3,12.5,23.2,86,127.0,False
+2020-21,Harrow,Age9,55-64,66.7,13.3,20.0,93,117.0,False
+2020-21,Harrow,Age9,65-74,63.4,2.5,34.2,55,61.7,False
+2020-21,Harrow,Age9,75-84,63.6,9.7,26.7,38,50.4,False
+2020-21,Harrow,Age9,85+,68.1,0.0,31.9,11,11.7,True
+2020-21,Havering,Age9,16-24,51.5,16.4,32.1,19,44.9,True
+2020-21,Havering,Age9,25-34,43.1,12.1,44.8,61,111.3,False
+2020-21,Havering,Age9,35-44,72.1,7.7,20.2,68,133.7,False
+2020-21,Havering,Age9,45-54,69.4,7.7,22.8,74,138.0,False
+2020-21,Havering,Age9,55-64,60.5,17.9,21.5,90,148.9,False
+2020-21,Havering,Age9,65-74,69.6,14.9,15.5,101,128.2,False
+2020-21,Havering,Age9,75-84,66.0,4.6,29.5,41,70.7,False
+2020-21,Havering,Age9,85+,17.0,5.6,77.4,13,24.7,True
+2020-21,Hillingdon,Age9,16-24,57.2,0.0,42.8,31,77.5,False
+2020-21,Hillingdon,Age9,25-34,61.7,12.8,25.6,60,138.0,False
+2020-21,Hillingdon,Age9,35-44,54.3,10.7,35.0,106,209.7,False
+2020-21,Hillingdon,Age9,45-54,55.7,11.7,32.7,97,181.2,False
+2020-21,Hillingdon,Age9,55-64,53.3,16.3,30.4,71,130.5,False
+2020-21,Hillingdon,Age9,65-74,68.4,9.3,22.3,71,101.5,False
+2020-21,Hillingdon,Age9,75-84,40.5,8.0,51.5,39,67.1,False
+2020-21,Hillingdon,Age9,85+,45.3,21.2,33.5,9,12.3,True
+2020-21,Hounslow,Age9,16-24,50.3,14.7,35.0,38,81.4,False
+2020-21,Hounslow,Age9,25-34,56.4,14.9,28.7,71,140.8,False
+2020-21,Hounslow,Age9,35-44,56.2,12.2,31.6,125,202.8,False
+2020-21,Hounslow,Age9,45-54,59.6,15.5,24.9,113,159.4,False
+2020-21,Hounslow,Age9,55-64,65.8,15.9,18.3,98,140.2,False
+2020-21,Hounslow,Age9,65-74,63.1,2.1,34.8,58,54.5,False
+2020-21,Hounslow,Age9,75-84,43.1,6.4,50.5,28,39.0,True
+2020-21,Hounslow,Age9,85+,66.4,0.0,33.6,5,5.5,True
+2020-21,Islington,Age9,16-24,70.1,15.3,14.6,51,112.9,False
+2020-21,Islington,Age9,25-34,81.8,9.0,9.1,154,244.4,False
+2020-21,Islington,Age9,35-44,71.6,7.0,21.4,95,146.6,False
+2020-21,Islington,Age9,45-54,82.8,10.7,6.4,80,104.8,False
+2020-21,Islington,Age9,55-64,70.0,7.1,22.9,80,91.2,False
+2020-21,Islington,Age9,65-74,60.9,8.9,30.2,40,49.6,False
+2020-21,Islington,Age9,75-84,39.5,12.4,48.1,19,34.5,True
+2020-21,Islington,Age9,85+,50.0,0.0,50.0,4,6.4,True
+2020-21,Kensington and Chelsea,Age9,16-24,75.5,5.6,18.8,33,63.9,False
+2020-21,Kensington and Chelsea,Age9,25-34,64.9,12.5,22.6,55,58.4,False
+2020-21,Kensington and Chelsea,Age9,35-44,60.6,16.6,22.9,79,74.6,False
+2020-21,Kensington and Chelsea,Age9,45-54,82.3,3.6,14.1,105,105.8,False
+2020-21,Kensington and Chelsea,Age9,55-64,67.5,18.5,14.1,97,79.0,False
+2020-21,Kensington and Chelsea,Age9,65-74,63.1,8.0,28.8,75,64.8,False
+2020-21,Kensington and Chelsea,Age9,75-84,59.8,1.5,38.7,44,46.8,False
+2020-21,Kensington and Chelsea,Age9,85+,18.9,7.7,73.4,10,8.3,True
+2020-21,Kingston upon Thames,Age9,16-24,77.8,12.9,9.3,29,66.8,True
+2020-21,Kingston upon Thames,Age9,25-34,76.4,6.0,17.6,69,86.7,False
+2020-21,Kingston upon Thames,Age9,35-44,70.2,13.5,16.3,89,102.5,False
+2020-21,Kingston upon Thames,Age9,45-54,67.9,11.3,20.8,99,119.8,False
+2020-21,Kingston upon Thames,Age9,55-64,68.7,8.4,22.9,85,77.8,False
+2020-21,Kingston upon Thames,Age9,65-74,73.1,6.2,20.7,60,51.5,False
+2020-21,Kingston upon Thames,Age9,75-84,54.6,7.5,38.0,36,41.9,False
+2020-21,Kingston upon Thames,Age9,85+,23.7,9.2,67.1,9,10.9,True
+2020-21,Lambeth,Age9,16-24,79.0,2.4,18.5,54,159.3,False
+2020-21,Lambeth,Age9,25-34,75.9,13.0,11.2,144,326.1,False
+2020-21,Lambeth,Age9,35-44,68.0,8.5,23.5,115,199.9,False
+2020-21,Lambeth,Age9,45-54,60.3,16.7,23.0,75,137.9,False
+2020-21,Lambeth,Age9,55-64,84.8,2.9,12.3,68,107.7,False
+2020-21,Lambeth,Age9,65-74,66.0,4.4,29.6,36,43.4,False
+2020-21,Lambeth,Age9,75-84,68.4,6.4,25.2,24,50.8,True
+2020-21,Lambeth,Age9,85+,0.0,0.0,100.0,2,3.2,True
+2020-21,Lewisham,Age9,16-24,58.7,14.8,26.6,28,86.1,True
+2020-21,Lewisham,Age9,25-34,78.8,10.3,10.9,97,217.3,False
+2020-21,Lewisham,Age9,35-44,77.7,11.0,11.3,131,270.4,False
+2020-21,Lewisham,Age9,45-54,72.6,9.0,18.4,96,171.6,False
+2020-21,Lewisham,Age9,55-64,66.1,14.5,19.4,62,85.0,False
+2020-21,Lewisham,Age9,65-74,75.4,11.4,13.2,49,60.0,False
+2020-21,Lewisham,Age9,75-84,22.8,21.8,55.4,16,35.8,True
+2020-21,Lewisham,Age9,85+,0.0,45.3,54.7,7,15.0,True
+2020-21,Merton,Age9,16-24,79.7,12.3,8.0,29,81.0,True
+2020-21,Merton,Age9,25-34,77.6,6.6,15.8,74,107.4,False
+2020-21,Merton,Age9,35-44,70.1,9.2,20.7,101,134.6,False
+2020-21,Merton,Age9,45-54,67.2,12.4,20.5,103,125.8,False
+2020-21,Merton,Age9,55-64,72.3,17.9,9.8,78,84.0,False
+2020-21,Merton,Age9,65-74,62.0,16.6,21.4,61,51.6,False
+2020-21,Merton,Age9,75-84,40.2,15.6,44.2,30,36.2,False
+2020-21,Merton,Age9,85+,21.5,12.0,66.4,11,10.6,True
+2020-21,Newham,Age9,16-24,48.5,18.3,33.2,62,191.3,False
+2020-21,Newham,Age9,25-34,67.1,7.3,25.6,141,298.8,False
+2020-21,Newham,Age9,35-44,63.8,9.5,26.7,124,259.1,False
+2020-21,Newham,Age9,45-54,62.3,14.0,23.7,67,113.6,False
+2020-21,Newham,Age9,55-64,52.5,5.2,42.3,56,105.1,False
+2020-21,Newham,Age9,65-74,32.3,18.3,49.4,32,40.5,False
+2020-21,Newham,Age9,75-84,29.1,10.1,60.8,18,24.6,True
+2020-21,Newham,Age9,85+,0.0,0.0,100.0,2,2.3,True
+2020-21,Redbridge,Age9,16-24,62.5,12.5,25.0,41,119.6,False
+2020-21,Redbridge,Age9,25-34,61.1,17.3,21.6,90,175.4,False
+2020-21,Redbridge,Age9,35-44,65.5,10.9,23.6,99,191.7,False
+2020-21,Redbridge,Age9,45-54,46.1,6.2,47.7,92,177.5,False
+2020-21,Redbridge,Age9,55-64,61.7,12.7,25.6,70,97.4,False
+2020-21,Redbridge,Age9,65-74,55.8,6.1,38.0,77,92.6,False
+2020-21,Redbridge,Age9,75-84,48.1,11.5,40.4,31,54.2,False
+2020-21,Redbridge,Age9,85+,19.3,9.0,71.7,8,7.4,True
+2020-21,Richmond upon Thames,Age9,16-24,81.3,3.2,15.5,27,73.5,True
+2020-21,Richmond upon Thames,Age9,25-34,77.6,12.9,9.5,51,69.8,False
+2020-21,Richmond upon Thames,Age9,35-44,72.2,13.0,14.7,85,108.8,False
+2020-21,Richmond upon Thames,Age9,45-54,76.4,7.8,15.8,107,135.7,False
+2020-21,Richmond upon Thames,Age9,55-64,87.2,1.7,11.2,93,85.1,False
+2020-21,Richmond upon Thames,Age9,65-74,74.7,7.8,17.5,73,65.3,False
+2020-21,Richmond upon Thames,Age9,75-84,53.5,11.4,35.1,53,73.4,False
+2020-21,Richmond upon Thames,Age9,85+,19.8,0.0,80.2,4,4.0,True
+2020-21,Southwark,Age9,16-24,74.7,4.9,20.4,54,157.0,False
+2020-21,Southwark,Age9,25-34,79.9,7.2,13.0,135,318.4,False
+2020-21,Southwark,Age9,35-44,75.4,5.8,18.7,105,218.2,False
+2020-21,Southwark,Age9,45-54,54.5,15.0,30.5,72,103.9,False
+2020-21,Southwark,Age9,55-64,72.8,7.3,19.9,57,100.6,False
+2020-21,Southwark,Age9,65-74,62.5,6.3,31.2,42,61.1,False
+2020-21,Southwark,Age9,75-84,49.7,7.1,43.2,19,29.2,True
+2020-21,Southwark,Age9,85+,0.0,0.0,100.0,5,10.1,True
+2020-21,Sutton,Age9,16-24,79.5,1.3,19.2,31,63.3,False
+2020-21,Sutton,Age9,25-34,73.0,4.3,22.7,65,88.5,False
+2020-21,Sutton,Age9,35-44,62.0,13.7,24.3,111,124.0,False
+2020-21,Sutton,Age9,45-54,56.0,10.1,33.9,106,123.8,False
+2020-21,Sutton,Age9,55-64,56.2,16.8,27.0,69,85.4,False
+2020-21,Sutton,Age9,65-74,62.1,7.1,30.8,86,71.8,False
+2020-21,Sutton,Age9,75-84,47.8,12.3,40.0,49,55.1,False
+2020-21,Sutton,Age9,85+,30.0,0.0,70.0,11,8.7,True
+2020-21,Tower Hamlets,Age9,16-24,55.0,13.4,31.6,68,169.8,False
+2020-21,Tower Hamlets,Age9,25-34,61.1,17.6,21.3,181,383.0,False
+2020-21,Tower Hamlets,Age9,35-44,66.5,6.8,26.8,102,208.6,False
+2020-21,Tower Hamlets,Age9,45-54,47.3,6.3,46.4,64,113.7,False
+2020-21,Tower Hamlets,Age9,55-64,74.8,8.4,16.8,49,78.1,False
+2020-21,Tower Hamlets,Age9,65-74,19.7,19.7,60.6,11,17.0,True
+2020-21,Tower Hamlets,Age9,75-84,37.8,0.0,62.2,4,8.4,True
+2020-21,Tower Hamlets,Age9,85+,0.0,16.0,84.0,5,7.3,True
+2020-21,Waltham Forest,Age9,16-24,58.8,14.0,27.3,39,103.2,False
+2020-21,Waltham Forest,Age9,25-34,70.1,9.9,20.0,114,198.2,False
+2020-21,Waltham Forest,Age9,35-44,62.2,14.0,23.8,136,241.6,False
+2020-21,Waltham Forest,Age9,45-54,60.3,16.1,23.7,81,109.8,False
+2020-21,Waltham Forest,Age9,55-64,58.1,11.5,30.4,65,103.2,False
+2020-21,Waltham Forest,Age9,65-74,46.6,17.7,35.7,38,43.1,False
+2020-21,Waltham Forest,Age9,75-84,54.2,14.7,31.1,24,34.3,True
+2020-21,Waltham Forest,Age9,85+,12.8,50.0,37.2,4,9.0,True
+2020-21,Wandsworth,Age9,16-24,74.6,4.7,20.7,35,118.3,False
+2020-21,Wandsworth,Age9,25-34,79.0,8.2,12.8,156,362.0,False
+2020-21,Wandsworth,Age9,35-44,80.0,8.2,11.8,109,209.2,False
+2020-21,Wandsworth,Age9,45-54,73.1,7.5,19.4,81,125.7,False
+2020-21,Wandsworth,Age9,55-64,79.0,2.7,18.3,68,116.7,False
+2020-21,Wandsworth,Age9,65-74,68.4,5.5,26.1,43,67.5,False
+2020-21,Wandsworth,Age9,75-84,54.4,7.8,37.9,26,48.1,True
+2020-21,Wandsworth,Age9,85+,53.9,22.7,23.3,4,5.2,True
+2020-21,Westminster,Age9,16-24,52.9,21.9,25.2,51,132.0,False
+2020-21,Westminster,Age9,25-34,63.5,15.9,20.6,107,225.4,False
+2020-21,Westminster,Age9,35-44,75.7,12.4,11.8,64,124.8,False
+2020-21,Westminster,Age9,45-54,69.2,11.0,19.7,67,92.8,False
+2020-21,Westminster,Age9,55-64,56.1,10.2,33.7,69,89.2,False
+2020-21,Westminster,Age9,65-74,80.2,8.8,11.0,81,117.4,False
+2020-21,Westminster,Age9,75-84,53.4,15.1,31.5,41,60.7,False
+2020-21,Westminster,Age9,85+,0.0,0.0,100.0,5,11.3,True
+2020-21,London,Gend3,Female,63.1,11.2,25.7,9040,13858.4,False
+2020-21,London,Gend3,Male,66.9,10.0,23.0,7179,13663.7,False
+2020-21,London,Gend3,Other,56.1,16.8,27.0,84,170.6,False
+2020-21,Barking and Dagenham,Gend3,Female,49.6,14.0,36.4,312,329.2,False
+2020-21,Barking and Dagenham,Gend3,Male,58.1,10.1,31.7,201,280.6,False
+2020-21,Barking and Dagenham,Gend3,Other,65.6,0.0,34.4,3,1.3,True
+2020-21,Barnet,Gend3,Female,64.8,12.5,22.7,281,575.0,False
+2020-21,Barnet,Gend3,Male,65.9,11.3,22.9,229,628.2,False
+2020-21,Barnet,Gend3,Other,0.0,0.0,100.0,1,0.8,True
+2020-21,Bexley,Gend3,Female,60.2,16.3,23.5,270,382.1,False
+2020-21,Bexley,Gend3,Male,59.8,11.1,29.1,221,382.3,False
+2020-21,Bexley,Gend3,Other,5.0,85.0,10.0,4,9.5,True
+2020-21,Brent,Gend3,Female,56.4,14.7,28.9,290,509.6,False
+2020-21,Brent,Gend3,Male,58.0,8.7,33.3,213,483.1,False
+2020-21,Brent,Gend3,Other,100.0,0.0,0.0,2,3.8,True
+2020-21,Bromley,Gend3,Female,70.7,11.2,18.1,279,566.2,False
+2020-21,Bromley,Gend3,Male,70.1,9.0,20.9,213,480.5,False
+2020-21,Bromley,Gend3,Other,100.0,0.0,0.0,2,6.9,True
+2020-21,Camden,Gend3,Female,68.6,8.7,22.7,281,401.8,False
+2020-21,Camden,Gend3,Male,70.7,8.9,20.4,218,461.2,False
+2020-21,Camden,Gend3,Other,48.8,5.1,46.1,6,18.6,True
+2020-21,City of London,Gend3,Female,38.2,11.7,50.0,144,13.3,False
+2020-21,City of London,Gend3,Male,55.0,15.4,29.6,166,19.3,False
+2020-21,City of London,Gend3,Other,37.6,0.0,62.4,2,0.1,True
+2020-21,Croydon,Gend3,Female,61.8,12.5,25.7,274,597.7,False
+2020-21,Croydon,Gend3,Male,64.9,11.5,23.6,226,559.3,False
+2020-21,Croydon,Gend3,Other,0.0,36.2,63.8,3,2.9,True
+2020-21,Ealing,Gend3,Female,57.8,9.7,32.5,270,490.5,False
+2020-21,Ealing,Gend3,Male,64.4,9.8,25.7,232,530.4,False
+2020-21,Ealing,Gend3,Other,53.6,29.2,17.3,6,16.6,True
+2020-21,Enfield,Gend3,Female,56.4,13.3,30.2,287,534.9,False
+2020-21,Enfield,Gend3,Male,69.3,10.1,20.5,201,471.4,False
+2020-21,Greenwich,Gend3,Female,67.1,6.8,26.1,286,509.0,False
+2020-21,Greenwich,Gend3,Male,64.9,9.1,25.9,202,354.7,False
+2020-21,Greenwich,Gend3,Other,100.0,0.0,0.0,5,14.6,True
+2020-21,Hackney,Gend3,Female,71.0,7.9,21.2,292,488.3,False
+2020-21,Hackney,Gend3,Male,67.1,5.1,27.8,189,372.2,False
+2020-21,Hackney,Gend3,Other,62.2,0.0,37.8,3,7.5,True
+2020-21,Hammersmith and Fulham,Gend3,Female,75.4,8.8,15.9,270,322.2,False
+2020-21,Hammersmith and Fulham,Gend3,Male,74.5,7.3,18.3,207,277.7,False
+2020-21,Haringey,Gend3,Female,60.6,10.5,28.9,266,406.4,False
+2020-21,Haringey,Gend3,Male,70.6,11.3,18.1,213,416.6,False
+2020-21,Haringey,Gend3,Other,78.3,0.0,21.7,4,7.5,True
+2020-21,Harrow,Gend3,Female,60.3,11.2,28.5,272,370.4,False
+2020-21,Harrow,Gend3,Male,60.9,13.3,25.7,222,405.1,False
+2020-21,Harrow,Gend3,Other,0.0,0.0,100.0,1,0.5,True
+2020-21,Havering,Gend3,Female,60.6,13.9,25.5,256,405.7,False
+2020-21,Havering,Gend3,Male,62.7,9.0,28.3,213,396.0,False
+2020-21,Havering,Gend3,Other,0.0,0.0,100.0,3,3.2,True
+2020-21,Hillingdon,Gend3,Female,51.6,12.8,35.6,260,439.9,False
+2020-21,Hillingdon,Gend3,Male,60.8,8.9,30.3,227,485.1,False
+2020-21,Hillingdon,Gend3,Other,100.0,0.0,0.0,1,3.3,True
+2020-21,Hounslow,Gend3,Female,54.8,13.9,31.3,285,379.6,False
+2020-21,Hounslow,Gend3,Male,60.5,12.6,26.9,246,440.2,False
+2020-21,Hounslow,Gend3,Other,100.0,0.0,0.0,3,2.4,True
+2020-21,Islington,Gend3,Female,71.0,10.8,18.2,301,430.8,False
+2020-21,Islington,Gend3,Male,77.6,7.3,15.1,219,351.7,False
+2020-21,Islington,Gend3,Other,37.8,46.8,15.4,4,8.2,True
+2020-21,Kensington and Chelsea,Gend3,Female,69.6,6.6,23.8,265,243.1,False
+2020-21,Kensington and Chelsea,Gend3,Male,66.9,12.4,20.7,234,258.9,False
+2020-21,Kensington and Chelsea,Gend3,Other,0.0,0.0,100.0,1,0.3,True
+2020-21,Kingston upon Thames,Gend3,Female,68.2,9.1,22.7,266,283.7,False
+2020-21,Kingston upon Thames,Gend3,Male,71.6,9.8,18.6,209,267.2,False
+2020-21,Kingston upon Thames,Gend3,Other,55.7,36.6,7.7,3,8.1,True
+2020-21,Lambeth,Gend3,Female,72.5,7.1,20.4,292,485.2,False
+2020-21,Lambeth,Gend3,Male,71.8,11.6,16.7,224,532.9,False
+2020-21,Lambeth,Gend3,Other,76.6,8.0,15.4,6,14.4,True
+2020-21,Lewisham,Gend3,Female,69.8,11.3,18.8,266,453.7,False
+2020-21,Lewisham,Gend3,Male,72.6,12.6,14.8,218,488.8,False
+2020-21,Lewisham,Gend3,Other,19.8,72.9,7.2,5,6.2,True
+2020-21,Merton,Gend3,Female,65.0,13.5,21.5,266,301.1,False
+2020-21,Merton,Gend3,Male,72.8,10.2,17.0,222,330.2,False
+2020-21,Merton,Gend3,Other,37.6,31.8,30.7,3,4.1,True
+2020-21,Newham,Gend3,Female,59.7,12.9,27.4,270,488.5,False
+2020-21,Newham,Gend3,Male,57.2,9.1,33.6,230,544.0,False
+2020-21,Newham,Gend3,Other,40.5,0.0,59.5,3,5.0,True
+2020-21,Redbridge,Gend3,Female,53.1,13.4,33.5,274,423.2,False
+2020-21,Redbridge,Gend3,Male,61.5,9.2,29.2,233,491.3,False
+2020-21,Redbridge,Gend3,Other,100.0,0.0,0.0,1,1.2,True
+2020-21,Richmond upon Thames,Gend3,Female,70.1,6.8,23.1,268,299.2,False
+2020-21,Richmond upon Thames,Gend3,Male,78.8,9.7,11.5,226,315.1,False
+2020-21,Richmond upon Thames,Gend3,Other,0.0,0.0,100.0,1,4.0,True
+2020-21,Southwark,Gend3,Female,66.5,8.4,25.0,280,520.7,False
+2020-21,Southwark,Gend3,Male,76.7,5.9,17.4,211,477.4,False
+2020-21,Southwark,Gend3,Other,93.1,0.0,6.9,3,8.9,True
+2020-21,Sutton,Gend3,Female,58.3,11.9,29.8,292,314.2,False
+2020-21,Sutton,Gend3,Male,67.0,7.5,25.5,236,306.5,False
+2020-21,Sutton,Gend3,Other,0.0,0.0,100.0,2,7.8,True
+2020-21,Tower Hamlets,Gend3,Female,53.7,12.0,34.2,265,464.2,False
+2020-21,Tower Hamlets,Gend3,Male,64.1,13.0,22.8,220,522.9,False
+2020-21,Tower Hamlets,Gend3,Other,0.0,0.0,100.0,1,1.1,True
+2020-21,Waltham Forest,Gend3,Female,59.9,16.0,24.0,305,468.4,False
+2020-21,Waltham Forest,Gend3,Male,62.6,10.4,26.9,200,378.2,False
+2020-21,Wandsworth,Gend3,Female,70.7,7.9,21.4,290,532.8,False
+2020-21,Wandsworth,Gend3,Male,81.3,6.4,12.3,234,523.4,False
+2020-21,Wandsworth,Gend3,Other,100.0,0.0,0.0,1,1.5,True
+2020-21,Westminster,Gend3,Female,65.5,11.5,23.1,265,427.9,False
+2020-21,Westminster,Gend3,Male,63.5,16.2,20.3,224,431.2,False
+2020-21,Westminster,Gend3,Other,100.0,0.0,0.0,1,0.6,True
+2020-21,London,Eth7,Asian (excl. Chinese),55.5,11.8,32.7,2283,5274.1,False
+2020-21,London,Eth7,Black,54.6,13.8,31.6,1009,2053.5,False
+2020-21,London,Eth7,Chinese,61.6,13.0,25.4,336,599.4,False
+2020-21,London,Eth7,Mixed,71.3,9.5,19.2,530,1099.3,False
+2020-21,London,Eth7,Other ethnic group,56.2,13.1,30.7,475,1011.2,False
+2020-21,London,Eth7,White British,71.0,9.7,19.3,8104,12003.3,False
+2020-21,London,Eth7,White Other,70.2,9.7,20.1,2572,4069.5,False
+2020-21,Barking and Dagenham,Eth7,Asian (excl. Chinese),54.6,9.1,36.4,112,163.5,False
+2020-21,Barking and Dagenham,Eth7,Black,50.5,14.5,35.0,84,110.5,False
+2020-21,Barking and Dagenham,Eth7,Chinese,47.4,7.5,45.1,10,12.8,True
+2020-21,Barking and Dagenham,Eth7,Mixed,81.9,0.0,18.1,11,13.4,True
+2020-21,Barking and Dagenham,Eth7,Other ethnic group,53.4,10.0,36.6,9,9.4,True
+2020-21,Barking and Dagenham,Eth7,White British,52.3,13.9,33.8,201,198.5,False
+2020-21,Barking and Dagenham,Eth7,White Other,59.3,9.7,31.0,52,65.1,False
+2020-21,Barnet,Eth7,Asian (excl. Chinese),60.5,16.4,23.1,76,225.5,False
+2020-21,Barnet,Eth7,Black,65.5,8.8,25.8,20,69.9,True
+2020-21,Barnet,Eth7,Chinese,57.1,30.7,12.2,10,22.2,True
+2020-21,Barnet,Eth7,Mixed,65.6,4.1,30.3,14,31.6,True
+2020-21,Barnet,Eth7,Other ethnic group,72.7,10.1,17.3,24,67.2,True
+2020-21,Barnet,Eth7,White British,71.8,8.6,19.5,224,467.3,False
+2020-21,Barnet,Eth7,White Other,62.0,10.2,27.8,104,212.4,False
+2020-21,Bexley,Eth7,Asian (excl. Chinese),45.5,23.5,31.1,55,97.0,False
+2020-21,Bexley,Eth7,Black,59.2,11.7,29.0,27,47.9,True
+2020-21,Bexley,Eth7,Chinese,51.9,37.3,10.8,6,9.1,True
+2020-21,Bexley,Eth7,Mixed,75.8,12.5,11.7,9,17.4,True
+2020-21,Bexley,Eth7,Other ethnic group,29.9,9.9,60.2,7,13.3,True
+2020-21,Bexley,Eth7,White British,62.9,13.7,23.4,334,499.8,False
+2020-21,Bexley,Eth7,White Other,73.8,14.5,11.7,36,55.9,False
+2020-21,Brent,Eth7,Asian (excl. Chinese),49.1,14.7,36.3,172,432.3,False
+2020-21,Brent,Eth7,Black,71.3,10.0,18.7,51,101.8,False
+2020-21,Brent,Eth7,Chinese,42.7,0.0,57.3,9,10.1,True
+2020-21,Brent,Eth7,Mixed,48.2,16.1,35.7,28,58.3,True
+2020-21,Brent,Eth7,Other ethnic group,66.9,11.1,22.0,20,41.3,True
+2020-21,Brent,Eth7,White British,72.9,8.0,19.1,101,149.0,False
+2020-21,Brent,Eth7,White Other,70.8,8.7,20.6,75,113.1,False
+2020-21,Bromley,Eth7,Asian (excl. Chinese),62.7,21.6,15.7,23,66.2,True
+2020-21,Bromley,Eth7,Black,82.7,13.0,4.3,13,40.5,True
+2020-21,Bromley,Eth7,Chinese,100.0,0.0,0.0,5,9.6,True
+2020-21,Bromley,Eth7,Mixed,48.1,28.4,23.5,9,28.8,True
+2020-21,Bromley,Eth7,Other ethnic group,33.8,40.2,25.9,7,20.1,True
+2020-21,Bromley,Eth7,White British,70.8,7.7,21.5,383,769.0,False
+2020-21,Bromley,Eth7,White Other,80.8,7.1,12.1,43,90.0,False
+2020-21,Camden,Eth7,Asian (excl. Chinese),53.2,11.7,35.1,53,123.2,False
+2020-21,Camden,Eth7,Black,86.8,5.3,7.9,14,32.7,True
+2020-21,Camden,Eth7,Chinese,34.7,10.8,54.5,16,33.4,True
+2020-21,Camden,Eth7,Mixed,76.3,10.0,13.8,19,39.4,True
+2020-21,Camden,Eth7,Other ethnic group,74.6,0.0,25.4,14,32.3,True
+2020-21,Camden,Eth7,White British,73.5,8.1,18.4,240,409.6,False
+2020-21,Camden,Eth7,White Other,77.8,7.8,14.4,119,174.9,False
+2020-21,City of London,Eth7,Asian (excl. Chinese),39.8,30.4,29.8,12,1.1,True
+2020-21,City of London,Eth7,Black,0.0,32.8,67.2,6,0.7,True
+2020-21,City of London,Eth7,Chinese,69.1,10.2,20.7,13,1.5,True
+2020-21,City of London,Eth7,Mixed,63.0,17.6,19.4,9,1.1,True
+2020-21,City of London,Eth7,Other ethnic group,78.5,21.5,0.0,8,0.7,True
+2020-21,City of London,Eth7,White British,44.9,14.3,40.7,220,23.2,False
+2020-21,City of London,Eth7,White Other,62.5,2.2,35.2,37,3.8,False
+2020-21,Croydon,Eth7,Asian (excl. Chinese),56.9,7.9,35.2,71,238.5,False
+2020-21,Croydon,Eth7,Black,50.8,24.0,25.2,57,150.4,False
+2020-21,Croydon,Eth7,Chinese,55.0,31.7,13.3,8,17.6,True
+2020-21,Croydon,Eth7,Mixed,76.3,12.8,10.9,19,38.3,True
+2020-21,Croydon,Eth7,Other ethnic group,86.1,2.9,10.9,7,23.6,True
+2020-21,Croydon,Eth7,White British,69.5,9.6,21.0,253,506.5,False
+2020-21,Croydon,Eth7,White Other,66.4,13.9,19.8,48,99.9,False
+2020-21,Ealing,Eth7,Asian (excl. Chinese),58.1,8.4,33.5,112,286.6,False
+2020-21,Ealing,Eth7,Black,54.6,16.7,28.7,29,80.4,True
+2020-21,Ealing,Eth7,Chinese,33.8,0.0,66.2,8,22.5,True
+2020-21,Ealing,Eth7,Mixed,39.0,5.7,55.3,20,31.5,True
+2020-21,Ealing,Eth7,Other ethnic group,71.0,5.4,23.6,20,58.3,True
+2020-21,Ealing,Eth7,White British,72.5,8.0,19.5,182,310.2,False
+2020-21,Ealing,Eth7,White Other,58.1,17.4,24.5,97,177.5,False
+2020-21,Enfield,Eth7,Asian (excl. Chinese),68.4,3.5,28.1,44,105.7,False
+2020-21,Enfield,Eth7,Black,38.0,15.7,46.3,54,123.5,False
+2020-21,Enfield,Eth7,Chinese,62.2,0.0,37.8,6,13.6,True
+2020-21,Enfield,Eth7,Mixed,67.8,0.0,32.2,9,20.0,True
+2020-21,Enfield,Eth7,Other ethnic group,83.0,2.5,14.4,20,56.9,True
+2020-21,Enfield,Eth7,White British,66.4,15.5,18.1,243,466.6,False
+2020-21,Enfield,Eth7,White Other,66.5,8.8,24.7,75,152.6,False
+2020-21,Greenwich,Eth7,Asian (excl. Chinese),44.3,3.8,51.9,51,132.4,False
+2020-21,Greenwich,Eth7,Black,53.6,8.8,37.6,41,86.3,False
+2020-21,Greenwich,Eth7,Chinese,78.3,7.5,14.2,20,36.4,True
+2020-21,Greenwich,Eth7,Mixed,76.6,13.2,10.2,10,23.6,True
+2020-21,Greenwich,Eth7,Other ethnic group,38.4,19.9,41.7,16,27.8,True
+2020-21,Greenwich,Eth7,White British,77.0,7.0,16.0,267,423.6,False
+2020-21,Greenwich,Eth7,White Other,69.6,11.1,19.3,61,97.0,False
+2020-21,Hackney,Eth7,Asian (excl. Chinese),62.9,7.3,29.9,45,105.6,False
+2020-21,Hackney,Eth7,Black,44.1,11.4,44.5,48,109.5,False
+2020-21,Hackney,Eth7,Chinese,100.0,0.0,0.0,5,13.3,True
+2020-21,Hackney,Eth7,Mixed,84.1,5.7,10.1,19,40.1,True
+2020-21,Hackney,Eth7,Other ethnic group,41.1,13.6,45.3,13,29.7,True
+2020-21,Hackney,Eth7,White British,72.5,5.6,21.9,217,342.3,False
+2020-21,Hackney,Eth7,White Other,89.4,3.2,7.4,99,168.5,False
+2020-21,Hammersmith and Fulham,Eth7,Asian (excl. Chinese),69.7,11.9,18.4,27,50.7,True
+2020-21,Hammersmith and Fulham,Eth7,Black,49.8,9.9,40.3,29,50.0,True
+2020-21,Hammersmith and Fulham,Eth7,Chinese,66.8,12.0,21.2,12,12.4,True
+2020-21,Hammersmith and Fulham,Eth7,Mixed,87.5,5.7,6.8,19,30.0,True
+2020-21,Hammersmith and Fulham,Eth7,Other ethnic group,83.3,3.8,12.9,15,21.8,True
+2020-21,Hammersmith and Fulham,Eth7,White British,78.2,9.0,12.8,242,265.5,False
+2020-21,Hammersmith and Fulham,Eth7,White Other,77.5,5.6,16.9,115,149.0,False
+2020-21,Haringey,Eth7,Asian (excl. Chinese),63.1,8.6,28.3,36,67.6,False
+2020-21,Haringey,Eth7,Black,51.5,5.0,43.5,33,68.3,False
+2020-21,Haringey,Eth7,Chinese,64.4,35.6,0.0,2,2.9,True
+2020-21,Haringey,Eth7,Mixed,66.6,6.0,27.4,18,47.9,True
+2020-21,Haringey,Eth7,Other ethnic group,38.2,34.9,27.0,24,56.4,True
+2020-21,Haringey,Eth7,White British,72.6,10.2,17.3,245,377.8,False
+2020-21,Haringey,Eth7,White Other,67.9,9.7,22.4,90,156.7,False
+2020-21,Harrow,Eth7,Asian (excl. Chinese),58.5,12.1,29.4,220,398.8,False
+2020-21,Harrow,Eth7,Black,49.5,14.5,36.0,26,44.4,True
+2020-21,Harrow,Eth7,Chinese,8.9,78.1,13.0,5,9.8,True
+2020-21,Harrow,Eth7,Mixed,72.9,9.9,17.2,13,22.1,True
+2020-21,Harrow,Eth7,Other ethnic group,80.7,17.7,1.7,18,28.3,True
+2020-21,Harrow,Eth7,White British,69.9,11.0,19.2,143,167.1,False
+2020-21,Harrow,Eth7,White Other,55.5,10.1,34.4,44,69.5,False
+2020-21,Havering,Eth7,Asian (excl. Chinese),44.2,11.0,44.7,40,79.7,False
+2020-21,Havering,Eth7,Black,51.6,18.4,30.0,20,28.5,True
+2020-21,Havering,Eth7,Mixed,43.2,36.7,20.1,5,11.3,True
+2020-21,Havering,Eth7,Other ethnic group,70.1,0.0,29.9,10,20.0,True
+2020-21,Havering,Eth7,White British,63.7,11.0,25.3,345,587.0,False
+2020-21,Havering,Eth7,White Other,71.0,6.7,22.3,35,57.3,False
+2020-21,Hillingdon,Eth7,Asian (excl. Chinese),51.9,10.3,37.7,112,303.9,False
+2020-21,Hillingdon,Eth7,Black,63.9,12.3,23.9,17,39.6,True
+2020-21,Hillingdon,Eth7,Chinese,44.5,18.0,37.5,8,13.8,True
+2020-21,Hillingdon,Eth7,Mixed,30.6,40.6,28.8,7,13.9,True
+2020-21,Hillingdon,Eth7,Other ethnic group,69.9,8.9,21.3,17,27.5,True
+2020-21,Hillingdon,Eth7,White British,62.7,10.2,27.1,236,361.6,False
+2020-21,Hillingdon,Eth7,White Other,55.7,9.5,34.8,60,108.8,False
+2020-21,Hounslow,Eth7,Asian (excl. Chinese),48.5,14.8,36.7,149,334.8,False
+2020-21,Hounslow,Eth7,Black,23.6,22.5,53.8,22,39.7,True
+2020-21,Hounslow,Eth7,Chinese,66.5,7.2,26.3,6,9.2,True
+2020-21,Hounslow,Eth7,Mixed,100.0,0.0,0.0,10,19.6,True
+2020-21,Hounslow,Eth7,Other ethnic group,62.7,12.4,24.9,15,25.3,True
+2020-21,Hounslow,Eth7,White British,65.3,13.9,20.8,205,236.7,False
+2020-21,Hounslow,Eth7,White Other,70.3,8.1,21.6,85,110.8,False
+2020-21,Islington,Eth7,Asian (excl. Chinese),76.4,4.5,19.1,28,44.8,True
+2020-21,Islington,Eth7,Black,72.3,2.0,25.7,29,53.3,True
+2020-21,Islington,Eth7,Chinese,71.1,14.1,14.8,24,51.0,True
+2020-21,Islington,Eth7,Mixed,83.5,8.8,7.6,27,44.9,True
+2020-21,Islington,Eth7,Other ethnic group,49.5,22.8,27.7,12,23.6,True
+2020-21,Islington,Eth7,White British,76.0,9.0,15.0,248,341.9,False
+2020-21,Islington,Eth7,White Other,73.4,7.9,18.7,125,187.7,False
+2020-21,Kensington and Chelsea,Eth7,Asian (excl. Chinese),76.4,7.1,16.5,23,30.2,True
+2020-21,Kensington and Chelsea,Eth7,Black,22.6,20.2,57.3,18,14.6,True
+2020-21,Kensington and Chelsea,Eth7,Chinese,47.5,30.7,21.8,12,13.3,True
+2020-21,Kensington and Chelsea,Eth7,Mixed,85.9,2.8,11.2,21,24.9,True
+2020-21,Kensington and Chelsea,Eth7,Other ethnic group,62.5,22.2,15.2,23,35.6,True
+2020-21,Kensington and Chelsea,Eth7,White British,71.0,7.4,21.6,236,220.0,False
+2020-21,Kensington and Chelsea,Eth7,White Other,74.0,4.4,21.6,119,114.4,False
+2020-21,Kingston upon Thames,Eth7,Asian (excl. Chinese),62.0,9.0,29.0,44,70.0,False
+2020-21,Kingston upon Thames,Eth7,Black,100.0,0.0,0.0,2,4.4,True
+2020-21,Kingston upon Thames,Eth7,Chinese,71.1,0.0,28.9,8,7.9,True
+2020-21,Kingston upon Thames,Eth7,Mixed,67.3,22.5,10.2,12,21.9,True
+2020-21,Kingston upon Thames,Eth7,Other ethnic group,66.6,11.0,22.4,12,23.5,True
+2020-21,Kingston upon Thames,Eth7,White British,70.4,10.2,19.4,298,326.2,False
+2020-21,Kingston upon Thames,Eth7,White Other,71.5,9.8,18.7,75,73.5,False
+2020-21,Lambeth,Eth7,Asian (excl. Chinese),72.7,8.1,19.2,16,32.2,True
+2020-21,Lambeth,Eth7,Black,44.2,13.3,42.5,51,103.5,False
+2020-21,Lambeth,Eth7,Chinese,56.3,13.6,30.1,7,21.9,True
+2020-21,Lambeth,Eth7,Mixed,89.5,0.0,10.5,25,83.0,True
+2020-21,Lambeth,Eth7,Other ethnic group,60.1,11.7,28.2,15,39.8,True
+2020-21,Lambeth,Eth7,White British,77.4,10.3,12.4,290,526.5,False
+2020-21,Lambeth,Eth7,White Other,75.1,7.0,17.9,82,170.6,False
+2020-21,Lewisham,Eth7,Asian (excl. Chinese),79.2,9.7,11.0,33,91.2,False
+2020-21,Lewisham,Eth7,Black,54.7,23.2,22.1,62,155.4,False
+2020-21,Lewisham,Eth7,Chinese,52.2,42.9,4.9,10,28.3,True
+2020-21,Lewisham,Eth7,Mixed,73.7,0.0,26.3,26,69.1,True
+2020-21,Lewisham,Eth7,Other ethnic group,29.6,36.4,34.0,8,24.1,True
+2020-21,Lewisham,Eth7,White British,79.5,6.1,14.3,259,432.6,False
+2020-21,Lewisham,Eth7,White Other,66.0,17.2,16.8,63,102.7,False
+2020-21,Merton,Eth7,Asian (excl. Chinese),69.4,12.0,18.6,52,81.6,False
+2020-21,Merton,Eth7,Black,43.6,30.5,25.9,26,37.4,True
+2020-21,Merton,Eth7,Chinese,74.5,0.0,25.5,14,20.7,True
+2020-21,Merton,Eth7,Mixed,94.0,1.6,4.4,15,27.3,True
+2020-21,Merton,Eth7,Other ethnic group,50.8,35.5,13.6,8,12.0,True
+2020-21,Merton,Eth7,White British,72.7,10.9,16.4,275,316.3,False
+2020-21,Merton,Eth7,White Other,58.2,12.9,28.9,74,102.8,False
+2020-21,Newham,Eth7,Asian (excl. Chinese),56.0,11.0,33.1,140,390.3,False
+2020-21,Newham,Eth7,Black,53.3,10.2,36.4,52,103.3,False
+2020-21,Newham,Eth7,Chinese,30.1,40.7,29.2,10,14.9,True
+2020-21,Newham,Eth7,Mixed,66.0,19.2,14.8,23,64.2,True
+2020-21,Newham,Eth7,Other ethnic group,49.6,5.2,45.2,16,33.9,True
+2020-21,Newham,Eth7,White British,59.7,7.6,32.7,117,183.8,False
+2020-21,Newham,Eth7,White Other,64.3,13.6,22.1,98,171.6,False
+2020-21,Redbridge,Eth7,Asian (excl. Chinese),57.6,12.0,30.4,159,376.5,False
+2020-21,Redbridge,Eth7,Black,78.4,1.5,20.1,34,63.8,False
+2020-21,Redbridge,Eth7,Chinese,61.5,11.7,26.8,15,28.2,True
+2020-21,Redbridge,Eth7,Mixed,45.0,39.0,16.0,10,21.7,True
+2020-21,Redbridge,Eth7,Other ethnic group,6.6,0.0,93.4,8,18.8,True
+2020-21,Redbridge,Eth7,White British,60.6,11.6,27.8,206,296.8,False
+2020-21,Redbridge,Eth7,White Other,48.4,4.8,46.8,39,61.0,False
+2020-21,Richmond upon Thames,Eth7,Asian (excl. Chinese),52.4,22.0,25.6,30,60.5,False
+2020-21,Richmond upon Thames,Eth7,Black,61.8,0.0,38.2,4,4.5,True
+2020-21,Richmond upon Thames,Eth7,Chinese,62.5,9.6,27.9,8,15.9,True
+2020-21,Richmond upon Thames,Eth7,Mixed,76.6,5.1,18.3,10,20.9,True
+2020-21,Richmond upon Thames,Eth7,Other ethnic group,74.3,0.0,25.7,9,16.7,True
+2020-21,Richmond upon Thames,Eth7,White British,76.5,6.5,17.0,349,402.9,False
+2020-21,Richmond upon Thames,Eth7,White Other,79.8,6.7,13.5,80,91.7,False
+2020-21,Southwark,Eth7,Asian (excl. Chinese),75.1,1.7,23.1,23,63.4,True
+2020-21,Southwark,Eth7,Black,53.6,9.0,37.3,41,96.8,False
+2020-21,Southwark,Eth7,Chinese,88.5,0.0,11.5,23,39.2,True
+2020-21,Southwark,Eth7,Mixed,51.6,0.0,48.4,13,31.8,True
+2020-21,Southwark,Eth7,Other ethnic group,40.2,10.9,48.9,24,59.0,True
+2020-21,Southwark,Eth7,White British,78.3,7.3,14.5,258,467.0,False
+2020-21,Southwark,Eth7,White Other,78.1,9.8,12.1,82,188.1,False
+2020-21,Sutton,Eth7,Asian (excl. Chinese),53.0,8.4,38.6,73,111.6,False
+2020-21,Sutton,Eth7,Black,84.1,15.9,0.0,11,13.5,True
+2020-21,Sutton,Eth7,Chinese,65.3,0.0,34.7,14,24.6,True
+2020-21,Sutton,Eth7,Mixed,47.9,3.0,49.1,15,18.7,True
+2020-21,Sutton,Eth7,Other ethnic group,57.7,0.0,42.3,13,19.3,True
+2020-21,Sutton,Eth7,White British,65.3,12.0,22.7,351,385.0,False
+2020-21,Sutton,Eth7,White Other,63.6,4.4,32.0,38,42.3,False
+2020-21,Tower Hamlets,Eth7,Asian (excl. Chinese),44.6,14.8,40.6,108,307.7,False
+2020-21,Tower Hamlets,Eth7,Black,65.0,10.0,25.0,19,34.2,True
+2020-21,Tower Hamlets,Eth7,Chinese,68.1,1.5,30.4,18,40.5,True
+2020-21,Tower Hamlets,Eth7,Mixed,85.3,12.3,2.4,16,27.0,True
+2020-21,Tower Hamlets,Eth7,Other ethnic group,11.1,2.7,86.1,10,26.3,True
+2020-21,Tower Hamlets,Eth7,White British,70.9,11.8,17.3,161,304.1,False
+2020-21,Tower Hamlets,Eth7,White Other,70.0,14.4,15.6,118,176.0,False
+2020-21,Waltham Forest,Eth7,Asian (excl. Chinese),44.5,18.7,36.8,60,167.3,False
+2020-21,Waltham Forest,Eth7,Black,58.0,21.4,20.7,35,69.1,False
+2020-21,Waltham Forest,Eth7,Chinese,0.0,100.0,0.0,1,0.8,True
+2020-21,Waltham Forest,Eth7,Mixed,75.9,2.2,21.9,22,42.0,True
+2020-21,Waltham Forest,Eth7,Other ethnic group,23.9,41.2,34.9,15,28.1,True
+2020-21,Waltham Forest,Eth7,White British,72.6,10.3,17.1,249,337.3,False
+2020-21,Waltham Forest,Eth7,White Other,66.4,11.1,22.5,89,138.4,False
+2020-21,Wandsworth,Eth7,Asian (excl. Chinese),60.6,4.9,34.5,46,138.8,False
+2020-21,Wandsworth,Eth7,Black,62.6,10.2,27.2,21,49.1,True
+2020-21,Wandsworth,Eth7,Chinese,77.9,0.0,22.1,10,24.8,True
+2020-21,Wandsworth,Eth7,Mixed,72.6,19.2,8.2,21,55.9,True
+2020-21,Wandsworth,Eth7,Other ethnic group,68.7,0.0,31.3,13,29.2,True
+2020-21,Wandsworth,Eth7,White British,80.2,7.0,12.8,303,538.5,False
+2020-21,Wandsworth,Eth7,White Other,81.3,5.9,12.9,95,195.3,False
+2020-21,Westminster,Eth7,Asian (excl. Chinese),53.4,17.4,29.1,38,94.9,False
+2020-21,Westminster,Eth7,Black,20.9,15.0,64.1,13,25.6,True
+2020-21,Westminster,Eth7,Chinese,47.6,16.8,35.5,13,17.2,True
+2020-21,Westminster,Eth7,Mixed,73.8,5.3,20.8,26,57.4,True
+2020-21,Westminster,Eth7,Other ethnic group,43.2,16.5,40.3,25,61.6,True
+2020-21,Westminster,Eth7,White British,69.9,15.3,14.8,223,363.0,False
+2020-21,Westminster,Eth7,White Other,70.7,14.2,15.1,120,190.7,False
+2020-21,London,IMD10,Fifth least deprived decile,67.2,8.2,24.5,1907,3237.0,False
+2020-21,London,IMD10,Fifth most deprived decile,64.8,11.4,23.9,1978,3440.8,False
+2020-21,London,IMD10,Fourth least deprived decile,68.8,10.2,21.1,1591,2596.8,False
+2020-21,London,IMD10,Fourth most deprived decile,64.0,10.3,25.7,2191,3961.2,False
+2020-21,London,IMD10,Least deprived decile,69.3,10.4,20.3,1019,1373.6,False
+2020-21,London,IMD10,Most deprived decile,58.1,12.9,29.0,264,470.2,False
+2020-21,London,IMD10,Second least deprived decile,71.0,10.7,18.3,1542,2313.4,False
+2020-21,London,IMD10,Second most deprived decile,57.4,11.4,31.2,1897,3450.5,False
+2020-21,London,IMD10,Third least deprived decile,69.1,11.3,19.6,1477,2294.3,False
+2020-21,London,IMD10,Third most deprived decile,61.9,11.5,26.6,2474,4614.4,False
+2020-21,Barking and Dagenham,IMD10,Fifth least deprived decile,33.5,55.5,10.9,8,8.3,True
+2020-21,Barking and Dagenham,IMD10,Fifth most deprived decile,72.3,6.0,21.7,36,50.8,False
+2020-21,Barking and Dagenham,IMD10,Fourth most deprived decile,49.4,10.8,39.8,57,78.1,False
+2020-21,Barking and Dagenham,IMD10,Most deprived decile,20.6,12.2,67.1,12,15.2,True
+2020-21,Barking and Dagenham,IMD10,Second most deprived decile,51.7,14.2,34.1,268,306.9,False
+2020-21,Barking and Dagenham,IMD10,Third most deprived decile,57.5,8.5,34.0,135,151.9,False
+2020-21,Barnet,IMD10,Fifth least deprived decile,60.0,7.7,32.3,73,176.5,False
+2020-21,Barnet,IMD10,Fifth most deprived decile,50.7,17.1,32.2,55,140.0,False
+2020-21,Barnet,IMD10,Fourth least deprived decile,66.7,12.4,20.9,86,192.6,False
+2020-21,Barnet,IMD10,Fourth most deprived decile,65.7,14.0,20.3,49,101.1,False
+2020-21,Barnet,IMD10,Least deprived decile,81.9,9.1,9.1,32,77.9,False
+2020-21,Barnet,IMD10,Second least deprived decile,82.4,6.7,10.9,80,166.8,False
+2020-21,Barnet,IMD10,Second most deprived decile,68.8,24.2,7.0,13,29.6,True
+2020-21,Barnet,IMD10,Third least deprived decile,60.1,12.8,27.1,83,215.5,False
+2020-21,Barnet,IMD10,Third most deprived decile,62.5,13.0,24.5,41,107.5,False
+2020-21,Bexley,IMD10,Fifth least deprived decile,43.4,26.1,30.5,45,78.6,False
+2020-21,Bexley,IMD10,Fifth most deprived decile,72.8,12.9,14.2,63,107.8,False
+2020-21,Bexley,IMD10,Fourth least deprived decile,65.6,8.7,25.7,58,94.4,False
+2020-21,Bexley,IMD10,Fourth most deprived decile,68.7,6.6,24.7,47,63.6,False
+2020-21,Bexley,IMD10,Least deprived decile,50.8,10.7,38.5,58,87.6,False
+2020-21,Bexley,IMD10,Second least deprived decile,60.9,12.1,27.0,99,146.6,False
+2020-21,Bexley,IMD10,Second most deprived decile,50.4,26.7,23.0,17,22.4,True
+2020-21,Bexley,IMD10,Third least deprived decile,59.7,22.1,18.1,72,110.9,False
+2020-21,Bexley,IMD10,Third most deprived decile,49.7,12.0,38.3,38,67.6,False
+2020-21,Brent,IMD10,Fifth least deprived decile,58.3,9.0,32.7,75,159.2,False
+2020-21,Brent,IMD10,Fifth most deprived decile,55.4,16.6,28.0,107,233.6,False
+2020-21,Brent,IMD10,Fourth least deprived decile,45.3,12.2,42.5,28,59.6,True
+2020-21,Brent,IMD10,Fourth most deprived decile,53.4,6.4,40.2,121,214.2,False
+2020-21,Brent,IMD10,Most deprived decile,27.7,6.9,65.4,23,37.6,True
+2020-21,Brent,IMD10,Second most deprived decile,64.8,17.6,17.6,50,105.2,False
+2020-21,Brent,IMD10,Third least deprived decile,60.8,24.0,15.2,24,42.4,True
+2020-21,Brent,IMD10,Third most deprived decile,70.5,9.3,20.3,79,148.0,False
+2020-21,Bromley,IMD10,Fifth least deprived decile,68.1,8.9,23.0,35,76.5,False
+2020-21,Bromley,IMD10,Fifth most deprived decile,72.3,14.4,13.3,33,65.4,False
+2020-21,Bromley,IMD10,Fourth least deprived decile,72.5,9.8,17.7,70,143.4,False
+2020-21,Bromley,IMD10,Fourth most deprived decile,86.9,0.0,13.1,30,79.2,False
+2020-21,Bromley,IMD10,Least deprived decile,66.7,11.5,21.8,105,218.9,False
+2020-21,Bromley,IMD10,Second least deprived decile,71.5,11.8,16.7,123,262.7,False
+2020-21,Bromley,IMD10,Second most deprived decile,48.4,0.0,51.6,12,22.1,True
+2020-21,Bromley,IMD10,Third least deprived decile,67.9,9.6,22.5,68,139.0,False
+2020-21,Bromley,IMD10,Third most deprived decile,71.5,14.4,14.1,19,47.9,True
+2020-21,Camden,IMD10,Fifth least deprived decile,71.4,2.8,25.8,70,103.7,False
+2020-21,Camden,IMD10,Fifth most deprived decile,67.0,8.9,24.1,63,94.6,False
+2020-21,Camden,IMD10,Fourth least deprived decile,85.8,3.2,11.0,39,66.2,False
+2020-21,Camden,IMD10,Fourth most deprived decile,84.2,5.7,10.1,80,167.9,False
+2020-21,Camden,IMD10,Least deprived decile,68.6,17.3,14.1,33,64.5,False
+2020-21,Camden,IMD10,Second least deprived decile,66.7,10.5,22.7,42,52.5,False
+2020-21,Camden,IMD10,Second most deprived decile,53.0,9.5,37.5,86,172.3,False
+2020-21,Camden,IMD10,Third least deprived decile,49.9,15.0,35.2,36,51.4,False
+2020-21,Camden,IMD10,Third most deprived decile,72.2,12.2,15.6,57,109.3,False
+2020-21,City of London,IMD10,Fifth least deprived decile,79.1,6.0,14.9,24,2.4,True
+2020-21,City of London,IMD10,Fifth most deprived decile,22.9,22.7,54.4,51,5.3,False
+2020-21,City of London,IMD10,Fourth least deprived decile,75.5,7.8,16.6,38,3.8,False
+2020-21,City of London,IMD10,Least deprived decile,49.4,13.3,37.3,92,9.0,False
+2020-21,City of London,IMD10,Second least deprived decile,44.2,15.1,40.7,95,11.1,False
+2020-21,City of London,IMD10,Third most deprived decile,38.2,2.1,59.7,12,1.2,True
+2020-21,Croydon,IMD10,Fifth least deprived decile,58.4,13.8,27.8,48,104.4,False
+2020-21,Croydon,IMD10,Fifth most deprived decile,58.2,13.2,28.6,75,172.1,False
+2020-21,Croydon,IMD10,Fourth least deprived decile,68.2,13.0,18.8,45,101.5,False
+2020-21,Croydon,IMD10,Fourth most deprived decile,71.2,7.4,21.4,59,171.9,False
+2020-21,Croydon,IMD10,Least deprived decile,64.3,8.6,27.1,10,26.5,True
+2020-21,Croydon,IMD10,Most deprived decile,60.4,5.5,34.1,12,34.7,True
+2020-21,Croydon,IMD10,Second least deprived decile,56.4,16.8,26.8,48,107.4,False
+2020-21,Croydon,IMD10,Second most deprived decile,59.9,9.2,30.9,46,104.0,False
+2020-21,Croydon,IMD10,Third least deprived decile,78.2,11.3,10.5,65,139.1,False
+2020-21,Croydon,IMD10,Third most deprived decile,55.3,15.0,29.7,95,198.3,False
+2020-21,Ealing,IMD10,Fifth least deprived decile,65.4,7.7,26.9,70,131.5,False
+2020-21,Ealing,IMD10,Fifth most deprived decile,50.4,10.9,38.6,34,64.0,False
+2020-21,Ealing,IMD10,Fourth least deprived decile,81.9,2.1,16.0,79,157.6,False
+2020-21,Ealing,IMD10,Fourth most deprived decile,56.9,9.3,33.8,105,212.8,False
+2020-21,Ealing,IMD10,Least deprived decile,38.2,18.3,43.5,6,8.0,True
+2020-21,Ealing,IMD10,Most deprived decile,25.3,40.7,34.0,6,11.9,True
+2020-21,Ealing,IMD10,Second least deprived decile,78.4,3.2,18.4,35,66.6,False
+2020-21,Ealing,IMD10,Second most deprived decile,50.6,16.3,33.1,76,190.5,False
+2020-21,Ealing,IMD10,Third least deprived decile,69.3,10.0,20.7,35,64.2,False
+2020-21,Ealing,IMD10,Third most deprived decile,51.0,14.3,34.7,62,130.5,False
+2020-21,Enfield,IMD10,Fifth least deprived decile,77.0,6.9,16.0,68,140.0,False
+2020-21,Enfield,IMD10,Fifth most deprived decile,67.6,1.7,30.6,38,78.0,False
+2020-21,Enfield,IMD10,Fourth least deprived decile,71.7,11.4,16.8,60,120.1,False
+2020-21,Enfield,IMD10,Fourth most deprived decile,65.4,18.6,16.0,47,118.0,False
+2020-21,Enfield,IMD10,Least deprived decile,67.7,28.2,4.1,5,11.4,True
+2020-21,Enfield,IMD10,Most deprived decile,62.6,17.0,20.4,17,34.3,True
+2020-21,Enfield,IMD10,Second least deprived decile,68.3,13.8,17.9,36,72.9,False
+2020-21,Enfield,IMD10,Second most deprived decile,48.8,9.8,41.4,93,197.0,False
+2020-21,Enfield,IMD10,Third least deprived decile,57.5,11.9,30.6,55,97.0,False
+2020-21,Enfield,IMD10,Third most deprived decile,53.7,16.3,30.0,69,137.6,False
+2020-21,Greenwich,IMD10,Fifth least deprived decile,69.1,4.2,26.7,69,130.0,False
+2020-21,Greenwich,IMD10,Fifth most deprived decile,74.9,7.2,18.0,68,108.0,False
+2020-21,Greenwich,IMD10,Fourth least deprived decile,80.7,12.1,7.2,61,99.2,False
+2020-21,Greenwich,IMD10,Fourth most deprived decile,70.9,9.4,19.7,91,155.5,False
+2020-21,Greenwich,IMD10,Second least deprived decile,70.4,0.0,29.6,9,24.2,True
+2020-21,Greenwich,IMD10,Second most deprived decile,57.1,7.4,35.5,85,173.1,False
+2020-21,Greenwich,IMD10,Third least deprived decile,78.1,10.3,11.6,36,54.2,False
+2020-21,Greenwich,IMD10,Third most deprived decile,49.5,6.6,43.9,76,135.6,False
+2020-21,Hackney,IMD10,Fifth least deprived decile,94.2,5.8,0.0,11,20.1,True
+2020-21,Hackney,IMD10,Fifth most deprived decile,66.3,12.1,21.7,21,38.0,True
+2020-21,Hackney,IMD10,Fourth most deprived decile,69.0,4.8,26.2,64,97.3,False
+2020-21,Hackney,IMD10,Most deprived decile,71.5,6.7,21.8,49,96.3,False
+2020-21,Hackney,IMD10,Second most deprived decile,63.7,8.0,28.3,154,269.9,False
+2020-21,Hackney,IMD10,Third most deprived decile,71.9,5.5,22.6,185,346.3,False
+2020-21,Hammersmith and Fulham,IMD10,Fifth least deprived decile,79.8,4.6,15.6,65,86.6,False
+2020-21,Hammersmith and Fulham,IMD10,Fifth most deprived decile,65.3,13.9,20.7,73,94.1,False
+2020-21,Hammersmith and Fulham,IMD10,Fourth least deprived decile,82.0,7.7,10.3,76,96.0,False
+2020-21,Hammersmith and Fulham,IMD10,Fourth most deprived decile,77.0,6.3,16.7,58,65.2,False
+2020-21,Hammersmith and Fulham,IMD10,Most deprived decile,74.1,0.0,25.9,5,3.0,True
+2020-21,Hammersmith and Fulham,IMD10,Second least deprived decile,86.8,10.7,2.5,25,29.8,True
+2020-21,Hammersmith and Fulham,IMD10,Second most deprived decile,58.9,8.8,32.3,78,113.8,False
+2020-21,Hammersmith and Fulham,IMD10,Third least deprived decile,86.5,8.8,4.7,40,42.0,False
+2020-21,Hammersmith and Fulham,IMD10,Third most deprived decile,84.4,4.3,11.2,57,69.4,False
+2020-21,Haringey,IMD10,Fifth least deprived decile,72.7,10.5,16.7,55,84.3,False
+2020-21,Haringey,IMD10,Fifth most deprived decile,75.2,9.4,15.4,64,109.6,False
+2020-21,Haringey,IMD10,Fourth least deprived decile,78.3,2.7,19.1,31,41.7,False
+2020-21,Haringey,IMD10,Fourth most deprived decile,63.6,10.2,26.2,74,123.9,False
+2020-21,Haringey,IMD10,Most deprived decile,45.6,24.1,30.2,23,48.3,True
+2020-21,Haringey,IMD10,Second least deprived decile,63.3,11.3,25.5,25,41.1,True
+2020-21,Haringey,IMD10,Second most deprived decile,58.8,8.3,32.9,79,156.3,False
+2020-21,Haringey,IMD10,Third least deprived decile,57.5,11.5,31.0,40,58.7,False
+2020-21,Haringey,IMD10,Third most deprived decile,69.6,12.4,17.9,94,168.4,False
+2020-21,Harrow,IMD10,Fifth least deprived decile,61.8,18.1,20.1,78,125.6,False
+2020-21,Harrow,IMD10,Fifth most deprived decile,64.5,9.9,25.5,86,146.4,False
+2020-21,Harrow,IMD10,Fourth least deprived decile,48.2,16.3,35.6,99,152.2,False
+2020-21,Harrow,IMD10,Fourth most deprived decile,75.0,11.4,13.6,25,36.8,True
+2020-21,Harrow,IMD10,Least deprived decile,71.4,12.2,16.5,46,54.7,False
+2020-21,Harrow,IMD10,Second least deprived decile,66.3,5.1,28.6,56,84.0,False
+2020-21,Harrow,IMD10,Second most deprived decile,60.1,25.8,14.1,8,10.8,True
+2020-21,Harrow,IMD10,Third least deprived decile,56.4,9.3,34.2,64,112.0,False
+2020-21,Harrow,IMD10,Third most deprived decile,63.6,9.0,27.4,34,56.6,False
+2020-21,Havering,IMD10,Fifth least deprived decile,72.9,7.6,19.4,54,93.7,False
+2020-21,Havering,IMD10,Fifth most deprived decile,48.9,15.7,35.4,76,107.9,False
+2020-21,Havering,IMD10,Fourth least deprived decile,52.7,8.5,38.8,73,105.8,False
+2020-21,Havering,IMD10,Fourth most deprived decile,62.0,11.6,26.5,32,67.5,False
+2020-21,Havering,IMD10,Least deprived decile,70.4,5.1,24.6,49,104.3,False
+2020-21,Havering,IMD10,Second least deprived decile,56.5,18.6,24.9,81,154.0,False
+2020-21,Havering,IMD10,Second most deprived decile,76.5,3.1,20.4,18,32.9,True
+2020-21,Havering,IMD10,Third least deprived decile,61.0,13.5,25.4,55,88.7,False
+2020-21,Havering,IMD10,Third most deprived decile,70.6,8.6,20.9,37,52.3,False
+2020-21,Hillingdon,IMD10,Fifth least deprived decile,73.2,3.8,23.0,50,86.8,False
+2020-21,Hillingdon,IMD10,Fifth most deprived decile,45.4,9.6,45.0,68,146.9,False
+2020-21,Hillingdon,IMD10,Fourth least deprived decile,42.3,7.0,50.7,29,57.7,True
+2020-21,Hillingdon,IMD10,Fourth most deprived decile,48.3,11.4,40.2,78,153.7,False
+2020-21,Hillingdon,IMD10,Least deprived decile,46.7,15.2,38.1,44,61.8,False
+2020-21,Hillingdon,IMD10,Second least deprived decile,74.6,2.7,22.7,86,165.8,False
+2020-21,Hillingdon,IMD10,Second most deprived decile,69.5,24.6,6.0,8,19.8,True
+2020-21,Hillingdon,IMD10,Third least deprived decile,62.3,23.3,14.4,44,78.6,False
+2020-21,Hillingdon,IMD10,Third most deprived decile,51.4,14.6,33.9,83,161.5,False
+2020-21,Hounslow,IMD10,Fifth least deprived decile,59.6,8.5,31.9,121,174.0,False
+2020-21,Hounslow,IMD10,Fifth most deprived decile,55.9,16.4,27.7,93,153.9,False
+2020-21,Hounslow,IMD10,Fourth least deprived decile,71.0,5.7,23.3,51,73.2,False
+2020-21,Hounslow,IMD10,Fourth most deprived decile,53.6,12.5,34.0,137,200.8,False
+2020-21,Hounslow,IMD10,Least deprived decile,100.0,0.0,0.0,1,0.7,True
+2020-21,Hounslow,IMD10,Most deprived decile,15.9,24.6,59.5,4,4.8,True
+2020-21,Hounslow,IMD10,Second least deprived decile,69.9,30.1,0.0,7,8.4,True
+2020-21,Hounslow,IMD10,Second most deprived decile,45.0,12.0,43.0,23,28.3,True
+2020-21,Hounslow,IMD10,Third least deprived decile,89.1,1.1,9.8,35,42.8,False
+2020-21,Hounslow,IMD10,Third most deprived decile,49.3,23.8,26.9,66,139.8,False
+2020-21,Islington,IMD10,Fifth least deprived decile,86.7,5.6,7.7,62,85.7,False
+2020-21,Islington,IMD10,Fifth most deprived decile,79.8,10.6,9.5,52,72.9,False
+2020-21,Islington,IMD10,Fourth least deprived decile,83.0,12.1,5.0,42,58.3,False
+2020-21,Islington,IMD10,Fourth most deprived decile,66.3,10.7,23.0,113,178.9,False
+2020-21,Islington,IMD10,Most deprived decile,77.6,6.5,15.9,30,36.4,False
+2020-21,Islington,IMD10,Second most deprived decile,65.2,7.8,27.1,84,128.1,False
+2020-21,Islington,IMD10,Third least deprived decile,100.0,0.0,0.0,1,2.6,True
+2020-21,Islington,IMD10,Third most deprived decile,73.9,10.9,15.3,141,228.7,False
+2020-21,Kensington and Chelsea,IMD10,Fifth least deprived decile,69.1,5.0,25.9,76,71.4,False
+2020-21,Kensington and Chelsea,IMD10,Fifth most deprived decile,77.5,5.4,17.1,67,65.8,False
+2020-21,Kensington and Chelsea,IMD10,Fourth least deprived decile,66.3,13.5,20.2,44,48.5,False
+2020-21,Kensington and Chelsea,IMD10,Fourth most deprived decile,63.7,14.0,22.3,47,44.3,False
+2020-21,Kensington and Chelsea,IMD10,Most deprived decile,36.4,15.5,48.1,25,25.0,True
+2020-21,Kensington and Chelsea,IMD10,Second least deprived decile,82.3,10.0,7.7,30,29.7,False
+2020-21,Kensington and Chelsea,IMD10,Second most deprived decile,66.1,6.5,27.4,66,77.8,False
+2020-21,Kensington and Chelsea,IMD10,Third least deprived decile,70.7,11.4,17.9,114,106.4,False
+2020-21,Kensington and Chelsea,IMD10,Third most deprived decile,61.1,12.2,26.6,33,35.1,False
+2020-21,Kingston upon Thames,IMD10,Fifth least deprived decile,59.4,8.4,32.2,69,70.9,False
+2020-21,Kingston upon Thames,IMD10,Fifth most deprived decile,67.2,10.5,22.3,36,61.9,False
+2020-21,Kingston upon Thames,IMD10,Fourth least deprived decile,65.5,12.3,22.1,72,90.1,False
+2020-21,Kingston upon Thames,IMD10,Fourth most deprived decile,53.8,0.0,46.2,5,6.6,True
+2020-21,Kingston upon Thames,IMD10,Least deprived decile,65.9,11.8,22.3,79,80.5,False
+2020-21,Kingston upon Thames,IMD10,Second least deprived decile,76.2,10.4,13.4,119,127.8,False
+2020-21,Kingston upon Thames,IMD10,Second most deprived decile,14.8,11.0,74.2,3,4.6,True
+2020-21,Kingston upon Thames,IMD10,Third least deprived decile,76.3,7.8,15.8,90,105.3,False
+2020-21,Kingston upon Thames,IMD10,Third most deprived decile,100.0,0.0,0.0,5,11.5,True
+2020-21,Lambeth,IMD10,Fifth least deprived decile,84.0,2.8,13.2,82,130.1,False
+2020-21,Lambeth,IMD10,Fifth most deprived decile,75.9,5.4,18.8,88,203.8,False
+2020-21,Lambeth,IMD10,Fourth least deprived decile,91.8,0.0,8.2,14,32.5,True
+2020-21,Lambeth,IMD10,Fourth most deprived decile,70.7,12.4,16.9,110,210.3,False
+2020-21,Lambeth,IMD10,Second least deprived decile,91.1,0.0,8.9,3,6.6,True
+2020-21,Lambeth,IMD10,Second most deprived decile,57.8,21.8,20.3,95,198.6,False
+2020-21,Lambeth,IMD10,Third least deprived decile,82.7,0.0,17.3,17,31.6,True
+2020-21,Lambeth,IMD10,Third most deprived decile,69.7,5.7,24.6,117,228.3,False
+2020-21,Lewisham,IMD10,Fifth least deprived decile,75.7,10.3,14.1,61,123.1,False
+2020-21,Lewisham,IMD10,Fifth most deprived decile,77.4,11.8,10.9,82,146.2,False
+2020-21,Lewisham,IMD10,Fourth least deprived decile,62.1,13.1,24.8,27,47.2,True
+2020-21,Lewisham,IMD10,Fourth most deprived decile,68.7,10.9,20.4,109,180.4,False
+2020-21,Lewisham,IMD10,Most deprived decile,45.9,0.0,54.1,9,16.5,True
+2020-21,Lewisham,IMD10,Second most deprived decile,69.1,17.6,13.3,79,188.5,False
+2020-21,Lewisham,IMD10,Third least deprived decile,74.8,19.3,6.0,17,34.9,True
+2020-21,Lewisham,IMD10,Third most deprived decile,69.6,10.1,20.3,107,215.5,False
+2020-21,Merton,IMD10,Fifth least deprived decile,49.6,11.0,39.4,63,93.6,False
+2020-21,Merton,IMD10,Fifth most deprived decile,49.0,23.5,27.5,14,15.6,True
+2020-21,Merton,IMD10,Fourth least deprived decile,72.2,13.0,14.8,74,102.1,False
+2020-21,Merton,IMD10,Fourth most deprived decile,68.5,12.7,18.8,34,48.6,False
+2020-21,Merton,IMD10,Least deprived decile,72.6,14.5,12.9,119,142.5,False
+2020-21,Merton,IMD10,Second least deprived decile,83.0,5.1,11.9,80,101.4,False
+2020-21,Merton,IMD10,Second most deprived decile,0.0,44.8,55.2,5,8.0,True
+2020-21,Merton,IMD10,Third least deprived decile,79.2,7.2,13.6,71,77.9,False
+2020-21,Merton,IMD10,Third most deprived decile,59.7,15.5,24.9,31,45.8,False
+2020-21,Newham,IMD10,Fifth least deprived decile,100.0,0.0,0.0,2,3.9,True
+2020-21,Newham,IMD10,Fifth most deprived decile,72.9,4.3,22.8,45,84.3,False
+2020-21,Newham,IMD10,Fourth most deprived decile,64.0,9.3,26.7,96,224.2,False
+2020-21,Newham,IMD10,Most deprived decile,35.3,31.6,33.1,8,17.8,True
+2020-21,Newham,IMD10,Second most deprived decile,57.6,6.9,35.4,112,225.4,False
+2020-21,Newham,IMD10,Third least deprived decile,100.0,0.0,0.0,4,3.1,True
+2020-21,Newham,IMD10,Third most deprived decile,53.6,14.0,32.4,236,478.9,False
+2020-21,Redbridge,IMD10,Fifth least deprived decile,59.1,6.4,34.5,115,242.9,False
+2020-21,Redbridge,IMD10,Fifth most deprived decile,54.4,17.5,28.1,87,148.7,False
+2020-21,Redbridge,IMD10,Fourth least deprived decile,65.8,9.3,24.9,53,96.7,False
+2020-21,Redbridge,IMD10,Fourth most deprived decile,50.4,5.1,44.5,43,96.1,False
+2020-21,Redbridge,IMD10,Least deprived decile,54.2,19.7,26.1,26,34.4,True
+2020-21,Redbridge,IMD10,Second least deprived decile,62.5,16.8,20.7,55,79.7,False
+2020-21,Redbridge,IMD10,Second most deprived decile,34.1,6.6,59.2,8,17.9,True
+2020-21,Redbridge,IMD10,Third least deprived decile,61.3,10.6,28.1,74,111.1,False
+2020-21,Redbridge,IMD10,Third most deprived decile,55.2,15.2,29.6,48,89.0,False
+2020-21,Richmond upon Thames,IMD10,Fifth least deprived decile,61.1,4.7,34.2,19,27.7,True
+2020-21,Richmond upon Thames,IMD10,Fifth most deprived decile,85.0,0.0,15.0,21,27.9,True
+2020-21,Richmond upon Thames,IMD10,Fourth least deprived decile,81.3,8.6,10.2,50,64.3,False
+2020-21,Richmond upon Thames,IMD10,Fourth most deprived decile,6.3,47.2,46.5,8,27.6,True
+2020-21,Richmond upon Thames,IMD10,Least deprived decile,80.2,4.8,15.0,158,192.5,False
+2020-21,Richmond upon Thames,IMD10,Second least deprived decile,75.4,9.5,15.1,187,221.7,False
+2020-21,Richmond upon Thames,IMD10,Second most deprived decile,0.0,0.0,100.0,1,1.0,True
+2020-21,Richmond upon Thames,IMD10,Third least deprived decile,73.8,1.5,24.7,50,56.0,False
+2020-21,Richmond upon Thames,IMD10,Third most deprived decile,81.0,0.0,19.0,3,2.9,True
+2020-21,Southwark,IMD10,Fifth least deprived decile,69.2,10.9,19.9,66,113.3,False
+2020-21,Southwark,IMD10,Fifth most deprived decile,81.7,4.0,14.4,71,130.5,False
+2020-21,Southwark,IMD10,Fourth least deprived decile,73.6,0.0,26.4,16,25.5,True
+2020-21,Southwark,IMD10,Fourth most deprived decile,71.6,7.3,21.2,81,167.3,False
+2020-21,Southwark,IMD10,Least deprived decile,100.0,0.0,0.0,5,11.4,True
+2020-21,Southwark,IMD10,Most deprived decile,81.7,10.0,8.3,14,24.9,True
+2020-21,Southwark,IMD10,Second least deprived decile,87.9,0.0,12.1,20,28.4,True
+2020-21,Southwark,IMD10,Second most deprived decile,68.1,7.8,24.1,74,157.9,False
+2020-21,Southwark,IMD10,Third least deprived decile,70.0,14.3,15.8,18,36.4,True
+2020-21,Southwark,IMD10,Third most deprived decile,66.9,7.2,26.0,130,312.5,False
+2020-21,Sutton,IMD10,Fifth least deprived decile,51.2,3.5,45.3,34,32.9,False
+2020-21,Sutton,IMD10,Fifth most deprived decile,40.0,17.1,42.9,46,53.8,False
+2020-21,Sutton,IMD10,Fourth least deprived decile,65.4,8.1,26.5,105,130.0,False
+2020-21,Sutton,IMD10,Fourth most deprived decile,45.4,16.8,37.8,42,47.3,False
+2020-21,Sutton,IMD10,Least deprived decile,70.3,5.5,24.1,113,122.1,False
+2020-21,Sutton,IMD10,Most deprived decile,61.2,0.0,38.8,3,7.1,True
+2020-21,Sutton,IMD10,Second least deprived decile,63.3,17.6,19.1,74,95.3,False
+2020-21,Sutton,IMD10,Second most deprived decile,43.5,10.3,46.1,19,23.7,True
+2020-21,Sutton,IMD10,Third least deprived decile,70.4,4.6,25.0,85,100.6,False
+2020-21,Sutton,IMD10,Third most deprived decile,73.8,4.7,21.5,11,18.8,True
+2020-21,Tower Hamlets,IMD10,Fifth least deprived decile,73.4,7.4,19.2,30,55.0,False
+2020-21,Tower Hamlets,IMD10,Fifth most deprived decile,73.0,5.6,21.3,46,96.1,False
+2020-21,Tower Hamlets,IMD10,Fourth least deprived decile,64.1,9.7,26.2,34,58.1,False
+2020-21,Tower Hamlets,IMD10,Fourth most deprived decile,54.2,22.6,23.2,70,162.1,False
+2020-21,Tower Hamlets,IMD10,Least deprived decile,0.0,42.6,57.4,3,2.8,True
+2020-21,Tower Hamlets,IMD10,Most deprived decile,61.3,38.7,0.0,7,17.4,True
+2020-21,Tower Hamlets,IMD10,Second least deprived decile,83.7,12.7,3.6,12,20.5,True
+2020-21,Tower Hamlets,IMD10,Second most deprived decile,52.2,9.1,38.7,118,260.7,False
+2020-21,Tower Hamlets,IMD10,Third least deprived decile,77.1,10.0,12.9,22,39.6,True
+2020-21,Tower Hamlets,IMD10,Third most deprived decile,56.1,12.4,31.5,144,276.1,False
+2020-21,Waltham Forest,IMD10,Fifth least deprived decile,62.8,1.0,36.2,71,125.0,False
+2020-21,Waltham Forest,IMD10,Fifth most deprived decile,61.6,17.0,21.5,81,138.8,False
+2020-21,Waltham Forest,IMD10,Fourth least deprived decile,68.8,14.7,16.5,25,49.5,True
+2020-21,Waltham Forest,IMD10,Fourth most deprived decile,64.5,11.5,24.0,171,254.9,False
+2020-21,Waltham Forest,IMD10,Most deprived decile,47.5,24.7,27.8,7,6.4,True
+2020-21,Waltham Forest,IMD10,Second least deprived decile,32.4,51.4,16.2,3,5.5,True
+2020-21,Waltham Forest,IMD10,Second most deprived decile,57.1,4.5,38.5,42,64.8,False
+2020-21,Waltham Forest,IMD10,Third least deprived decile,42.7,57.3,0.0,2,3.7,True
+2020-21,Waltham Forest,IMD10,Third most deprived decile,56.5,22.2,21.3,103,198.1,False
+2020-21,Wandsworth,IMD10,Fifth least deprived decile,76.9,8.6,14.6,91,189.7,False
+2020-21,Wandsworth,IMD10,Fifth most deprived decile,76.2,6.6,17.2,69,144.3,False
+2020-21,Wandsworth,IMD10,Fourth least deprived decile,75.4,10.1,14.5,88,174.0,False
+2020-21,Wandsworth,IMD10,Fourth most deprived decile,62.3,2.0,35.7,40,111.0,False
+2020-21,Wandsworth,IMD10,Least deprived decile,83.1,13.0,3.9,22,34.2,True
+2020-21,Wandsworth,IMD10,Second least deprived decile,80.1,6.0,13.9,74,139.5,False
+2020-21,Wandsworth,IMD10,Second most deprived decile,76.3,0.0,23.7,9,18.6,True
+2020-21,Wandsworth,IMD10,Third least deprived decile,88.6,7.9,3.6,67,114.2,False
+2020-21,Wandsworth,IMD10,Third most deprived decile,69.5,6.3,24.3,65,132.1,False
+2020-21,Westminster,IMD10,Fifth least deprived decile,74.3,10.1,15.6,47,89.6,False
+2020-21,Westminster,IMD10,Fifth most deprived decile,59.7,17.2,23.1,69,133.6,False
+2020-21,Westminster,IMD10,Fourth least deprived decile,52.2,29.2,18.6,24,55.3,True
+2020-21,Westminster,IMD10,Fourth most deprived decile,74.8,10.1,15.2,68,94.1,False
+2020-21,Westminster,IMD10,Least deprived decile,86.1,9.7,4.2,13,27.9,True
+2020-21,Westminster,IMD10,Most deprived decile,94.9,5.1,0.0,10,32.6,True
+2020-21,Westminster,IMD10,Second least deprived decile,63.0,25.4,11.6,38,63.7,False
+2020-21,Westminster,IMD10,Second most deprived decile,47.3,15.1,37.6,68,120.3,False
+2020-21,Westminster,IMD10,Third least deprived decile,77.1,10.7,12.3,93,134.4,False
+2020-21,Westminster,IMD10,Third most deprived decile,50.5,7.7,41.8,61,111.2,False
+2020-21,London,Disab3,Limiting disability,52.0,12.9,35.1,2288,3765.3,False
+2020-21,London,Disab3,No disability,67.2,10.7,22.1,10449,17944.3,False
+2020-21,London,Disab3,Non-limiting disability,70.8,9.4,19.8,2520,4129.9,False
+2020-21,Barking and Dagenham,Disab3,Limiting disability,56.7,17.5,25.8,84,93.6,False
+2020-21,Barking and Dagenham,Disab3,No disability,53.0,11.9,35.1,327,414.4,False
+2020-21,Barking and Dagenham,Disab3,Non-limiting disability,50.4,12.4,37.2,65,64.5,False
+2020-21,Barnet,Disab3,Limiting disability,56.0,18.7,25.3,73,173.8,False
+2020-21,Barnet,Disab3,No disability,69.8,10.5,19.7,322,734.4,False
+2020-21,Barnet,Disab3,Non-limiting disability,61.8,14.0,24.2,86,212.0,False
+2020-21,Bexley,Disab3,Limiting disability,48.2,15.3,36.6,80,112.7,False
+2020-21,Bexley,Disab3,No disability,60.1,15.2,24.7,314,501.7,False
+2020-21,Bexley,Disab3,Non-limiting disability,68.9,14.1,17.0,73,113.1,False
+2020-21,Brent,Disab3,Limiting disability,54.3,8.0,37.7,82,159.6,False
+2020-21,Brent,Disab3,No disability,57.8,12.7,29.4,326,640.9,False
+2020-21,Brent,Disab3,Non-limiting disability,61.3,12.2,26.5,65,129.9,False
+2020-21,Bromley,Disab3,Limiting disability,47.3,16.1,36.5,70,151.5,False
+2020-21,Bromley,Disab3,No disability,74.7,9.9,15.3,293,628.4,False
+2020-21,Bromley,Disab3,Non-limiting disability,78.8,5.4,15.8,99,186.6,False
+2020-21,Camden,Disab3,Limiting disability,56.2,10.3,33.5,71,120.6,False
+2020-21,Camden,Disab3,No disability,72.7,7.4,19.9,330,593.4,False
+2020-21,Camden,Disab3,Non-limiting disability,66.8,12.9,20.3,75,114.3,False
+2020-21,City of London,Disab3,Limiting disability,38.0,2.4,59.6,29,2.8,True
+2020-21,City of London,Disab3,No disability,46.4,16.1,37.5,246,26.5,False
+2020-21,City of London,Disab3,Non-limiting disability,71.8,3.4,24.8,32,2.9,False
+2020-21,Croydon,Disab3,Limiting disability,46.4,18.9,34.8,72,136.5,False
+2020-21,Croydon,Disab3,No disability,65.6,12.6,21.9,331,821.5,False
+2020-21,Croydon,Disab3,Non-limiting disability,70.6,7.3,22.1,70,140.9,False
+2020-21,Ealing,Disab3,Limiting disability,38.4,14.2,47.4,62,116.2,False
+2020-21,Ealing,Disab3,No disability,63.7,10.4,25.9,320,684.1,False
+2020-21,Ealing,Disab3,Non-limiting disability,62.1,7.1,30.9,88,162.5,False
+2020-21,Enfield,Disab3,Limiting disability,47.6,20.2,32.2,66,128.6,False
+2020-21,Enfield,Disab3,No disability,65.0,10.3,24.7,313,673.5,False
+2020-21,Enfield,Disab3,Non-limiting disability,69.7,12.4,18.0,74,136.9,False
+2020-21,Greenwich,Disab3,Limiting disability,46.4,8.6,45.0,82,131.2,False
+2020-21,Greenwich,Disab3,No disability,67.4,8.0,24.6,300,555.2,False
+2020-21,Greenwich,Disab3,Non-limiting disability,80.1,6.9,13.0,88,156.6,False
+2020-21,Hackney,Disab3,Limiting disability,57.1,6.5,36.4,86,137.9,False
+2020-21,Hackney,Disab3,No disability,71.6,7.0,21.4,307,568.4,False
+2020-21,Hackney,Disab3,Non-limiting disability,77.5,5.5,17.0,61,105.6,False
+2020-21,Hammersmith and Fulham,Disab3,Limiting disability,73.3,12.0,14.6,72,86.8,False
+2020-21,Hammersmith and Fulham,Disab3,No disability,75.0,8.6,16.5,320,420.7,False
+2020-21,Hammersmith and Fulham,Disab3,Non-limiting disability,80.7,2.1,17.2,64,69.2,False
+2020-21,Haringey,Disab3,Limiting disability,49.1,8.5,42.4,76,142.8,False
+2020-21,Haringey,Disab3,No disability,69.3,13.4,17.3,298,502.4,False
+2020-21,Haringey,Disab3,Non-limiting disability,76.0,7.5,16.5,78,126.8,False
+2020-21,Harrow,Disab3,Limiting disability,49.2,2.8,48.0,58,101.9,False
+2020-21,Harrow,Disab3,No disability,63.8,12.4,23.8,332,498.9,False
+2020-21,Harrow,Disab3,Non-limiting disability,60.6,21.7,17.7,68,114.6,False
+2020-21,Havering,Disab3,Limiting disability,50.1,19.4,30.5,88,135.2,False
+2020-21,Havering,Disab3,No disability,65.6,10.5,23.9,284,510.9,False
+2020-21,Havering,Disab3,Non-limiting disability,60.4,8.5,31.2,80,119.1,False
+2020-21,Hillingdon,Disab3,Limiting disability,47.9,17.4,34.7,70,101.1,False
+2020-21,Hillingdon,Disab3,No disability,57.6,10.4,32.0,304,599.1,False
+2020-21,Hillingdon,Disab3,Non-limiting disability,64.3,10.4,25.4,73,147.4,False
+2020-21,Hounslow,Disab3,Limiting disability,42.9,11.1,46.0,84,119.6,False
+2020-21,Hounslow,Disab3,No disability,59.4,13.6,27.0,339,538.8,False
+2020-21,Hounslow,Disab3,Non-limiting disability,76.5,10.3,13.2,61,95.7,False
+2020-21,Islington,Disab3,Limiting disability,65.7,10.2,24.1,71,118.7,False
+2020-21,Islington,Disab3,No disability,75.6,8.5,15.9,341,493.9,False
+2020-21,Islington,Disab3,Non-limiting disability,80.4,10.3,9.3,85,132.2,False
+2020-21,Kensington and Chelsea,Disab3,Limiting disability,53.2,10.6,36.2,59,56.7,False
+2020-21,Kensington and Chelsea,Disab3,No disability,67.7,9.3,22.9,310,321.2,False
+2020-21,Kensington and Chelsea,Disab3,Non-limiting disability,81.9,8.9,9.3,89,87.1,False
+2020-21,Kingston upon Thames,Disab3,Limiting disability,63.5,14.0,22.6,48,54.1,False
+2020-21,Kingston upon Thames,Disab3,No disability,71.3,8.3,20.4,310,373.3,False
+2020-21,Kingston upon Thames,Disab3,Non-limiting disability,75.5,11.0,13.5,95,102.0,False
+2020-21,Lambeth,Disab3,Limiting disability,75.8,5.1,19.0,64,128.1,False
+2020-21,Lambeth,Disab3,No disability,72.0,10.1,17.8,324,662.7,False
+2020-21,Lambeth,Disab3,Non-limiting disability,79.7,8.5,11.8,98,172.7,False
+2020-21,Lewisham,Disab3,Limiting disability,68.3,11.4,20.2,71,147.0,False
+2020-21,Lewisham,Disab3,No disability,69.2,12.5,18.3,301,581.8,False
+2020-21,Lewisham,Disab3,Non-limiting disability,75.9,12.3,11.8,92,176.7,False
+2020-21,Merton,Disab3,Limiting disability,55.8,12.5,31.7,64,75.8,False
+2020-21,Merton,Disab3,No disability,72.4,13.0,14.6,308,383.6,False
+2020-21,Merton,Disab3,Non-limiting disability,69.9,6.1,24.1,81,111.1,False
+2020-21,Newham,Disab3,Limiting disability,46.1,12.3,41.6,71,121.8,False
+2020-21,Newham,Disab3,No disability,62.6,10.3,27.0,337,721.9,False
+2020-21,Newham,Disab3,Non-limiting disability,50.0,11.5,38.5,51,107.3,False
+2020-21,Redbridge,Disab3,Limiting disability,36.3,5.7,58.0,77,134.9,False
+2020-21,Redbridge,Disab3,No disability,63.4,11.4,25.2,312,583.5,False
+2020-21,Redbridge,Disab3,Non-limiting disability,60.8,11.5,27.7,77,129.4,False
+2020-21,Richmond upon Thames,Disab3,Limiting disability,48.4,18.0,33.6,58,76.7,False
+2020-21,Richmond upon Thames,Disab3,No disability,76.5,7.4,16.1,323,400.3,False
+2020-21,Richmond upon Thames,Disab3,Non-limiting disability,78.7,6.9,14.4,83,100.6,False
+2020-21,Southwark,Disab3,Limiting disability,62.0,6.2,31.8,68,142.3,False
+2020-21,Southwark,Disab3,No disability,72.0,8.8,19.2,312,647.7,False
+2020-21,Southwark,Disab3,Non-limiting disability,82.7,1.9,15.5,74,140.2,False
+2020-21,Sutton,Disab3,Limiting disability,44.7,10.7,44.6,77,78.0,False
+2020-21,Sutton,Disab3,No disability,66.4,10.6,23.0,337,422.6,False
+2020-21,Sutton,Disab3,Non-limiting disability,63.5,6.0,30.5,93,101.0,False
+2020-21,Tower Hamlets,Disab3,Limiting disability,38.3,32.3,29.4,64,148.1,False
+2020-21,Tower Hamlets,Disab3,No disability,63.7,11.2,25.1,311,584.5,False
+2020-21,Tower Hamlets,Disab3,Non-limiting disability,72.1,4.1,23.9,66,145.4,False
+2020-21,Waltham Forest,Disab3,Limiting disability,41.8,14.5,43.7,61,87.4,False
+2020-21,Waltham Forest,Disab3,No disability,62.2,12.3,25.5,336,574.5,False
+2020-21,Waltham Forest,Disab3,Non-limiting disability,74.4,15.9,9.8,80,129.4,False
+2020-21,Wandsworth,Disab3,Limiting disability,62.9,4.3,32.9,55,112.7,False
+2020-21,Wandsworth,Disab3,No disability,78.0,7.6,14.3,367,729.0,False
+2020-21,Wandsworth,Disab3,Non-limiting disability,72.9,7.4,19.7,81,171.6,False
+2020-21,Westminster,Disab3,Limiting disability,42.5,16.2,41.4,75,130.7,False
+2020-21,Westminster,Disab3,No disability,67.8,15.2,17.0,314,550.9,False
+2020-21,Westminster,Disab3,Non-limiting disability,73.3,8.8,17.9,75,124.4,False
+2020-21,London,LondInOut,E13000001 Inner London,68.4,9.8,21.8,6808,11459.5,False
+2020-21,London,LondInOut,E13000002 Outer London,62.5,11.3,26.2,9532,16292.7,False
+2020-21,Barking and Dagenham,LondInOut,E13000002 Outer London,53.5,12.2,34.3,516,611.2,False
+2020-21,Barnet,LondInOut,E13000002 Outer London,65.4,11.8,22.8,512,1207.4,False
+2020-21,Bexley,LondInOut,E13000002 Outer London,59.4,14.5,26.1,497,779.5,False
+2020-21,Brent,LondInOut,E13000002 Outer London,57.2,11.9,30.8,507,999.8,False
+2020-21,Bromley,LondInOut,E13000002 Outer London,70.7,10.1,19.3,495,1055.2,False
+2020-21,Camden,LondInOut,E13000001 Inner London,69.2,8.7,22.1,506,882.4,False
+2020-21,City of London,LondInOut,E13000001 Inner London,48.2,13.9,38.0,312,32.6,False
+2020-21,Croydon,LondInOut,E13000002 Outer London,63.1,12.1,24.8,503,1159.9,False
+2020-21,Ealing,LondInOut,E13000002 Outer London,61.1,10.1,28.8,508,1037.6,False
+2020-21,Enfield,LondInOut,E13000002 Outer London,62.5,11.8,25.7,488,1006.3,False
+2020-21,Greenwich,LondInOut,E13000002 Outer London,66.6,7.6,25.7,495,879.8,False
+2020-21,Hackney,LondInOut,E13000001 Inner London,69.2,6.6,24.1,484,868.0,False
+2020-21,Hammersmith and Fulham,LondInOut,E13000001 Inner London,74.9,8.1,17.0,477,599.9,False
+2020-21,Haringey,LondInOut,E13000001 Inner London,65.6,10.8,23.6,485,832.4,False
+2020-21,Harrow,LondInOut,E13000002 Outer London,60.8,12.3,27.0,496,779.0,False
+2020-21,Havering,LondInOut,E13000002 Outer London,61.4,11.4,27.2,475,807.1,False
+2020-21,Hillingdon,LondInOut,E13000002 Outer London,56.5,10.7,32.8,490,932.4,False
+2020-21,Hounslow,LondInOut,E13000002 Outer London,57.6,13.3,29.1,538,826.8,False
+2020-21,Islington,LondInOut,E13000001 Inner London,73.6,9.6,16.8,525,791.6,False
+2020-21,Kensington and Chelsea,LondInOut,E13000001 Inner London,67.9,9.6,22.5,502,504.2,False
+2020-21,Kingston upon Thames,LondInOut,E13000002 Outer London,69.6,9.8,20.5,478,559.1,False
+2020-21,Lambeth,LondInOut,E13000001 Inner London,71.9,9.3,18.8,526,1041.6,False
+2020-21,Lewisham,LondInOut,E13000001 Inner London,70.7,12.3,17.0,491,952.4,False
+2020-21,Merton,LondInOut,E13000002 Outer London,68.9,11.9,19.2,491,635.4,False
+2020-21,Newham,LondInOut,E13000001 Inner London,58.3,10.9,30.8,503,1037.5,False
+2020-21,Redbridge,LondInOut,E13000002 Outer London,57.7,11.1,31.2,509,916.5,False
+2020-21,Richmond upon Thames,LondInOut,E13000002 Outer London,74.0,8.2,17.8,497,621.5,False
+2020-21,Southwark,LondInOut,E13000001 Inner London,71.6,7.1,21.2,495,1008.2,False
+2020-21,Sutton,LondInOut,E13000002 Outer London,61.8,9.6,28.6,532,631.5,False
+2020-21,Tower Hamlets,LondInOut,E13000001 Inner London,59.2,12.6,28.3,486,988.2,False
+2020-21,Waltham Forest,LondInOut,E13000002 Outer London,61.1,13.5,25.3,505,846.6,False
+2020-21,Wandsworth,LondInOut,E13000001 Inner London,76.0,7.2,16.9,525,1057.7,False
+2020-21,Westminster,LondInOut,E13000001 Inner London,64.6,13.8,21.6,491,862.8,False
+2020-21,London,NSSEC5,NS SEC 1-2: Higher social groups,73.9,10.4,15.7,9295,12579.9,False
+2020-21,London,NSSEC5,NS SEC 3-5: Middle social groups,62.6,11.5,25.9,2692,5288.7,False
+2020-21,London,NSSEC5,NS SEC 6-8: Lower social groups,50.4,11.1,38.5,1607,3980.6,False
+2020-21,London,NSSEC5,NS SEC 9: Students and other / unclassified,62.3,10.4,27.3,1525,4006.9,False
+2020-21,Barking and Dagenham,NSSEC5,NS SEC 1-2: Higher social groups,54.2,11.5,34.3,211,176.0,False
+2020-21,Barking and Dagenham,NSSEC5,NS SEC 3-5: Middle social groups,48.1,14.4,37.5,113,154.4,False
+2020-21,Barking and Dagenham,NSSEC5,NS SEC 6-8: Lower social groups,58.4,7.3,34.3,94,142.2,False
+2020-21,Barking and Dagenham,NSSEC5,NS SEC 9: Students and other / unclassified,60.4,16.8,22.7,68,107.2,False
+2020-21,Barnet,NSSEC5,NS SEC 1-2: Higher social groups,72.3,10.3,17.4,297,560.0,False
+2020-21,Barnet,NSSEC5,NS SEC 3-5: Middle social groups,59.3,13.6,27.1,85,215.4,False
+2020-21,Barnet,NSSEC5,NS SEC 6-8: Lower social groups,40.4,20.7,38.9,32,130.9,False
+2020-21,Barnet,NSSEC5,NS SEC 9: Students and other / unclassified,73.2,7.3,19.5,54,194.9,False
+2020-21,Bexley,NSSEC5,NS SEC 1-2: Higher social groups,65.7,14.5,19.8,249,310.9,False
+2020-21,Bexley,NSSEC5,NS SEC 3-5: Middle social groups,57.9,19.0,23.1,111,190.3,False
+2020-21,Bexley,NSSEC5,NS SEC 6-8: Lower social groups,48.6,16.2,35.2,37,82.7,False
+2020-21,Bexley,NSSEC5,NS SEC 9: Students and other / unclassified,60.4,8.8,30.8,44,107.3,False
+2020-21,Brent,NSSEC5,NS SEC 1-2: Higher social groups,68.2,13.9,18.0,260,369.5,False
+2020-21,Brent,NSSEC5,NS SEC 3-5: Middle social groups,54.0,3.3,42.7,82,168.2,False
+2020-21,Brent,NSSEC5,NS SEC 6-8: Lower social groups,43.0,14.2,42.9,66,177.4,False
+2020-21,Brent,NSSEC5,NS SEC 9: Students and other / unclassified,59.8,14.0,26.2,62,222.4,False
+2020-21,Bromley,NSSEC5,NS SEC 1-2: Higher social groups,73.8,10.7,15.5,272,514.4,False
+2020-21,Bromley,NSSEC5,NS SEC 3-5: Middle social groups,74.6,6.3,19.1,105,244.9,False
+2020-21,Bromley,NSSEC5,NS SEC 6-8: Lower social groups,55.5,13.0,31.4,22,63.1,True
+2020-21,Bromley,NSSEC5,NS SEC 9: Students and other / unclassified,69.4,17.4,13.1,25,99.2,True
+2020-21,Camden,NSSEC5,NS SEC 1-2: Higher social groups,76.3,6.1,17.5,314,433.8,False
+2020-21,Camden,NSSEC5,NS SEC 3-5: Middle social groups,64.8,14.0,21.2,54,113.1,False
+2020-21,Camden,NSSEC5,NS SEC 6-8: Lower social groups,56.6,14.3,29.1,36,107.9,False
+2020-21,Camden,NSSEC5,NS SEC 9: Students and other / unclassified,69.5,6.1,24.4,64,168.4,False
+2020-21,City of London,NSSEC5,NS SEC 1-2: Higher social groups,57.9,13.7,28.4,195,16.4,False
+2020-21,City of London,NSSEC5,NS SEC 3-5: Middle social groups,48.8,9.1,42.2,36,3.5,False
+2020-21,City of London,NSSEC5,NS SEC 6-8: Lower social groups,23.5,12.5,64.1,30,4.7,False
+2020-21,City of London,NSSEC5,NS SEC 9: Students and other / unclassified,55.6,22.2,22.2,31,5.9,False
+2020-21,Croydon,NSSEC5,NS SEC 1-2: Higher social groups,68.8,14.3,16.9,284,518.0,False
+2020-21,Croydon,NSSEC5,NS SEC 3-5: Middle social groups,63.9,13.6,22.5,94,289.4,False
+2020-21,Croydon,NSSEC5,NS SEC 6-8: Lower social groups,44.6,7.5,47.9,49,142.6,False
+2020-21,Croydon,NSSEC5,NS SEC 9: Students and other / unclassified,65.7,3.8,30.5,28,112.7,True
+2020-21,Ealing,NSSEC5,NS SEC 1-2: Higher social groups,63.4,12.9,23.7,290,451.7,False
+2020-21,Ealing,NSSEC5,NS SEC 3-5: Middle social groups,68.2,10.0,21.9,95,238.8,False
+2020-21,Ealing,NSSEC5,NS SEC 6-8: Lower social groups,57.9,2.1,40.0,47,152.7,False
+2020-21,Ealing,NSSEC5,NS SEC 9: Students and other / unclassified,51.4,7.8,40.8,49,146.8,False
+2020-21,Enfield,NSSEC5,NS SEC 1-2: Higher social groups,69.3,11.3,19.3,251,402.6,False
+2020-21,Enfield,NSSEC5,NS SEC 3-5: Middle social groups,54.2,13.2,32.6,92,209.0,False
+2020-21,Enfield,NSSEC5,NS SEC 6-8: Lower social groups,53.3,18.3,28.3,69,185.4,False
+2020-21,Enfield,NSSEC5,NS SEC 9: Students and other / unclassified,72.1,6.1,21.8,47,151.0,False
+2020-21,Greenwich,NSSEC5,NS SEC 1-2: Higher social groups,75.9,9.6,14.5,286,422.9,False
+2020-21,Greenwich,NSSEC5,NS SEC 3-5: Middle social groups,59.0,7.8,33.2,94,188.3,False
+2020-21,Greenwich,NSSEC5,NS SEC 6-8: Lower social groups,57.2,5.1,37.7,58,160.7,False
+2020-21,Greenwich,NSSEC5,NS SEC 9: Students and other / unclassified,61.0,0.0,39.0,28,62.0,True
+2020-21,Hackney,NSSEC5,NS SEC 1-2: Higher social groups,81.3,5.2,13.5,300,447.7,False
+2020-21,Hackney,NSSEC5,NS SEC 3-5: Middle social groups,60.0,6.2,33.8,69,142.5,False
+2020-21,Hackney,NSSEC5,NS SEC 6-8: Lower social groups,49.9,11.2,38.9,48,118.4,False
+2020-21,Hackney,NSSEC5,NS SEC 9: Students and other / unclassified,63.9,8.8,27.3,48,125.8,False
+2020-21,Hammersmith and Fulham,NSSEC5,NS SEC 1-2: Higher social groups,81.2,7.6,11.2,278,267.5,False
+2020-21,Hammersmith and Fulham,NSSEC5,NS SEC 3-5: Middle social groups,80.9,7.8,11.3,78,121.2,False
+2020-21,Hammersmith and Fulham,NSSEC5,NS SEC 6-8: Lower social groups,43.5,14.1,42.4,37,68.8,False
+2020-21,Hammersmith and Fulham,NSSEC5,NS SEC 9: Students and other / unclassified,78.3,2.1,19.6,51,102.3,False
+2020-21,Haringey,NSSEC5,NS SEC 1-2: Higher social groups,74.0,11.7,14.4,287,392.3,False
+2020-21,Haringey,NSSEC5,NS SEC 3-5: Middle social groups,72.0,4.8,23.2,61,111.4,False
+2020-21,Haringey,NSSEC5,NS SEC 6-8: Lower social groups,51.7,13.1,35.2,54,140.8,False
+2020-21,Haringey,NSSEC5,NS SEC 9: Students and other / unclassified,60.8,12.3,26.9,52,132.9,False
+2020-21,Harrow,NSSEC5,NS SEC 1-2: Higher social groups,70.4,14.1,15.4,275,353.1,False
+2020-21,Harrow,NSSEC5,NS SEC 3-5: Middle social groups,60.3,10.6,29.1,78,140.7,False
+2020-21,Harrow,NSSEC5,NS SEC 6-8: Lower social groups,40.0,5.7,54.4,44,92.2,False
+2020-21,Harrow,NSSEC5,NS SEC 9: Students and other / unclassified,48.1,15.7,36.2,50,131.0,False
+2020-21,Havering,NSSEC5,NS SEC 1-2: Higher social groups,67.2,10.9,21.9,208,289.5,False
+2020-21,Havering,NSSEC5,NS SEC 3-5: Middle social groups,61.3,16.8,21.9,121,226.5,False
+2020-21,Havering,NSSEC5,NS SEC 6-8: Lower social groups,53.7,10.4,35.9,60,139.5,False
+2020-21,Havering,NSSEC5,NS SEC 9: Students and other / unclassified,64.4,6.0,29.6,32,56.3,False
+2020-21,Hillingdon,NSSEC5,NS SEC 1-2: Higher social groups,65.5,10.0,24.5,231,353.2,False
+2020-21,Hillingdon,NSSEC5,NS SEC 3-5: Middle social groups,51.5,18.1,30.4,113,231.9,False
+2020-21,Hillingdon,NSSEC5,NS SEC 6-8: Lower social groups,49.9,9.0,41.2,59,163.6,False
+2020-21,Hillingdon,NSSEC5,NS SEC 9: Students and other / unclassified,59.5,0.0,40.5,39,104.5,False
+2020-21,Hounslow,NSSEC5,NS SEC 1-2: Higher social groups,71.5,11.6,16.9,260,285.8,False
+2020-21,Hounslow,NSSEC5,NS SEC 3-5: Middle social groups,66.7,13.1,20.1,110,196.3,False
+2020-21,Hounslow,NSSEC5,NS SEC 6-8: Lower social groups,32.4,19.4,48.2,83,193.5,False
+2020-21,Hounslow,NSSEC5,NS SEC 9: Students and other / unclassified,54.3,10.3,35.4,52,106.6,False
+2020-21,Islington,NSSEC5,NS SEC 1-2: Higher social groups,85.3,7.9,6.9,337,410.0,False
+2020-21,Islington,NSSEC5,NS SEC 3-5: Middle social groups,68.7,8.6,22.7,63,115.9,False
+2020-21,Islington,NSSEC5,NS SEC 6-8: Lower social groups,52.6,13.2,34.2,51,105.5,False
+2020-21,Islington,NSSEC5,NS SEC 9: Students and other / unclassified,68.0,13.0,19.0,51,119.3,False
+2020-21,Kensington and Chelsea,NSSEC5,NS SEC 1-2: Higher social groups,72.1,9.7,18.2,291,247.3,False
+2020-21,Kensington and Chelsea,NSSEC5,NS SEC 3-5: Middle social groups,63.3,14.6,22.1,65,76.6,False
+2020-21,Kensington and Chelsea,NSSEC5,NS SEC 6-8: Lower social groups,58.3,7.6,34.1,44,54.0,False
+2020-21,Kensington and Chelsea,NSSEC5,NS SEC 9: Students and other / unclassified,76.9,10.5,12.7,48,71.1,False
+2020-21,Kingston upon Thames,NSSEC5,NS SEC 1-2: Higher social groups,76.5,10.6,13.0,297,279.0,False
+2020-21,Kingston upon Thames,NSSEC5,NS SEC 3-5: Middle social groups,62.3,8.8,28.9,78,109.4,False
+2020-21,Kingston upon Thames,NSSEC5,NS SEC 6-8: Lower social groups,44.5,12.2,43.3,22,37.7,True
+2020-21,Kingston upon Thames,NSSEC5,NS SEC 9: Students and other / unclassified,81.8,9.0,9.2,36,80.2,False
+2020-21,Lambeth,NSSEC5,NS SEC 1-2: Higher social groups,77.3,8.6,14.1,347,565.6,False
+2020-21,Lambeth,NSSEC5,NS SEC 3-5: Middle social groups,63.9,14.2,21.9,60,154.6,False
+2020-21,Lambeth,NSSEC5,NS SEC 6-8: Lower social groups,61.6,13.4,25.0,48,134.3,False
+2020-21,Lambeth,NSSEC5,NS SEC 9: Students and other / unclassified,71.5,3.9,24.6,45,133.2,False
+2020-21,Lewisham,NSSEC5,NS SEC 1-2: Higher social groups,75.5,13.1,11.4,312,481.9,False
+2020-21,Lewisham,NSSEC5,NS SEC 3-5: Middle social groups,81.6,4.3,14.1,75,180.2,False
+2020-21,Lewisham,NSSEC5,NS SEC 6-8: Lower social groups,61.8,8.9,29.2,41,133.1,False
+2020-21,Lewisham,NSSEC5,NS SEC 9: Students and other / unclassified,67.9,18.7,13.4,40,106.3,False
+2020-21,Merton,NSSEC5,NS SEC 1-2: Higher social groups,79.3,10.1,10.5,280,284.6,False
+2020-21,Merton,NSSEC5,NS SEC 3-5: Middle social groups,62.7,14.2,23.1,86,126.2,False
+2020-21,Merton,NSSEC5,NS SEC 6-8: Lower social groups,57.0,15.8,27.2,43,79.3,False
+2020-21,Merton,NSSEC5,NS SEC 9: Students and other / unclassified,71.7,9.5,18.8,41,98.4,False
+2020-21,Newham,NSSEC5,NS SEC 1-2: Higher social groups,72.0,8.9,19.1,266,406.3,False
+2020-21,Newham,NSSEC5,NS SEC 3-5: Middle social groups,57.9,11.3,30.8,67,164.1,False
+2020-21,Newham,NSSEC5,NS SEC 6-8: Lower social groups,53.4,4.5,42.1,83,221.3,False
+2020-21,Newham,NSSEC5,NS SEC 9: Students and other / unclassified,42.0,20.7,37.3,67,219.0,False
+2020-21,Redbridge,NSSEC5,NS SEC 1-2: Higher social groups,66.9,13.1,20.0,280,391.8,False
+2020-21,Redbridge,NSSEC5,NS SEC 3-5: Middle social groups,50.1,8.6,41.3,90,184.3,False
+2020-21,Redbridge,NSSEC5,NS SEC 6-8: Lower social groups,56.4,5.9,37.6,55,156.6,False
+2020-21,Redbridge,NSSEC5,NS SEC 9: Students and other / unclassified,47.4,15.5,37.1,45,122.2,False
+2020-21,Richmond upon Thames,NSSEC5,NS SEC 1-2: Higher social groups,83.7,6.7,9.6,314,330.5,False
+2020-21,Richmond upon Thames,NSSEC5,NS SEC 3-5: Middle social groups,67.0,11.2,21.9,70,88.1,False
+2020-21,Richmond upon Thames,NSSEC5,NS SEC 6-8: Lower social groups,67.3,13.3,19.4,22,45.3,True
+2020-21,Richmond upon Thames,NSSEC5,NS SEC 9: Students and other / unclassified,67.1,5.6,27.3,34,80.2,False
+2020-21,Southwark,NSSEC5,NS SEC 1-2: Higher social groups,81.5,9.1,9.3,322,537.8,False
+2020-21,Southwark,NSSEC5,NS SEC 3-5: Middle social groups,66.3,6.1,27.6,59,154.8,False
+2020-21,Southwark,NSSEC5,NS SEC 6-8: Lower social groups,59.5,0.0,40.5,42,139.5,False
+2020-21,Southwark,NSSEC5,NS SEC 9: Students and other / unclassified,61.1,8.4,30.5,48,136.8,False
+2020-21,Sutton,NSSEC5,NS SEC 1-2: Higher social groups,71.3,7.8,20.9,273,262.7,False
+2020-21,Sutton,NSSEC5,NS SEC 3-5: Middle social groups,55.6,13.9,30.5,113,146.8,False
+2020-21,Sutton,NSSEC5,NS SEC 6-8: Lower social groups,48.9,13.3,37.8,53,87.0,False
+2020-21,Sutton,NSSEC5,NS SEC 9: Students and other / unclassified,70.1,1.5,28.4,33,71.2,False
+2020-21,Tower Hamlets,NSSEC5,NS SEC 1-2: Higher social groups,70.5,11.7,17.8,313,486.2,False
+2020-21,Tower Hamlets,NSSEC5,NS SEC 3-5: Middle social groups,69.7,9.7,20.6,61,135.8,False
+2020-21,Tower Hamlets,NSSEC5,NS SEC 6-8: Lower social groups,41.3,5.4,53.2,46,164.3,False
+2020-21,Tower Hamlets,NSSEC5,NS SEC 9: Students and other / unclassified,41.1,23.5,35.4,57,186.2,False
+2020-21,Waltham Forest,NSSEC5,NS SEC 1-2: Higher social groups,74.4,9.9,15.7,291,365.9,False
+2020-21,Waltham Forest,NSSEC5,NS SEC 3-5: Middle social groups,58.1,19.2,22.7,81,152.5,False
+2020-21,Waltham Forest,NSSEC5,NS SEC 6-8: Lower social groups,37.9,21.2,40.9,54,150.6,False
+2020-21,Waltham Forest,NSSEC5,NS SEC 9: Students and other / unclassified,59.7,5.5,34.8,51,134.3,False
+2020-21,Wandsworth,NSSEC5,NS SEC 1-2: Higher social groups,83.0,7.6,9.4,351,590.8,False
+2020-21,Wandsworth,NSSEC5,NS SEC 3-5: Middle social groups,74.3,4.9,20.8,65,157.3,False
+2020-21,Wandsworth,NSSEC5,NS SEC 6-8: Lower social groups,53.7,10.2,36.0,34,102.4,False
+2020-21,Wandsworth,NSSEC5,NS SEC 9: Students and other / unclassified,72.9,5.0,22.0,45,153.9,False
+2020-21,Westminster,NSSEC5,NS SEC 1-2: Higher social groups,79.1,11.6,9.3,273,374.5,False
+2020-21,Westminster,NSSEC5,NS SEC 3-5: Middle social groups,58.0,18.2,23.8,68,156.2,False
+2020-21,Westminster,NSSEC5,NS SEC 6-8: Lower social groups,39.3,16.5,44.2,44,102.6,False
+2020-21,Westminster,NSSEC5,NS SEC 9: Students and other / unclassified,62.1,13.4,24.4,60,157.6,False
+2020-21,London,Educ6,Another type of qualification,51.9,12.4,35.7,634,1401.2,False
+2020-21,London,Educ6,Level 1 and below,62.2,8.5,29.3,209,492.5,False
+2020-21,London,Educ6,Level 2 and equivalents,58.3,10.9,30.8,1809,3506.1,False
+2020-21,London,Educ6,Level 3 and equivalents,62.0,10.6,27.4,1727,3643.8,False
+2020-21,London,Educ6,Level 4 or above,71.3,10.6,18.1,10465,16395.5,False
+2020-21,London,Educ6,No qualifications,42.5,9.7,47.8,952,1499.4,False
+2020-21,Barking and Dagenham,Educ6,Another type of qualification,38.9,10.8,50.2,24,38.4,True
+2020-21,Barking and Dagenham,Educ6,Level 1 and below,69.9,0.0,30.1,6,13.5,True
+2020-21,Barking and Dagenham,Educ6,Level 2 and equivalents,52.0,10.4,37.5,94,116.2,False
+2020-21,Barking and Dagenham,Educ6,Level 3 and equivalents,59.9,15.5,24.6,89,114.9,False
+2020-21,Barking and Dagenham,Educ6,Level 4 or above,54.9,12.1,33.0,231,259.2,False
+2020-21,Barking and Dagenham,Educ6,No qualifications,47.8,10.1,42.1,49,44.5,False
+2020-21,Barnet,Educ6,Another type of qualification,55.5,12.0,32.5,25,93.0,True
+2020-21,Barnet,Educ6,Level 1 and below,100.0,0.0,0.0,3,7.3,True
+2020-21,Barnet,Educ6,Level 2 and equivalents,73.2,8.5,18.4,41,105.1,False
+2020-21,Barnet,Educ6,Level 3 and equivalents,53.0,11.2,35.8,48,146.5,False
+2020-21,Barnet,Educ6,Level 4 or above,67.7,12.6,19.7,354,781.0,False
+2020-21,Barnet,Educ6,No qualifications,62.1,10.4,27.5,24,45.3,True
+2020-21,Bexley,Educ6,Another type of qualification,46.6,6.8,46.6,26,42.3,True
+2020-21,Bexley,Educ6,Level 1 and below,52.3,7.3,40.4,6,10.0,True
+2020-21,Bexley,Educ6,Level 2 and equivalents,63.4,13.0,23.6,99,175.6,False
+2020-21,Bexley,Educ6,Level 3 and equivalents,64.9,9.7,25.4,66,118.6,False
+2020-21,Bexley,Educ6,Level 4 or above,60.9,17.6,21.5,245,347.6,False
+2020-21,Bexley,Educ6,No qualifications,45.0,17.3,37.7,38,66.3,False
+2020-21,Brent,Educ6,Another type of qualification,30.1,7.2,62.6,20,50.1,True
+2020-21,Brent,Educ6,Level 1 and below,71.6,0.0,28.4,11,27.5,True
+2020-21,Brent,Educ6,Level 2 and equivalents,47.6,6.3,46.1,60,130.0,False
+2020-21,Brent,Educ6,Level 3 and equivalents,54.0,20.8,25.3,60,154.8,False
+2020-21,Brent,Educ6,Level 4 or above,65.1,12.9,22.0,291,512.2,False
+2020-21,Brent,Educ6,No qualifications,50.2,9.0,40.8,40,84.4,False
+2020-21,Bromley,Educ6,Another type of qualification,87.4,2.1,10.5,24,59.4,True
+2020-21,Bromley,Educ6,Level 1 and below,30.7,43.5,25.8,4,7.0,True
+2020-21,Bromley,Educ6,Level 2 and equivalents,66.2,11.7,22.2,83,181.2,False
+2020-21,Bromley,Educ6,Level 3 and equivalents,66.7,6.1,27.2,55,127.9,False
+2020-21,Bromley,Educ6,Level 4 or above,75.0,10.8,14.3,293,603.5,False
+2020-21,Bromley,Educ6,No qualifications,46.8,6.8,46.4,24,48.2,True
+2020-21,Camden,Educ6,Another type of qualification,85.2,6.4,8.3,15,35.9,True
+2020-21,Camden,Educ6,Level 1 and below,95.7,4.3,0.0,5,16.4,True
+2020-21,Camden,Educ6,Level 2 and equivalents,61.2,10.3,28.5,32,79.4,False
+2020-21,Camden,Educ6,Level 3 and equivalents,58.1,6.1,35.7,44,120.8,False
+2020-21,Camden,Educ6,Level 4 or above,74.5,9.0,16.5,374,567.4,False
+2020-21,Camden,Educ6,No qualifications,27.4,16.7,55.9,23,44.8,True
+2020-21,City of London,Educ6,Another type of qualification,0.0,0.0,100.0,4,0.4,True
+2020-21,City of London,Educ6,Level 1 and below,13.6,0.0,86.4,3,0.4,True
+2020-21,City of London,Educ6,Level 2 and equivalents,68.5,0.0,31.5,5,0.5,True
+2020-21,City of London,Educ6,Level 3 and equivalents,49.7,15.8,34.5,40,6.5,False
+2020-21,City of London,Educ6,Level 4 or above,48.9,14.3,36.9,256,24.5,False
+2020-21,City of London,Educ6,No qualifications,43.1,0.0,56.9,3,0.3,True
+2020-21,Croydon,Educ6,Another type of qualification,67.5,0.0,32.5,20,55.4,True
+2020-21,Croydon,Educ6,Level 1 and below,64.0,19.0,17.0,9,44.2,True
+2020-21,Croydon,Educ6,Level 2 and equivalents,68.2,6.7,25.1,75,164.9,False
+2020-21,Croydon,Educ6,Level 3 and equivalents,59.0,6.0,35.0,54,156.8,False
+2020-21,Croydon,Educ6,Level 4 or above,66.6,16.5,16.9,293,620.4,False
+2020-21,Croydon,Educ6,No qualifications,40.3,9.1,50.6,30,67.8,False
+2020-21,Ealing,Educ6,Another type of qualification,47.0,21.1,31.9,28,49.5,True
+2020-21,Ealing,Educ6,Level 1 and below,82.8,0.0,17.2,5,21.5,True
+2020-21,Ealing,Educ6,Level 2 and equivalents,67.4,4.9,27.8,50,155.1,False
+2020-21,Ealing,Educ6,Level 3 and equivalents,69.5,8.5,21.9,49,116.0,False
+2020-21,Ealing,Educ6,Level 4 or above,59.6,12.4,28.0,337,618.9,False
+2020-21,Ealing,Educ6,No qualifications,56.2,0.0,43.8,27,61.6,True
+2020-21,Enfield,Educ6,Another type of qualification,48.6,16.2,35.2,23,54.0,True
+2020-21,Enfield,Educ6,Level 1 and below,86.3,4.8,8.9,9,26.8,True
+2020-21,Enfield,Educ6,Level 2 and equivalents,52.8,15.8,31.4,81,174.8,False
+2020-21,Enfield,Educ6,Level 3 and equivalents,48.6,10.6,40.8,65,180.5,False
+2020-21,Enfield,Educ6,Level 4 or above,74.2,10.8,15.0,262,494.1,False
+2020-21,Enfield,Educ6,No qualifications,37.9,5.4,56.7,29,42.1,True
+2020-21,Greenwich,Educ6,Another type of qualification,52.5,0.0,47.5,11,20.8,True
+2020-21,Greenwich,Educ6,Level 1 and below,87.9,0.0,12.1,7,17.4,True
+2020-21,Greenwich,Educ6,Level 2 and equivalents,56.2,6.4,37.4,55,112.7,False
+2020-21,Greenwich,Educ6,Level 3 and equivalents,69.6,1.4,29.0,60,133.5,False
+2020-21,Greenwich,Educ6,Level 4 or above,72.1,10.0,17.8,314,515.4,False
+2020-21,Greenwich,Educ6,No qualifications,41.5,9.4,49.1,33,55.6,False
+2020-21,Hackney,Educ6,Another type of qualification,33.8,14.5,51.7,14,28.3,True
+2020-21,Hackney,Educ6,Level 1 and below,39.0,25.8,35.2,8,13.0,True
+2020-21,Hackney,Educ6,Level 2 and equivalents,48.0,8.0,44.0,33,76.3,False
+2020-21,Hackney,Educ6,Level 3 and equivalents,65.8,5.0,29.2,57,119.9,False
+2020-21,Hackney,Educ6,Level 4 or above,81.5,5.3,13.2,318,545.5,False
+2020-21,Hackney,Educ6,No qualifications,36.0,7.2,56.8,39,60.9,False
+2020-21,Hammersmith and Fulham,Educ6,Another type of qualification,61.0,22.9,16.1,16,24.9,True
+2020-21,Hammersmith and Fulham,Educ6,Level 1 and below,31.5,0.0,68.5,4,6.1,True
+2020-21,Hammersmith and Fulham,Educ6,Level 2 and equivalents,55.0,17.1,27.8,32,44.6,False
+2020-21,Hammersmith and Fulham,Educ6,Level 3 and equivalents,80.8,4.2,15.0,48,75.2,False
+2020-21,Hammersmith and Fulham,Educ6,Level 4 or above,78.6,7.0,14.5,345,410.2,False
+2020-21,Hammersmith and Fulham,Educ6,No qualifications,63.3,10.3,26.4,26,30.0,True
+2020-21,Haringey,Educ6,Another type of qualification,31.3,5.9,62.8,16,50.9,True
+2020-21,Haringey,Educ6,Level 1 and below,8.4,23.6,68.0,7,12.2,True
+2020-21,Haringey,Educ6,Level 2 and equivalents,83.0,1.4,15.6,37,87.4,False
+2020-21,Haringey,Educ6,Level 3 and equivalents,67.6,5.5,26.9,36,82.6,False
+2020-21,Haringey,Educ6,Level 4 or above,72.3,11.9,15.7,338,521.6,False
+2020-21,Haringey,Educ6,No qualifications,21.3,19.5,59.3,30,46.0,False
+2020-21,Harrow,Educ6,Another type of qualification,63.9,16.1,20.0,17,30.2,True
+2020-21,Harrow,Educ6,Level 1 and below,34.6,4.3,61.2,7,10.8,True
+2020-21,Harrow,Educ6,Level 2 and equivalents,56.7,11.7,31.6,60,90.6,False
+2020-21,Harrow,Educ6,Level 3 and equivalents,59.0,18.5,22.5,55,113.6,False
+2020-21,Harrow,Educ6,Level 4 or above,65.1,11.9,23.0,319,475.9,False
+2020-21,Harrow,Educ6,No qualifications,24.3,5.6,70.2,23,33.7,True
+2020-21,Havering,Educ6,Another type of qualification,50.1,35.3,14.6,27,69.7,True
+2020-21,Havering,Educ6,Level 1 and below,77.1,3.5,19.4,7,17.8,True
+2020-21,Havering,Educ6,Level 2 and equivalents,66.7,10.8,22.5,107,179.6,False
+2020-21,Havering,Educ6,Level 3 and equivalents,66.2,6.8,27.0,62,117.2,False
+2020-21,Havering,Educ6,Level 4 or above,60.1,8.3,31.6,177,282.2,False
+2020-21,Havering,Educ6,No qualifications,57.4,10.4,32.2,67,103.8,False
+2020-21,Hillingdon,Educ6,Another type of qualification,47.5,11.7,40.8,26,54.2,True
+2020-21,Hillingdon,Educ6,Level 1 and below,65.6,4.8,29.6,12,23.0,True
+2020-21,Hillingdon,Educ6,Level 2 and equivalents,43.6,10.9,45.5,87,157.8,False
+2020-21,Hillingdon,Educ6,Level 3 and equivalents,60.6,8.9,30.4,62,140.6,False
+2020-21,Hillingdon,Educ6,Level 4 or above,65.9,12.0,22.1,243,452.8,False
+2020-21,Hillingdon,Educ6,No qualifications,39.4,6.9,53.7,33,55.3,False
+2020-21,Hounslow,Educ6,Another type of qualification,42.2,20.7,37.1,32,67.9,False
+2020-21,Hounslow,Educ6,Level 1 and below,42.1,9.9,47.9,9,17.4,True
+2020-21,Hounslow,Educ6,Level 2 and equivalents,50.9,16.9,32.2,65,119.5,False
+2020-21,Hounslow,Educ6,Level 3 and equivalents,61.0,14.2,24.8,68,123.1,False
+2020-21,Hounslow,Educ6,Level 4 or above,64.6,10.3,25.0,299,415.0,False
+2020-21,Hounslow,Educ6,No qualifications,43.5,19.3,37.2,39,52.3,False
+2020-21,Islington,Educ6,Another type of qualification,45.9,10.0,44.0,15,27.5,True
+2020-21,Islington,Educ6,Level 1 and below,62.1,5.4,32.5,8,23.9,True
+2020-21,Islington,Educ6,Level 2 and equivalents,57.5,18.1,24.4,36,75.2,False
+2020-21,Islington,Educ6,Level 3 and equivalents,60.9,12.8,26.2,37,57.6,False
+2020-21,Islington,Educ6,Level 4 or above,81.1,8.1,10.8,403,579.3,False
+2020-21,Islington,Educ6,No qualifications,15.9,19.7,64.4,18,21.0,True
+2020-21,Kensington and Chelsea,Educ6,Another type of qualification,71.0,2.9,26.1,20,26.1,True
+2020-21,Kensington and Chelsea,Educ6,Level 1 and below,53.8,0.0,46.2,5,5.7,True
+2020-21,Kensington and Chelsea,Educ6,Level 2 and equivalents,42.3,17.3,40.4,35,42.6,False
+2020-21,Kensington and Chelsea,Educ6,Level 3 and equivalents,64.3,13.6,22.1,35,44.6,False
+2020-21,Kensington and Chelsea,Educ6,Level 4 or above,73.4,8.3,18.3,362,350.5,False
+2020-21,Kensington and Chelsea,Educ6,No qualifications,50.7,11.8,37.6,29,23.4,True
+2020-21,Kingston upon Thames,Educ6,Another type of qualification,49.0,34.0,17.1,19,26.5,True
+2020-21,Kingston upon Thames,Educ6,Level 1 and below,100.0,0.0,0.0,3,6.1,True
+2020-21,Kingston upon Thames,Educ6,Level 2 and equivalents,59.8,15.8,24.4,48,72.9,False
+2020-21,Kingston upon Thames,Educ6,Level 3 and equivalents,66.2,10.2,23.6,55,83.8,False
+2020-21,Kingston upon Thames,Educ6,Level 4 or above,75.4,7.1,17.5,325,340.5,False
+2020-21,Kingston upon Thames,Educ6,No qualifications,59.3,0.0,40.7,18,19.4,True
+2020-21,Lambeth,Educ6,Another type of qualification,14.5,0.0,85.5,11,30.6,True
+2020-21,Lambeth,Educ6,Level 1 and below,89.1,0.0,10.9,6,17.9,True
+2020-21,Lambeth,Educ6,Level 2 and equivalents,71.8,5.7,22.5,29,67.4,True
+2020-21,Lambeth,Educ6,Level 3 and equivalents,63.5,11.8,24.7,53,127.5,False
+2020-21,Lambeth,Educ6,Level 4 or above,78.6,9.5,11.9,390,737.1,False
+2020-21,Lambeth,Educ6,No qualifications,25.1,11.6,63.3,22,36.7,True
+2020-21,Lewisham,Educ6,Another type of qualification,73.7,17.2,9.0,11,22.7,True
+2020-21,Lewisham,Educ6,Level 1 and below,41.9,30.5,27.6,7,18.5,True
+2020-21,Lewisham,Educ6,Level 2 and equivalents,67.6,10.6,21.8,44,110.9,False
+2020-21,Lewisham,Educ6,Level 3 and equivalents,68.5,0.0,31.5,31,80.3,False
+2020-21,Lewisham,Educ6,Level 4 or above,74.4,12.1,13.5,359,641.7,False
+2020-21,Lewisham,Educ6,No qualifications,57.8,20.6,21.6,19,51.3,True
+2020-21,Merton,Educ6,Another type of qualification,65.3,26.9,7.8,20,49.6,True
+2020-21,Merton,Educ6,Level 1 and below,55.2,44.8,0.0,7,9.4,True
+2020-21,Merton,Educ6,Level 2 and equivalents,73.6,5.6,20.9,56,104.2,False
+2020-21,Merton,Educ6,Level 3 and equivalents,56.3,21.6,22.1,47,72.0,False
+2020-21,Merton,Educ6,Level 4 or above,74.2,9.6,16.2,313,344.3,False
+2020-21,Merton,Educ6,No qualifications,42.0,6.3,51.7,33,38.4,False
+2020-21,Newham,Educ6,Another type of qualification,67.2,10.3,22.5,23,76.0,True
+2020-21,Newham,Educ6,Level 1 and below,48.3,0.0,51.7,6,23.5,True
+2020-21,Newham,Educ6,Level 2 and equivalents,51.4,15.1,33.5,52,124.7,False
+2020-21,Newham,Educ6,Level 3 and equivalents,41.8,5.1,53.1,62,148.5,False
+2020-21,Newham,Educ6,Level 4 or above,67.7,11.8,20.5,300,559.5,False
+2020-21,Newham,Educ6,No qualifications,33.0,3.7,63.3,31,53.2,False
+2020-21,Redbridge,Educ6,Another type of qualification,45.6,5.0,49.4,25,61.9,True
+2020-21,Redbridge,Educ6,Level 1 and below,74.0,0.0,26.0,5,13.3,True
+2020-21,Redbridge,Educ6,Level 2 and equivalents,45.1,17.7,37.2,62,112.5,False
+2020-21,Redbridge,Educ6,Level 3 and equivalents,55.2,9.8,35.0,66,155.7,False
+2020-21,Redbridge,Educ6,Level 4 or above,64.0,12.0,23.9,297,498.1,False
+2020-21,Redbridge,Educ6,No qualifications,45.8,1.1,53.1,37,51.9,False
+2020-21,Richmond upon Thames,Educ6,Another type of qualification,50.1,2.2,47.8,19,22.5,True
+2020-21,Richmond upon Thames,Educ6,Level 1 and below,58.9,0.0,41.1,2,2.4,True
+2020-21,Richmond upon Thames,Educ6,Level 2 and equivalents,62.3,3.5,34.1,38,67.8,False
+2020-21,Richmond upon Thames,Educ6,Level 3 and equivalents,72.4,14.6,13.0,37,66.2,False
+2020-21,Richmond upon Thames,Educ6,Level 4 or above,79.6,8.2,12.2,371,423.8,False
+2020-21,Richmond upon Thames,Educ6,No qualifications,51.6,9.7,38.7,16,21.8,True
+2020-21,Southwark,Educ6,Another type of qualification,35.9,10.7,53.5,13,45.6,True
+2020-21,Southwark,Educ6,Level 1 and below,34.6,0.0,65.4,4,13.4,True
+2020-21,Southwark,Educ6,Level 2 and equivalents,57.6,13.3,29.1,38,85.0,False
+2020-21,Southwark,Educ6,Level 3 and equivalents,78.2,8.8,12.9,31,100.7,False
+2020-21,Southwark,Educ6,Level 4 or above,79.1,6.5,14.3,363,685.0,False
+2020-21,Southwark,Educ6,No qualifications,28.0,2.2,69.8,22,38.3,True
+2020-21,Sutton,Educ6,Another type of qualification,50.0,22.7,27.3,30,38.7,False
+2020-21,Sutton,Educ6,Level 1 and below,29.6,14.7,55.6,12,9.6,True
+2020-21,Sutton,Educ6,Level 2 and equivalents,52.4,12.8,34.9,100,139.9,False
+2020-21,Sutton,Educ6,Level 3 and equivalents,64.6,9.3,26.1,79,106.4,False
+2020-21,Sutton,Educ6,Level 4 or above,69.7,6.0,24.3,270,289.6,False
+2020-21,Sutton,Educ6,No qualifications,50.4,11.8,37.8,36,42.8,False
+2020-21,Tower Hamlets,Educ6,Another type of qualification,54.6,3.0,42.5,16,59.8,True
+2020-21,Tower Hamlets,Educ6,Level 1 and below,54.2,0.0,45.8,3,16.7,True
+2020-21,Tower Hamlets,Educ6,Level 2 and equivalents,34.9,11.8,53.4,43,92.6,False
+2020-21,Tower Hamlets,Educ6,Level 3 and equivalents,57.6,15.8,26.5,38,98.2,False
+2020-21,Tower Hamlets,Educ6,Level 4 or above,65.5,13.4,21.0,350,657.8,False
+2020-21,Tower Hamlets,Educ6,No qualifications,25.6,15.5,58.8,22,38.7,True
+2020-21,Waltham Forest,Educ6,Another type of qualification,47.4,10.8,41.8,18,36.9,True
+2020-21,Waltham Forest,Educ6,Level 1 and below,15.4,49.1,35.5,7,7.9,True
+2020-21,Waltham Forest,Educ6,Level 2 and equivalents,52.9,15.3,31.8,55,112.8,False
+2020-21,Waltham Forest,Educ6,Level 3 and equivalents,58.6,22.6,18.8,55,132.1,False
+2020-21,Waltham Forest,Educ6,Level 4 or above,70.7,11.8,17.5,315,472.8,False
+2020-21,Waltham Forest,Educ6,No qualifications,29.3,4.7,66.1,38,62.8,False
+2020-21,Wandsworth,Educ6,Another type of qualification,54.0,7.2,38.8,6,14.6,True
+2020-21,Wandsworth,Educ6,Level 1 and below,36.8,0.0,63.2,3,7.2,True
+2020-21,Wandsworth,Educ6,Level 2 and equivalents,57.0,7.5,35.5,38,86.1,False
+2020-21,Wandsworth,Educ6,Level 3 and equivalents,82.3,6.4,11.3,45,123.7,False
+2020-21,Wandsworth,Educ6,Level 4 or above,78.7,7.5,13.8,411,783.6,False
+2020-21,Wandsworth,Educ6,No qualifications,52.3,4.4,43.3,13,26.8,True
+2020-21,Westminster,Educ6,Another type of qualification,39.4,12.1,48.5,20,36.7,True
+2020-21,Westminster,Educ6,Level 1 and below,74.5,4.5,20.9,9,24.7,True
+2020-21,Westminster,Educ6,Level 2 and equivalents,55.1,7.3,37.6,39,60.5,False
+2020-21,Westminster,Educ6,Level 3 and equivalents,64.0,23.8,12.2,38,97.5,False
+2020-21,Westminster,Educ6,Level 4 or above,70.8,13.6,15.6,347,584.4,False
+2020-21,Westminster,Educ6,No qualifications,25.6,15.4,59.0,21,30.1,True
+2020-21,London,Orient4,Bisexual,72.5,10.3,17.3,167,293.7,False
+2020-21,London,Orient4,Gay or Lesbian,79.6,6.3,14.1,287,445.3,False
+2020-21,London,Orient4,Heterosexual or Straight,65.6,10.7,23.8,5321,9482.2,False
+2020-21,London,Orient4,Other sexual orientation,64.3,10.5,25.2,48,85.4,False
+2020-21,Barking and Dagenham,Orient4,Bisexual,100.0,0.0,0.0,1,0.3,True
+2020-21,Barking and Dagenham,Orient4,Heterosexual or Straight,56.6,11.4,32.0,184,242.9,False
+2020-21,Barking and Dagenham,Orient4,Other sexual orientation,0.0,0.0,100.0,1,1.0,True
+2020-21,Barnet,Orient4,Bisexual,100.0,0.0,0.0,4,11.8,True
+2020-21,Barnet,Orient4,Gay or Lesbian,62.0,38.0,0.0,7,11.0,True
+2020-21,Barnet,Orient4,Heterosexual or Straight,67.1,11.3,21.5,192,465.0,False
+2020-21,Barnet,Orient4,Other sexual orientation,0.0,0.0,100.0,1,2.4,True
+2020-21,Bexley,Orient4,Bisexual,90.9,0.0,9.1,4,10.8,True
+2020-21,Bexley,Orient4,Gay or Lesbian,100.0,0.0,0.0,3,6.7,True
+2020-21,Bexley,Orient4,Heterosexual or Straight,61.6,13.2,25.2,156,232.3,False
+2020-21,Bexley,Orient4,Other sexual orientation,0.0,0.0,100.0,1,0.7,True
+2020-21,Brent,Orient4,Bisexual,77.9,9.3,12.9,6,6.2,True
+2020-21,Brent,Orient4,Gay or Lesbian,82.9,17.1,0.0,4,8.2,True
+2020-21,Brent,Orient4,Heterosexual or Straight,62.4,13.0,24.7,136,291.1,False
+2020-21,Brent,Orient4,Other sexual orientation,52.3,0.0,47.7,6,6.3,True
+2020-21,Bromley,Orient4,Bisexual,100.0,0.0,0.0,3,11.6,True
+2020-21,Bromley,Orient4,Gay or Lesbian,28.9,45.9,25.2,5,5.1,True
+2020-21,Bromley,Orient4,Heterosexual or Straight,72.4,9.5,18.0,157,361.0,False
+2020-21,Bromley,Orient4,Other sexual orientation,100.0,0.0,0.0,2,2.3,True
+2020-21,Camden,Orient4,Bisexual,62.4,4.1,33.5,8,13.6,True
+2020-21,Camden,Orient4,Gay or Lesbian,84.2,5.0,10.8,15,18.5,True
+2020-21,Camden,Orient4,Heterosexual or Straight,66.1,9.9,24.0,160,290.2,False
+2020-21,Camden,Orient4,Other sexual orientation,90.5,0.0,9.5,2,4.5,True
+2020-21,City of London,Orient4,Bisexual,44.1,24.2,31.7,8,1.4,True
+2020-21,City of London,Orient4,Gay or Lesbian,68.1,11.5,20.4,22,2.1,True
+2020-21,City of London,Orient4,Heterosexual or Straight,42.4,10.2,47.4,106,10.3,False
+2020-21,Croydon,Orient4,Bisexual,44.6,21.2,34.2,4,10.6,True
+2020-21,Croydon,Orient4,Gay or Lesbian,0.0,0.0,100.0,1,4.5,True
+2020-21,Croydon,Orient4,Heterosexual or Straight,61.5,17.8,20.7,156,407.6,False
+2020-21,Croydon,Orient4,Other sexual orientation,100.0,0.0,0.0,2,10.4,True
+2020-21,Ealing,Orient4,Bisexual,72.6,0.0,27.4,4,10.7,True
+2020-21,Ealing,Orient4,Gay or Lesbian,100.0,0.0,0.0,3,5.3,True
+2020-21,Ealing,Orient4,Heterosexual or Straight,60.7,9.7,29.5,178,391.8,False
+2020-21,Enfield,Orient4,Bisexual,89.5,0.0,10.5,5,7.2,True
+2020-21,Enfield,Orient4,Gay or Lesbian,94.7,5.3,0.0,7,11.4,True
+2020-21,Enfield,Orient4,Heterosexual or Straight,60.6,9.6,29.8,161,348.6,False
+2020-21,Enfield,Orient4,Other sexual orientation,0.0,0.0,100.0,1,2.2,True
+2020-21,Greenwich,Orient4,Bisexual,53.9,0.0,46.1,4,7.8,True
+2020-21,Greenwich,Orient4,Gay or Lesbian,72.7,0.0,27.3,6,6.9,True
+2020-21,Greenwich,Orient4,Heterosexual or Straight,63.4,7.8,28.8,162,293.9,False
+2020-21,Greenwich,Orient4,Other sexual orientation,57.3,0.0,42.7,3,4.0,True
+2020-21,Hackney,Orient4,Bisexual,79.1,0.0,20.9,5,12.2,True
+2020-21,Hackney,Orient4,Gay or Lesbian,88.1,3.3,8.6,10,18.6,True
+2020-21,Hackney,Orient4,Heterosexual or Straight,78.2,5.3,16.5,157,303.2,False
+2020-21,Hackney,Orient4,Other sexual orientation,100.0,0.0,0.0,3,9.8,True
+2020-21,Hammersmith and Fulham,Orient4,Bisexual,87.8,0.0,12.2,3,4.8,True
+2020-21,Hammersmith and Fulham,Orient4,Gay or Lesbian,54.9,0.0,45.1,10,12.3,True
+2020-21,Hammersmith and Fulham,Orient4,Heterosexual or Straight,82.1,7.0,10.9,154,187.9,False
+2020-21,Hammersmith and Fulham,Orient4,Other sexual orientation,100.0,0.0,0.0,1,0.8,True
+2020-21,Haringey,Orient4,Bisexual,62.6,0.0,37.4,9,19.3,True
+2020-21,Haringey,Orient4,Gay or Lesbian,92.8,7.2,0.0,10,17.7,True
+2020-21,Haringey,Orient4,Heterosexual or Straight,65.7,9.9,24.4,151,274.3,False
+2020-21,Haringey,Orient4,Other sexual orientation,100.0,0.0,0.0,4,8.7,True
+2020-21,Harrow,Orient4,Bisexual,0.0,73.1,26.9,2,1.8,True
+2020-21,Harrow,Orient4,Gay or Lesbian,84.3,0.0,15.7,3,3.4,True
+2020-21,Harrow,Orient4,Heterosexual or Straight,62.2,11.4,26.4,168,314.6,False
+2020-21,Harrow,Orient4,Other sexual orientation,20.2,0.0,79.8,2,3.2,True
+2020-21,Havering,Orient4,Bisexual,78.1,0.0,21.9,2,3.8,True
+2020-21,Havering,Orient4,Gay or Lesbian,52.0,0.0,48.0,4,8.2,True
+2020-21,Havering,Orient4,Heterosexual or Straight,65.6,9.1,25.3,135,245.1,False
+2020-21,Hillingdon,Orient4,Bisexual,67.3,0.0,32.7,4,4.4,True
+2020-21,Hillingdon,Orient4,Gay or Lesbian,100.0,0.0,0.0,2,3.8,True
+2020-21,Hillingdon,Orient4,Heterosexual or Straight,58.2,9.9,32.0,170,335.1,False
+2020-21,Hillingdon,Orient4,Other sexual orientation,0.0,0.0,100.0,1,1.3,True
+2020-21,Hounslow,Orient4,Bisexual,88.9,11.1,0.0,6,8.9,True
+2020-21,Hounslow,Orient4,Gay or Lesbian,69.7,6.3,24.1,7,13.2,True
+2020-21,Hounslow,Orient4,Heterosexual or Straight,61.5,8.7,29.8,185,274.0,False
+2020-21,Islington,Orient4,Bisexual,81.1,0.0,18.9,12,19.6,True
+2020-21,Islington,Orient4,Gay or Lesbian,85.7,0.0,14.3,20,33.3,True
+2020-21,Islington,Orient4,Heterosexual or Straight,73.6,12.0,14.3,167,264.4,False
+2020-21,Islington,Orient4,Other sexual orientation,100.0,0.0,0.0,1,3.1,True
+2020-21,Kensington and Chelsea,Orient4,Bisexual,0.0,28.9,71.1,2,1.8,True
+2020-21,Kensington and Chelsea,Orient4,Gay or Lesbian,89.4,0.0,10.6,9,7.4,True
+2020-21,Kensington and Chelsea,Orient4,Heterosexual or Straight,64.5,12.3,23.3,146,145.4,False
+2020-21,Kingston upon Thames,Orient4,Bisexual,100.0,0.0,0.0,2,4.9,True
+2020-21,Kingston upon Thames,Orient4,Gay or Lesbian,61.5,38.5,0.0,5,3.7,True
+2020-21,Kingston upon Thames,Orient4,Heterosexual or Straight,66.7,12.2,21.2,170,214.6,False
+2020-21,Lambeth,Orient4,Bisexual,95.0,5.0,0.0,7,21.0,True
+2020-21,Lambeth,Orient4,Gay or Lesbian,84.1,7.8,8.1,13,19.4,True
+2020-21,Lambeth,Orient4,Heterosexual or Straight,66.8,13.4,19.8,177,352.7,False
+2020-21,Lambeth,Orient4,Other sexual orientation,26.9,0.0,73.1,2,3.1,True
+2020-21,Lewisham,Orient4,Bisexual,61.4,38.6,0.0,9,18.5,True
+2020-21,Lewisham,Orient4,Gay or Lesbian,90.6,9.4,0.0,12,23.2,True
+2020-21,Lewisham,Orient4,Heterosexual or Straight,73.2,13.8,13.0,161,331.8,False
+2020-21,Lewisham,Orient4,Other sexual orientation,0.0,52.9,47.1,2,1.0,True
+2020-21,Merton,Orient4,Bisexual,100.0,0.0,0.0,5,5.3,True
+2020-21,Merton,Orient4,Gay or Lesbian,82.4,12.9,4.7,8,7.6,True
+2020-21,Merton,Orient4,Heterosexual or Straight,65.6,11.6,22.8,160,205.3,False
+2020-21,Merton,Orient4,Other sexual orientation,100.0,0.0,0.0,1,0.8,True
+2020-21,Newham,Orient4,Bisexual,55.2,0.0,44.8,6,9.7,True
+2020-21,Newham,Orient4,Gay or Lesbian,64.2,0.0,35.8,10,18.5,True
+2020-21,Newham,Orient4,Heterosexual or Straight,58.7,9.4,32.0,157,361.9,False
+2020-21,Newham,Orient4,Other sexual orientation,26.0,68.9,5.1,4,12.2,True
+2020-21,Redbridge,Orient4,Bisexual,100.0,0.0,0.0,3,4.0,True
+2020-21,Redbridge,Orient4,Gay or Lesbian,71.2,28.8,0.0,3,4.6,True
+2020-21,Redbridge,Orient4,Heterosexual or Straight,63.6,11.3,25.1,174,343.9,False
+2020-21,Redbridge,Orient4,Other sexual orientation,0.0,0.0,100.0,3,2.1,True
+2020-21,Richmond upon Thames,Orient4,Bisexual,0.0,0.0,100.0,1,0.6,True
+2020-21,Richmond upon Thames,Orient4,Gay or Lesbian,87.5,0.0,12.5,4,6.9,True
+2020-21,Richmond upon Thames,Orient4,Heterosexual or Straight,77.9,9.7,12.5,170,212.2,False
+2020-21,Richmond upon Thames,Orient4,Other sexual orientation,100.0,0.0,0.0,1,0.8,True
+2020-21,Southwark,Orient4,Bisexual,39.4,0.0,60.6,4,5.4,True
+2020-21,Southwark,Orient4,Gay or Lesbian,89.4,0.0,10.6,25,63.8,True
+2020-21,Southwark,Orient4,Heterosexual or Straight,71.0,3.5,25.6,156,342.6,False
+2020-21,Southwark,Orient4,Other sexual orientation,100.0,0.0,0.0,1,2.7,True
+2020-21,Sutton,Orient4,Bisexual,36.4,43.2,20.4,6,4.3,True
+2020-21,Sutton,Orient4,Gay or Lesbian,100.0,0.0,0.0,1,0.6,True
+2020-21,Sutton,Orient4,Heterosexual or Straight,63.9,8.0,28.0,175,188.0,False
+2020-21,Sutton,Orient4,Other sexual orientation,27.5,0.0,72.5,2,1.4,True
+2020-21,Tower Hamlets,Orient4,Bisexual,37.8,57.9,4.3,6,18.7,True
+2020-21,Tower Hamlets,Orient4,Gay or Lesbian,70.4,14.1,15.5,18,32.2,True
+2020-21,Tower Hamlets,Orient4,Heterosexual or Straight,62.9,10.6,26.5,172,321.1,False
+2020-21,Tower Hamlets,Orient4,Other sexual orientation,100.0,0.0,0.0,1,0.8,True
+2020-21,Waltham Forest,Orient4,Bisexual,59.7,0.0,40.3,5,6.1,True
+2020-21,Waltham Forest,Orient4,Gay or Lesbian,88.6,5.6,5.8,13,18.2,True
+2020-21,Waltham Forest,Orient4,Heterosexual or Straight,57.0,9.6,33.5,160,286.1,False
+2020-21,Wandsworth,Orient4,Bisexual,92.8,0.0,7.2,4,12.2,True
+2020-21,Wandsworth,Orient4,Gay or Lesbian,76.3,0.0,23.7,13,24.9,True
+2020-21,Wandsworth,Orient4,Heterosexual or Straight,73.4,8.2,18.4,171,393.8,False
+2020-21,Westminster,Orient4,Bisexual,68.9,19.4,11.7,13,14.5,True
+2020-21,Westminster,Orient4,Gay or Lesbian,70.9,11.8,17.3,14,23.9,True
+2020-21,Westminster,Orient4,Heterosexual or Straight,59.4,21.1,19.5,137,249.7,False
+2020-21,London,Relig7,Any other religion,56.7,10.4,33.0,81,143.0,False
+2020-21,London,Relig7,Buddhist,63.9,6.2,29.9,80,179.1,False
+2020-21,London,Relig7,Christian,65.3,11.2,23.5,2451,3938.4,False
+2020-21,London,Relig7,Hindu,59.6,15.1,25.3,331,764.0,False
+2020-21,London,Relig7,Jewish,66.9,12.6,20.5,121,234.9,False
+2020-21,London,Relig7,Muslim,52.9,10.9,36.2,472,1178.5,False
+2020-21,London,Relig7,No religion,73.9,9.3,16.8,2066,3484.9,False
+2020-21,London,Relig7,Sikh,61.7,6.5,31.7,65,153.9,False
+2020-21,Barking and Dagenham,Relig7,Any other religion,21.3,0.0,78.7,3,2.8,True
+2020-21,Barking and Dagenham,Relig7,Christian,63.3,9.9,26.7,91,109.7,False
+2020-21,Barking and Dagenham,Relig7,Hindu,47.7,18.0,34.3,7,8.5,True
+2020-21,Barking and Dagenham,Relig7,Jewish,0.0,100.0,0.0,1,1.5,True
+2020-21,Barking and Dagenham,Relig7,Muslim,55.1,5.7,39.1,37,55.0,False
+2020-21,Barking and Dagenham,Relig7,No religion,46.7,15.3,37.9,40,55.4,False
+2020-21,Barking and Dagenham,Relig7,Sikh,100.0,0.0,0.0,2,4.5,True
+2020-21,Barnet,Relig7,Any other religion,100.0,0.0,0.0,3,8.7,True
+2020-21,Barnet,Relig7,Buddhist,15.0,0.0,85.0,2,8.2,True
+2020-21,Barnet,Relig7,Christian,67.2,6.7,26.1,70,160.6,False
+2020-21,Barnet,Relig7,Hindu,50.6,41.7,7.7,13,53.7,True
+2020-21,Barnet,Relig7,Jewish,76.5,12.5,11.0,40,92.8,False
+2020-21,Barnet,Relig7,Muslim,62.8,19.4,17.8,21,68.4,True
+2020-21,Barnet,Relig7,No religion,70.1,11.1,18.8,44,80.4,False
+2020-21,Bexley,Relig7,Any other religion,100.0,0.0,0.0,1,1.4,True
+2020-21,Bexley,Relig7,Buddhist,0.0,0.0,100.0,1,3.2,True
+2020-21,Bexley,Relig7,Christian,65.8,13.4,20.8,94,139.1,False
+2020-21,Bexley,Relig7,Hindu,45.5,12.0,42.5,11,16.2,True
+2020-21,Bexley,Relig7,Muslim,0.0,34.4,65.6,4,7.7,True
+2020-21,Bexley,Relig7,No religion,74.5,10.4,15.2,50,77.4,False
+2020-21,Bexley,Relig7,Sikh,0.0,0.0,100.0,3,2.8,True
+2020-21,Brent,Relig7,Any other religion,29.2,0.0,70.8,3,9.8,True
+2020-21,Brent,Relig7,Buddhist,62.0,8.9,29.1,4,5.1,True
+2020-21,Brent,Relig7,Christian,62.7,14.6,22.7,53,91.9,False
+2020-21,Brent,Relig7,Hindu,57.2,27.6,15.2,32,76.2,False
+2020-21,Brent,Relig7,Jewish,100.0,0.0,0.0,5,6.7,True
+2020-21,Brent,Relig7,Muslim,60.1,0.0,39.9,21,56.2,True
+2020-21,Brent,Relig7,No religion,84.5,8.9,6.6,27,54.8,True
+2020-21,Bromley,Relig7,Any other religion,100.0,0.0,0.0,1,1.5,True
+2020-21,Bromley,Relig7,Buddhist,100.0,0.0,0.0,1,0.7,True
+2020-21,Bromley,Relig7,Christian,67.3,14.0,18.6,91,196.8,False
+2020-21,Bromley,Relig7,Hindu,100.0,0.0,0.0,2,10.0,True
+2020-21,Bromley,Relig7,Jewish,100.0,0.0,0.0,1,1.3,True
+2020-21,Bromley,Relig7,Muslim,59.4,21.4,19.2,3,7.9,True
+2020-21,Bromley,Relig7,No religion,79.3,4.6,16.1,64,150.0,False
+2020-21,Bromley,Relig7,Sikh,100.0,0.0,0.0,1,1.5,True
+2020-21,Camden,Relig7,Any other religion,100.0,0.0,0.0,2,2.8,True
+2020-21,Camden,Relig7,Buddhist,49.2,0.0,50.8,5,15.6,True
+2020-21,Camden,Relig7,Christian,66.6,10.7,22.7,64,100.7,False
+2020-21,Camden,Relig7,Hindu,82.8,17.2,0.0,5,7.2,True
+2020-21,Camden,Relig7,Jewish,51.6,26.3,22.1,9,21.8,True
+2020-21,Camden,Relig7,Muslim,36.3,16.3,47.4,15,37.2,True
+2020-21,Camden,Relig7,No religion,75.2,6.2,18.6,88,144.8,False
+2020-21,City of London,Relig7,Any other religion,0.0,100.0,0.0,2,0.2,True
+2020-21,City of London,Relig7,Buddhist,100.0,0.0,0.0,2,0.1,True
+2020-21,City of London,Relig7,Christian,32.6,9.2,58.2,78,7.2,False
+2020-21,City of London,Relig7,Hindu,0.0,0.0,100.0,1,0.1,True
+2020-21,City of London,Relig7,Muslim,38.2,61.8,0.0,3,0.2,True
+2020-21,City of London,Relig7,No religion,70.1,9.4,20.5,43,5.2,False
+2020-21,Croydon,Relig7,Any other religion,0.0,38.4,61.6,5,16.5,True
+2020-21,Croydon,Relig7,Buddhist,14.2,13.6,72.1,3,12.3,True
+2020-21,Croydon,Relig7,Christian,62.0,25.7,12.3,74,178.6,False
+2020-21,Croydon,Relig7,Hindu,65.9,8.0,26.1,17,53.3,True
+2020-21,Croydon,Relig7,Muslim,58.1,0.0,41.9,9,33.3,True
+2020-21,Croydon,Relig7,No religion,65.4,11.7,22.9,44,98.1,False
+2020-21,Croydon,Relig7,Sikh,100.0,0.0,0.0,1,4.6,True
+2020-21,Ealing,Relig7,Any other religion,100.0,0.0,0.0,2,4.9,True
+2020-21,Ealing,Relig7,Buddhist,100.0,0.0,0.0,3,13.8,True
+2020-21,Ealing,Relig7,Christian,50.1,10.4,39.6,72,143.9,False
+2020-21,Ealing,Relig7,Hindu,64.0,15.7,20.2,17,37.9,True
+2020-21,Ealing,Relig7,Jewish,100.0,0.0,0.0,1,0.5,True
+2020-21,Ealing,Relig7,Muslim,55.7,0.9,43.5,19,55.4,True
+2020-21,Ealing,Relig7,No religion,66.6,10.9,22.4,58,121.6,False
+2020-21,Ealing,Relig7,Sikh,56.9,10.6,32.5,11,33.1,True
+2020-21,Enfield,Relig7,Any other religion,23.0,0.0,77.0,4,6.3,True
+2020-21,Enfield,Relig7,Buddhist,100.0,0.0,0.0,1,1.2,True
+2020-21,Enfield,Relig7,Christian,60.4,11.2,28.4,81,154.7,False
+2020-21,Enfield,Relig7,Hindu,90.8,9.2,0.0,8,18.0,True
+2020-21,Enfield,Relig7,Jewish,0.0,0.0,100.0,2,9.6,True
+2020-21,Enfield,Relig7,Muslim,64.7,0.0,35.3,13,44.2,True
+2020-21,Enfield,Relig7,No religion,64.7,13.2,22.1,51,112.1,False
+2020-21,Greenwich,Relig7,Any other religion,64.2,35.8,0.0,2,1.8,True
+2020-21,Greenwich,Relig7,Buddhist,36.9,0.0,63.1,3,14.0,True
+2020-21,Greenwich,Relig7,Christian,70.3,4.4,25.3,70,120.2,False
+2020-21,Greenwich,Relig7,Hindu,30.9,8.8,60.3,10,25.2,True
+2020-21,Greenwich,Relig7,Jewish,100.0,0.0,0.0,2,2.2,True
+2020-21,Greenwich,Relig7,Muslim,57.5,24.1,18.4,4,11.0,True
+2020-21,Greenwich,Relig7,No religion,70.1,11.7,18.3,71,105.3,False
+2020-21,Greenwich,Relig7,Sikh,52.2,0.0,47.8,6,21.0,True
+2020-21,Hackney,Relig7,Any other religion,100.0,0.0,0.0,2,4.5,True
+2020-21,Hackney,Relig7,Buddhist,79.2,0.0,20.8,4,7.2,True
+2020-21,Hackney,Relig7,Christian,65.0,3.4,31.6,43,67.0,False
+2020-21,Hackney,Relig7,Hindu,100.0,0.0,0.0,1,3.2,True
+2020-21,Hackney,Relig7,Jewish,56.5,0.0,43.5,6,8.4,True
+2020-21,Hackney,Relig7,Muslim,71.1,10.3,18.6,16,39.6,True
+2020-21,Hackney,Relig7,No religion,86.3,5.2,8.5,93,189.8,False
+2020-21,Hackney,Relig7,Sikh,100.0,0.0,0.0,2,3.3,True
+2020-21,Hammersmith and Fulham,Relig7,Any other religion,81.4,0.0,18.6,3,1.5,True
+2020-21,Hammersmith and Fulham,Relig7,Buddhist,0.0,100.0,0.0,2,1.9,True
+2020-21,Hammersmith and Fulham,Relig7,Christian,78.0,6.1,15.9,96,104.6,False
+2020-21,Hammersmith and Fulham,Relig7,Jewish,100.0,0.0,0.0,1,0.7,True
+2020-21,Hammersmith and Fulham,Relig7,Muslim,0.0,47.2,52.8,3,4.2,True
+2020-21,Hammersmith and Fulham,Relig7,No religion,87.7,3.3,9.0,57,86.3,False
+2020-21,Haringey,Relig7,Any other religion,79.4,0.0,20.6,5,10.3,True
+2020-21,Haringey,Relig7,Buddhist,45.8,54.2,0.0,2,2.1,True
+2020-21,Haringey,Relig7,Christian,70.8,7.3,21.9,53,102.0,False
+2020-21,Haringey,Relig7,Hindu,0.0,0.0,100.0,2,3.0,True
+2020-21,Haringey,Relig7,Jewish,42.6,12.9,44.6,4,13.2,True
+2020-21,Haringey,Relig7,Muslim,25.4,21.3,53.3,19,33.2,True
+2020-21,Haringey,Relig7,No religion,76.4,7.8,15.8,87,154.2,False
+2020-21,Harrow,Relig7,Any other religion,87.5,0.0,12.5,6,13.7,True
+2020-21,Harrow,Relig7,Buddhist,65.2,34.8,0.0,2,2.3,True
+2020-21,Harrow,Relig7,Christian,74.1,8.5,17.4,54,81.8,False
+2020-21,Harrow,Relig7,Hindu,47.4,11.2,41.4,53,125.6,False
+2020-21,Harrow,Relig7,Jewish,56.1,30.3,13.6,11,18.9,True
+2020-21,Harrow,Relig7,Muslim,86.5,0.0,13.5,14,31.9,True
+2020-21,Harrow,Relig7,No religion,62.5,20.7,16.7,31,44.8,False
+2020-21,Harrow,Relig7,Sikh,76.8,23.2,0.0,3,2.4,True
+2020-21,Havering,Relig7,Any other religion,25.1,0.0,74.9,2,3.2,True
+2020-21,Havering,Relig7,Buddhist,100.0,0.0,0.0,1,6.2,True
+2020-21,Havering,Relig7,Christian,69.1,8.3,22.6,80,128.3,False
+2020-21,Havering,Relig7,Hindu,52.8,12.4,34.8,7,13.9,True
+2020-21,Havering,Relig7,Muslim,18.2,0.0,81.8,4,9.4,True
+2020-21,Havering,Relig7,No religion,75.8,8.9,15.2,39,83.1,False
+2020-21,Havering,Relig7,Sikh,0.0,51.1,48.9,2,4.7,True
+2020-21,Hillingdon,Relig7,Any other religion,16.0,0.0,84.0,3,4.1,True
+2020-21,Hillingdon,Relig7,Buddhist,0.0,0.0,100.0,1,0.7,True
+2020-21,Hillingdon,Relig7,Christian,62.7,8.5,28.8,75,135.5,False
+2020-21,Hillingdon,Relig7,Hindu,71.6,15.7,12.7,18,56.4,True
+2020-21,Hillingdon,Relig7,Jewish,100.0,0.0,0.0,1,1.0,True
+2020-21,Hillingdon,Relig7,Muslim,50.8,14.4,34.8,15,28.5,True
+2020-21,Hillingdon,Relig7,No religion,53.7,12.2,34.1,47,73.7,False
+2020-21,Hillingdon,Relig7,Sikh,72.2,0.0,27.8,9,27.8,True
+2020-21,Hounslow,Relig7,Any other religion,0.0,100.0,0.0,1,0.7,True
+2020-21,Hounslow,Relig7,Buddhist,0.0,0.0,100.0,1,2.8,True
+2020-21,Hounslow,Relig7,Christian,55.1,12.1,32.8,74,113.5,False
+2020-21,Hounslow,Relig7,Hindu,71.8,5.9,22.4,18,35.7,True
+2020-21,Hounslow,Relig7,Jewish,0.0,0.0,100.0,1,0.6,True
+2020-21,Hounslow,Relig7,Muslim,55.7,4.7,39.6,32,58.7,False
+2020-21,Hounslow,Relig7,No religion,69.9,9.8,20.4,53,62.8,False
+2020-21,Hounslow,Relig7,Sikh,44.1,7.5,48.4,8,11.6,True
+2020-21,Islington,Relig7,Any other religion,45.8,25.1,29.1,3,6.7,True
+2020-21,Islington,Relig7,Buddhist,100.0,0.0,0.0,1,3.5,True
+2020-21,Islington,Relig7,Christian,65.4,12.8,21.7,73,103.7,False
+2020-21,Islington,Relig7,Hindu,100.0,0.0,0.0,1,0.6,True
+2020-21,Islington,Relig7,Jewish,100.0,0.0,0.0,4,12.8,True
+2020-21,Islington,Relig7,Muslim,61.3,13.6,25.1,9,19.4,True
+2020-21,Islington,Relig7,No religion,81.0,8.9,10.2,105,159.8,False
+2020-21,Kensington and Chelsea,Relig7,Any other religion,0.0,0.0,100.0,2,1.1,True
+2020-21,Kensington and Chelsea,Relig7,Buddhist,53.1,0.0,46.9,4,2.9,True
+2020-21,Kensington and Chelsea,Relig7,Christian,66.1,9.2,24.7,84,76.9,False
+2020-21,Kensington and Chelsea,Relig7,Hindu,59.2,0.0,40.8,2,2.5,True
+2020-21,Kensington and Chelsea,Relig7,Jewish,100.0,0.0,0.0,1,0.3,True
+2020-21,Kensington and Chelsea,Relig7,Muslim,96.3,3.7,0.0,5,10.7,True
+2020-21,Kensington and Chelsea,Relig7,No religion,68.6,9.4,22.0,51,55.1,False
+2020-21,Kensington and Chelsea,Relig7,Sikh,100.0,0.0,0.0,1,0.5,True
+2020-21,Kingston upon Thames,Relig7,Any other religion,51.3,0.0,48.7,2,2.6,True
+2020-21,Kingston upon Thames,Relig7,Buddhist,100.0,0.0,0.0,2,1.5,True
+2020-21,Kingston upon Thames,Relig7,Christian,64.5,15.1,20.4,83,94.6,False
+2020-21,Kingston upon Thames,Relig7,Hindu,69.3,0.0,30.7,7,15.8,True
+2020-21,Kingston upon Thames,Relig7,Muslim,56.5,14.9,28.6,7,8.9,True
+2020-21,Kingston upon Thames,Relig7,No religion,70.8,13.6,15.6,70,89.9,False
+2020-21,Kingston upon Thames,Relig7,Sikh,0.0,0.0,100.0,2,1.7,True
+2020-21,Lambeth,Relig7,Any other religion,72.6,0.0,27.4,7,15.2,True
+2020-21,Lambeth,Relig7,Christian,63.4,4.4,32.2,76,143.0,False
+2020-21,Lambeth,Relig7,Hindu,0.0,100.0,0.0,1,2.6,True
+2020-21,Lambeth,Relig7,Jewish,82.6,17.4,0.0,5,6.1,True
+2020-21,Lambeth,Relig7,Muslim,56.3,25.9,17.8,12,34.0,True
+2020-21,Lambeth,Relig7,No religion,73.9,14.5,11.6,96,204.4,False
+2020-21,Lewisham,Relig7,Any other religion,100.0,0.0,0.0,3,5.3,True
+2020-21,Lewisham,Relig7,Buddhist,87.1,0.0,12.9,4,10.9,True
+2020-21,Lewisham,Relig7,Christian,65.7,24.1,10.3,64,135.5,False
+2020-21,Lewisham,Relig7,Hindu,100.0,0.0,0.0,4,9.0,True
+2020-21,Lewisham,Relig7,Muslim,100.0,0.0,0.0,4,16.2,True
+2020-21,Lewisham,Relig7,No religion,77.2,8.3,14.4,98,179.4,False
+2020-21,Lewisham,Relig7,Sikh,100.0,0.0,0.0,1,2.2,True
+2020-21,Merton,Relig7,Buddhist,100.0,0.0,0.0,1,2.0,True
+2020-21,Merton,Relig7,Christian,68.5,10.8,20.7,92,117.8,False
+2020-21,Merton,Relig7,Hindu,60.9,17.2,21.9,7,8.1,True
+2020-21,Merton,Relig7,Muslim,0.0,56.7,43.3,7,13.2,True
+2020-21,Merton,Relig7,No religion,74.9,5.4,19.8,57,72.7,False
+2020-21,Merton,Relig7,Sikh,59.0,0.0,41.0,2,2.4,True
+2020-21,Newham,Relig7,Buddhist,100.0,0.0,0.0,4,9.9,True
+2020-21,Newham,Relig7,Christian,61.0,15.9,23.1,67,116.9,False
+2020-21,Newham,Relig7,Hindu,76.9,0.9,22.1,17,49.2,True
+2020-21,Newham,Relig7,Jewish,0.0,0.0,100.0,1,2.1,True
+2020-21,Newham,Relig7,Muslim,49.1,11.0,39.9,40,120.1,False
+2020-21,Newham,Relig7,No religion,46.8,14.3,38.9,50,102.2,False
+2020-21,Newham,Relig7,Sikh,100.0,0.0,0.0,2,9.9,True
+2020-21,Redbridge,Relig7,Any other religion,58.9,0.0,41.1,2,2.8,True
+2020-21,Redbridge,Relig7,Christian,74.5,1.8,23.6,62,112.3,False
+2020-21,Redbridge,Relig7,Hindu,53.6,16.8,29.6,27,69.6,True
+2020-21,Redbridge,Relig7,Jewish,52.7,0.0,47.3,9,17.8,True
+2020-21,Redbridge,Relig7,Muslim,61.4,15.3,23.3,41,92.2,False
+2020-21,Redbridge,Relig7,No religion,58.9,19.9,21.2,37,52.6,False
+2020-21,Redbridge,Relig7,Sikh,47.6,14.9,37.5,7,18.2,True
+2020-21,Richmond upon Thames,Relig7,Buddhist,69.5,30.5,0.0,3,5.6,True
+2020-21,Richmond upon Thames,Relig7,Christian,80.3,6.5,13.2,92,103.7,False
+2020-21,Richmond upon Thames,Relig7,Hindu,9.1,70.4,20.5,3,8.5,True
+2020-21,Richmond upon Thames,Relig7,Jewish,100.0,0.0,0.0,4,8.0,True
+2020-21,Richmond upon Thames,Relig7,Muslim,53.1,46.9,0.0,2,4.5,True
+2020-21,Richmond upon Thames,Relig7,No religion,81.4,5.3,13.3,68,86.6,False
+2020-21,Richmond upon Thames,Relig7,Sikh,100.0,0.0,0.0,2,1.5,True
+2020-21,Southwark,Relig7,Any other religion,70.8,18.0,11.2,3,3.8,True
+2020-21,Southwark,Relig7,Buddhist,100.0,0.0,0.0,4,10.1,True
+2020-21,Southwark,Relig7,Christian,71.8,4.2,24.0,76,178.0,False
+2020-21,Southwark,Relig7,Hindu,0.0,0.0,100.0,1,1.3,True
+2020-21,Southwark,Relig7,Muslim,55.6,0.0,44.4,7,21.1,True
+2020-21,Southwark,Relig7,No religion,80.3,3.7,16.0,86,177.5,False
+2020-21,Sutton,Relig7,Any other religion,68.1,23.6,8.3,4,2.9,True
+2020-21,Sutton,Relig7,Buddhist,78.2,0.0,21.8,5,6.4,True
+2020-21,Sutton,Relig7,Christian,53.0,8.4,38.6,79,79.9,False
+2020-21,Sutton,Relig7,Hindu,75.2,12.5,12.3,20,26.5,True
+2020-21,Sutton,Relig7,Jewish,85.3,0.0,14.7,2,1.9,True
+2020-21,Sutton,Relig7,Muslim,72.8,0.0,27.2,8,10.5,True
+2020-21,Sutton,Relig7,No religion,62.9,7.1,30.0,64,72.2,False
+2020-21,Tower Hamlets,Relig7,Any other religion,0.0,100.0,0.0,1,2.0,True
+2020-21,Tower Hamlets,Relig7,Buddhist,58.7,41.3,0.0,2,4.7,True
+2020-21,Tower Hamlets,Relig7,Christian,66.5,13.9,19.6,69,117.9,False
+2020-21,Tower Hamlets,Relig7,Hindu,24.4,0.0,75.6,8,9.6,True
+2020-21,Tower Hamlets,Relig7,Jewish,0.0,100.0,0.0,1,0.8,True
+2020-21,Tower Hamlets,Relig7,Muslim,47.2,7.5,45.3,31,84.8,False
+2020-21,Tower Hamlets,Relig7,No religion,76.6,12.4,11.0,77,143.6,False
+2020-21,Waltham Forest,Relig7,Buddhist,100.0,0.0,0.0,3,4.9,True
+2020-21,Waltham Forest,Relig7,Christian,55.7,13.0,31.3,65,113.1,False
+2020-21,Waltham Forest,Relig7,Hindu,0.0,0.0,100.0,2,1.4,True
+2020-21,Waltham Forest,Relig7,Jewish,100.0,0.0,0.0,2,1.6,True
+2020-21,Waltham Forest,Relig7,Muslim,33.9,13.9,52.2,28,94.6,True
+2020-21,Waltham Forest,Relig7,No religion,79.8,4.5,15.8,76,92.0,False
+2020-21,Wandsworth,Relig7,Buddhist,100.0,0.0,0.0,2,7.3,True
+2020-21,Wandsworth,Relig7,Christian,72.5,7.6,19.9,83,181.8,False
+2020-21,Wandsworth,Relig7,Hindu,77.5,0.0,22.5,4,7.1,True
+2020-21,Wandsworth,Relig7,Jewish,0.0,100.0,0.0,1,0.6,True
+2020-21,Wandsworth,Relig7,Muslim,39.6,3.0,57.4,11,42.6,True
+2020-21,Wandsworth,Relig7,No religion,84.7,6.5,8.8,82,185.2,False
+2020-21,Westminster,Relig7,Any other religion,19.8,34.8,45.4,4,5.8,True
+2020-21,Westminster,Relig7,Buddhist,28.5,12.5,59.0,7,12.0,True
+2020-21,Westminster,Relig7,Christian,52.7,26.4,21.0,73,127.2,False
+2020-21,Westminster,Relig7,Hindu,88.4,11.6,0.0,5,8.2,True
+2020-21,Westminster,Relig7,Jewish,75.5,24.5,0.0,6,3.9,True
+2020-21,Westminster,Relig7,Muslim,44.7,33.3,22.0,8,23.6,True
+2020-21,Westminster,Relig7,No religion,72.6,11.4,16.0,62,111.9,False
+2020-21,London,ChildAgeU13,No,66.2,10.3,23.5,12452,20688.2,False
+2020-21,London,ChildAgeU13,Yes,61.2,11.8,26.9,3888,7064.0,False
+2020-21,Barking and Dagenham,ChildAgeU13,No,55.4,15.7,28.9,307,344.6,False
+2020-21,Barking and Dagenham,ChildAgeU13,Yes,51.2,7.6,41.2,209,266.6,False
+2020-21,Barnet,ChildAgeU13,No,65.0,10.8,24.2,381,867.3,False
+2020-21,Barnet,ChildAgeU13,Yes,66.5,14.3,19.2,131,340.1,False
+2020-21,Bexley,ChildAgeU13,No,59.9,14.0,26.1,357,543.1,False
+2020-21,Bexley,ChildAgeU13,Yes,58.3,15.5,26.2,140,236.4,False
+2020-21,Brent,ChildAgeU13,No,56.4,14.4,29.2,376,719.9,False
+2020-21,Brent,ChildAgeU13,Yes,59.4,5.5,35.1,131,279.9,False
+2020-21,Bromley,ChildAgeU13,No,69.1,9.8,21.0,378,804.6,False
+2020-21,Bromley,ChildAgeU13,Yes,75.6,10.9,13.5,117,250.7,False
+2020-21,Camden,ChildAgeU13,No,71.5,9.1,19.5,424,729.9,False
+2020-21,Camden,ChildAgeU13,Yes,58.4,7.3,34.3,82,152.6,False
+2020-21,City of London,ChildAgeU13,No,52.4,12.3,35.3,256,27.2,False
+2020-21,City of London,ChildAgeU13,Yes,26.8,21.8,51.4,56,5.5,False
+2020-21,Croydon,ChildAgeU13,No,63.2,12.7,24.2,369,879.9,False
+2020-21,Croydon,ChildAgeU13,Yes,63.0,10.3,26.7,134,280.0,False
+2020-21,Ealing,ChildAgeU13,No,62.4,8.7,28.9,377,776.9,False
+2020-21,Ealing,ChildAgeU13,Yes,57.3,14.2,28.5,131,260.7,False
+2020-21,Enfield,ChildAgeU13,No,64.7,10.3,25.0,361,734.0,False
+2020-21,Enfield,ChildAgeU13,Yes,56.5,15.9,27.6,127,272.4,False
+2020-21,Greenwich,ChildAgeU13,No,69.9,7.4,22.7,391,686.5,False
+2020-21,Greenwich,ChildAgeU13,Yes,54.9,8.4,36.7,104,193.2,False
+2020-21,Hackney,ChildAgeU13,No,73.8,5.0,21.2,382,649.1,False
+2020-21,Hackney,ChildAgeU13,Yes,55.7,11.6,32.7,102,218.8,False
+2020-21,Hammersmith and Fulham,ChildAgeU13,No,74.9,8.8,16.2,395,487.1,False
+2020-21,Hammersmith and Fulham,ChildAgeU13,Yes,74.9,5.0,20.1,82,112.8,False
+2020-21,Haringey,ChildAgeU13,No,68.8,9.9,21.3,355,605.3,False
+2020-21,Haringey,ChildAgeU13,Yes,57.0,13.2,29.7,130,227.1,False
+2020-21,Harrow,ChildAgeU13,No,63.8,10.6,25.7,355,558.0,False
+2020-21,Harrow,ChildAgeU13,Yes,53.2,16.5,30.3,141,221.0,False
+2020-21,Havering,ChildAgeU13,No,61.9,11.6,26.5,391,653.1,False
+2020-21,Havering,ChildAgeU13,Yes,59.2,10.5,30.3,84,153.9,False
+2020-21,Hillingdon,ChildAgeU13,No,58.5,10.0,31.5,354,661.5,False
+2020-21,Hillingdon,ChildAgeU13,Yes,51.8,12.5,35.8,136,270.9,False
+2020-21,Hounslow,ChildAgeU13,No,59.6,11.4,29.1,385,549.5,False
+2020-21,Hounslow,ChildAgeU13,Yes,53.8,17.2,29.0,153,277.3,False
+2020-21,Islington,ChildAgeU13,No,74.5,8.7,16.8,443,648.3,False
+2020-21,Islington,ChildAgeU13,Yes,69.6,13.6,16.8,82,143.3,False
+2020-21,Kensington and Chelsea,ChildAgeU13,No,70.1,8.3,21.6,415,405.4,False
+2020-21,Kensington and Chelsea,ChildAgeU13,Yes,59.0,14.8,26.3,87,98.8,False
+2020-21,Kingston upon Thames,ChildAgeU13,No,71.1,9.6,19.3,348,409.2,False
+2020-21,Kingston upon Thames,ChildAgeU13,Yes,65.7,10.5,23.8,130,149.9,False
+2020-21,Lambeth,ChildAgeU13,No,73.0,8.9,18.1,423,842.8,False
+2020-21,Lambeth,ChildAgeU13,Yes,67.1,11.1,21.8,103,198.8,False
+2020-21,Lewisham,ChildAgeU13,No,70.4,12.2,17.4,373,700.0,False
+2020-21,Lewisham,ChildAgeU13,Yes,71.5,12.6,15.9,118,252.4,False
+2020-21,Merton,ChildAgeU13,No,68.1,12.1,19.8,372,476.9,False
+2020-21,Merton,ChildAgeU13,Yes,71.4,11.1,17.5,119,158.5,False
+2020-21,Newham,ChildAgeU13,No,54.6,11.3,34.1,341,644.9,False
+2020-21,Newham,ChildAgeU13,Yes,64.4,10.1,25.5,162,392.7,False
+2020-21,Redbridge,ChildAgeU13,No,56.6,11.0,32.3,356,639.4,False
+2020-21,Redbridge,ChildAgeU13,Yes,60.0,11.4,28.6,153,277.1,False
+2020-21,Richmond upon Thames,ChildAgeU13,No,74.0,8.7,17.3,386,480.7,False
+2020-21,Richmond upon Thames,ChildAgeU13,Yes,74.1,6.5,19.4,111,140.8,False
+2020-21,Southwark,ChildAgeU13,No,71.8,6.7,21.5,401,820.2,False
+2020-21,Southwark,ChildAgeU13,Yes,71.1,8.9,20.0,94,188.0,False
+2020-21,Sutton,ChildAgeU13,No,62.3,9.2,28.5,392,474.0,False
+2020-21,Sutton,ChildAgeU13,Yes,60.4,10.5,29.2,140,157.5,False
+2020-21,Tower Hamlets,ChildAgeU13,No,61.6,13.4,25.0,397,772.8,False
+2020-21,Tower Hamlets,ChildAgeU13,Yes,50.5,9.6,39.9,89,215.4,False
+2020-21,Waltham Forest,ChildAgeU13,No,65.5,10.0,24.5,358,546.4,False
+2020-21,Waltham Forest,ChildAgeU13,Yes,53.1,20.0,26.8,147,300.2,False
+2020-21,Wandsworth,ChildAgeU13,No,76.3,6.7,17.0,428,832.7,False
+2020-21,Wandsworth,ChildAgeU13,Yes,74.9,8.8,16.4,97,225.0,False
+2020-21,Westminster,ChildAgeU13,No,65.6,13.9,20.6,425,717.1,False
+2020-21,Westminster,ChildAgeU13,Yes,60.0,13.5,26.5,66,145.7,False
+2020-21,London,Maternity_pop,No,65.3,10.6,24.1,15887,26942.3,False
+2020-21,London,Maternity_pop,Yes,53.6,12.6,33.8,453,809.9,False
+2020-21,Barking and Dagenham,Maternity_pop,No,54.7,12.6,32.7,494,588.3,False
+2020-21,Barking and Dagenham,Maternity_pop,Yes,24.1,1.5,74.4,22,22.9,True
+2020-21,Barnet,Maternity_pop,No,66.2,11.5,22.3,497,1173.6,False
+2020-21,Barnet,Maternity_pop,Yes,39.0,22.0,39.0,15,33.9,True
+2020-21,Bexley,Maternity_pop,No,60.0,14.2,25.8,482,756.2,False
+2020-21,Bexley,Maternity_pop,Yes,39.1,22.8,38.0,15,23.3,True
+2020-21,Brent,Maternity_pop,No,56.4,12.2,31.4,486,950.2,False
+2020-21,Brent,Maternity_pop,Yes,73.1,5.9,21.0,21,49.5,True
+2020-21,Bromley,Maternity_pop,No,70.8,9.9,19.2,482,1025.7,False
+2020-21,Bromley,Maternity_pop,Yes,65.1,15.0,19.9,13,29.5,True
+2020-21,Camden,Maternity_pop,No,69.0,8.9,22.1,495,862.2,False
+2020-21,Camden,Maternity_pop,Yes,77.9,2.5,19.6,11,20.3,True
+2020-21,City of London,Maternity_pop,No,47.7,14.1,38.2,305,32.0,False
+2020-21,City of London,Maternity_pop,Yes,71.2,0.0,28.8,7,0.6,True
+2020-21,Croydon,Maternity_pop,No,63.5,12.0,24.4,486,1126.7,False
+2020-21,Croydon,Maternity_pop,Yes,49.4,13.8,36.7,17,33.2,True
+2020-21,Ealing,Maternity_pop,No,61.5,10.1,28.4,494,1010.3,False
+2020-21,Ealing,Maternity_pop,Yes,45.1,10.3,44.7,14,27.4,True
+2020-21,Enfield,Maternity_pop,No,63.0,12.1,24.9,476,977.3,False
+2020-21,Enfield,Maternity_pop,Yes,44.5,3.7,51.8,12,29.0,True
+2020-21,Greenwich,Maternity_pop,No,66.6,7.4,26.0,481,848.9,False
+2020-21,Greenwich,Maternity_pop,Yes,67.8,14.2,18.0,14,30.8,True
+2020-21,Hackney,Maternity_pop,No,69.4,6.6,24.0,473,854.5,False
+2020-21,Hackney,Maternity_pop,Yes,58.7,7.7,33.6,11,13.4,True
+2020-21,Hammersmith and Fulham,Maternity_pop,No,75.2,8.2,16.6,470,588.8,False
+2020-21,Hammersmith and Fulham,Maternity_pop,Yes,63.3,0.0,36.7,7,11.2,True
+2020-21,Haringey,Maternity_pop,No,66.2,10.6,23.1,463,801.8,False
+2020-21,Haringey,Maternity_pop,Yes,49.4,15.3,35.3,22,30.6,True
+2020-21,Harrow,Maternity_pop,No,61.2,12.2,26.5,490,771.5,False
+2020-21,Harrow,Maternity_pop,Yes,15.2,13.0,71.9,6,7.6,True
+2020-21,Havering,Maternity_pop,No,61.4,11.7,26.9,463,787.1,False
+2020-21,Havering,Maternity_pop,Yes,61.5,0.0,38.5,12,20.0,True
+2020-21,Hillingdon,Maternity_pop,No,57.4,10.7,31.9,473,906.4,False
+2020-21,Hillingdon,Maternity_pop,Yes,28.0,9.2,62.8,17,26.0,True
+2020-21,Hounslow,Maternity_pop,No,58.2,12.2,29.6,522,778.6,False
+2020-21,Hounslow,Maternity_pop,Yes,47.8,31.4,20.8,16,48.2,True
+2020-21,Islington,Maternity_pop,No,74.0,9.1,16.9,518,780.9,False
+2020-21,Islington,Maternity_pop,Yes,45.7,45.9,8.4,7,10.7,True
+2020-21,Kensington and Chelsea,Maternity_pop,No,68.5,8.8,22.7,489,492.5,False
+2020-21,Kensington and Chelsea,Maternity_pop,Yes,42.1,43.5,14.4,13,11.6,True
+2020-21,Kingston upon Thames,Maternity_pop,No,69.9,10.2,19.9,462,542.2,False
+2020-21,Kingston upon Thames,Maternity_pop,Yes,59.8,0.0,40.2,16,16.8,True
+2020-21,Lambeth,Maternity_pop,No,72.1,9.2,18.8,519,1027.9,False
+2020-21,Lambeth,Maternity_pop,Yes,55.9,21.6,22.5,7,13.7,True
+2020-21,Lewisham,Maternity_pop,No,70.5,12.3,17.2,472,920.9,False
+2020-21,Lewisham,Maternity_pop,Yes,77.3,12.2,10.6,19,31.5,True
+2020-21,Merton,Maternity_pop,No,69.2,11.9,18.8,478,620.2,False
+2020-21,Merton,Maternity_pop,Yes,54.0,10.0,36.0,13,15.2,True
+2020-21,Newham,Maternity_pop,No,58.5,10.8,30.6,483,979.4,False
+2020-21,Newham,Maternity_pop,Yes,54.5,11.5,34.1,20,58.2,True
+2020-21,Redbridge,Maternity_pop,No,58.9,11.0,30.1,492,886.4,False
+2020-21,Redbridge,Maternity_pop,Yes,20.5,14.8,64.7,17,30.2,True
+2020-21,Richmond upon Thames,Maternity_pop,No,75.1,8.5,16.4,486,601.8,False
+2020-21,Richmond upon Thames,Maternity_pop,Yes,38.5,0.0,61.5,11,19.7,True
+2020-21,Southwark,Maternity_pop,No,71.6,6.9,21.5,480,980.4,False
+2020-21,Southwark,Maternity_pop,Yes,74.3,14.2,11.5,15,27.8,True
+2020-21,Sutton,Maternity_pop,No,61.7,9.8,28.5,516,612.7,False
+2020-21,Sutton,Maternity_pop,Yes,66.8,1.6,31.6,16,18.8,True
+2020-21,Tower Hamlets,Maternity_pop,No,59.6,12.6,27.8,478,976.5,False
+2020-21,Tower Hamlets,Maternity_pop,Yes,20.6,8.0,71.4,8,11.7,True
+2020-21,Waltham Forest,Maternity_pop,No,61.8,13.7,24.5,491,814.4,False
+2020-21,Waltham Forest,Maternity_pop,Yes,45.1,8.4,46.5,14,32.2,True
+2020-21,Wandsworth,Maternity_pop,No,75.8,6.8,17.4,504,1008.8,False
+2020-21,Wandsworth,Maternity_pop,Yes,80.0,13.8,6.2,21,48.9,True
+2020-21,Westminster,Maternity_pop,No,64.7,13.9,21.4,487,857.3,False
+2020-21,Westminster,Maternity_pop,Yes,54.7,0.0,45.3,4,5.5,True
