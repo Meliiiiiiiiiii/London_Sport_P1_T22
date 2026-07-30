@@ -1,0 +1,1478 @@
+[
+  {
+    "rank": 1,
+    "borough": "Barking and Dagenham",
+    "pct_inactive": 37.9,
+    "predicted_inactive": 24.9,
+    "residual": 13.0,
+    "trend_slope": 0.13,
+    "cluster": 1,
+    "priority_score": 1.42,
+    "supply": {
+      "n_sessions": 1665,
+      "sessions_per_10k": 74.9,
+      "pct_free": 0.9,
+      "n_providers": 2,
+      "n_activity_types": 9,
+      "top_activities": [
+        {
+          "type": "Other / Unspecified",
+          "sessions": 802
+        },
+        {
+          "type": "Personal Training",
+          "sessions": 448
+        },
+        {
+          "type": "Swimming",
+          "sessions": 342
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Educ6",
+        "group": "No qualifications",
+        "pct_inactive": 59.5
+      },
+      {
+        "variable": "Age9",
+        "group": "65-74",
+        "pct_inactive": 49.4
+      },
+      {
+        "variable": "Eth7",
+        "group": "South Asian",
+        "pct_inactive": 46.0
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "borough": "Waltham Forest",
+    "pct_inactive": 32.6,
+    "predicted_inactive": 23.1,
+    "residual": 9.5,
+    "trend_slope": 1.06,
+    "cluster": 1,
+    "priority_score": 1.02,
+    "supply": {
+      "n_sessions": 450,
+      "sessions_per_10k": 16.3,
+      "pct_free": 18.4,
+      "n_providers": 3,
+      "n_activity_types": 9,
+      "top_activities": [
+        {
+          "type": "Personal Training",
+          "sessions": 146
+        },
+        {
+          "type": "Yoga, Pilates & Studio",
+          "sessions": 72
+        },
+        {
+          "type": "Bootcamp & Outdoor Fitness",
+          "sessions": 64
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Eth7",
+        "group": "South Asian",
+        "pct_inactive": 52.6
+      },
+      {
+        "variable": "Educ6",
+        "group": "Level 2 and equivalents",
+        "pct_inactive": 45.5
+      },
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 45.0
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "borough": "Hounslow",
+    "pct_inactive": 29.2,
+    "predicted_inactive": 21.1,
+    "residual": 8.1,
+    "trend_slope": -0.09,
+    "cluster": 1,
+    "priority_score": 0.94,
+    "supply": {
+      "n_sessions": 646,
+      "sessions_per_10k": 21.8,
+      "pct_free": 0.0,
+      "n_providers": 2,
+      "n_activity_types": 9,
+      "top_activities": [
+        {
+          "type": "Group Exercise",
+          "sessions": 349
+        },
+        {
+          "type": "Swimming",
+          "sessions": 232
+        },
+        {
+          "type": "Other / Unspecified",
+          "sessions": 26
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Age9",
+        "group": "25-34",
+        "pct_inactive": 40.2
+      },
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 38.8
+      },
+      {
+        "variable": "IMD10",
+        "group": "Decile 4",
+        "pct_inactive": 38.3
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "borough": "Newham",
+    "pct_inactive": 32.8,
+    "predicted_inactive": 26.1,
+    "residual": 6.7,
+    "trend_slope": 0.26,
+    "cluster": null,
+    "priority_score": 0.89,
+    "supply": {
+      "n_sessions": 1812,
+      "sessions_per_10k": 50.0,
+      "pct_free": 12.5,
+      "n_providers": 4,
+      "n_activity_types": 9,
+      "top_activities": [
+        {
+          "type": "Swimming",
+          "sessions": 728
+        },
+        {
+          "type": "Other / Unspecified",
+          "sessions": 652
+        },
+        {
+          "type": "Personal Training",
+          "sessions": 166
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Educ6",
+        "group": "No qualifications",
+        "pct_inactive": 57.9
+      },
+      {
+        "variable": "Eth7",
+        "group": "South Asian",
+        "pct_inactive": 42.0
+      },
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 41.4
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "borough": "Hillingdon",
+    "pct_inactive": 29.1,
+    "predicted_inactive": 18.4,
+    "residual": 10.7,
+    "trend_slope": 0.25,
+    "cluster": 1,
+    "priority_score": 0.83,
+    "supply": {
+      "n_sessions": 231,
+      "sessions_per_10k": 7.2,
+      "pct_free": 87.0,
+      "n_providers": 2,
+      "n_activity_types": 8,
+      "top_activities": [
+        {
+          "type": "Bootcamp & Outdoor Fitness",
+          "sessions": 203
+        },
+        {
+          "type": "Swimming",
+          "sessions": 6
+        },
+        {
+          "type": "Yoga, Pilates & Studio",
+          "sessions": 5
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "IMD10",
+        "group": "Decile 5",
+        "pct_inactive": 51.9
+      },
+      {
+        "variable": "Eth7",
+        "group": "South Asian",
+        "pct_inactive": 48.3
+      },
+      {
+        "variable": "Educ6",
+        "group": "No qualifications",
+        "pct_inactive": 45.9
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "borough": "Enfield",
+    "pct_inactive": 30.3,
+    "predicted_inactive": 23.2,
+    "residual": 7.1,
+    "trend_slope": 0.23,
+    "cluster": 1,
+    "priority_score": 0.77,
+    "supply": {
+      "n_sessions": 77,
+      "sessions_per_10k": 2.4,
+      "pct_free": 2.6,
+      "n_providers": 1,
+      "n_activity_types": 8,
+      "top_activities": [
+        {
+          "type": "Swimming",
+          "sessions": 18
+        },
+        {
+          "type": "Personal Training",
+          "sessions": 17
+        },
+        {
+          "type": "Yoga, Pilates & Studio",
+          "sessions": 14
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Educ6",
+        "group": "No qualifications",
+        "pct_inactive": 72.9
+      },
+      {
+        "variable": "IMD10",
+        "group": "Decile 2",
+        "pct_inactive": 58.2
+      },
+      {
+        "variable": "Eth7",
+        "group": "White Other",
+        "pct_inactive": 42.9
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "borough": "Haringey",
+    "pct_inactive": 22.8,
+    "predicted_inactive": 23.8,
+    "residual": -1.0,
+    "trend_slope": -0.06,
+    "cluster": 0,
+    "priority_score": 0.53,
+    "supply": {
+      "n_sessions": 13,
+      "sessions_per_10k": 0.5,
+      "pct_free": 7.7,
+      "n_providers": 1,
+      "n_activity_types": 2,
+      "top_activities": [
+        {
+          "type": "Team Sports",
+          "sessions": 9
+        },
+        {
+          "type": "Other / Unspecified",
+          "sessions": 4
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Eth7",
+        "group": "Black",
+        "pct_inactive": 40.2
+      },
+      {
+        "variable": "IMD10",
+        "group": "Decile 1 (most deprived)",
+        "pct_inactive": 36.5
+      },
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 34.0
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "borough": "Greenwich",
+    "pct_inactive": 26.5,
+    "predicted_inactive": 21.7,
+    "residual": 4.8,
+    "trend_slope": 0.62,
+    "cluster": 1,
+    "priority_score": 0.51,
+    "supply": {
+      "n_sessions": 137,
+      "sessions_per_10k": 4.7,
+      "pct_free": 17.5,
+      "n_providers": 2,
+      "n_activity_types": 8,
+      "top_activities": [
+        {
+          "type": "Personal Training",
+          "sessions": 35
+        },
+        {
+          "type": "Yoga, Pilates & Studio",
+          "sessions": 29
+        },
+        {
+          "type": "Bootcamp & Outdoor Fitness",
+          "sessions": 27
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Educ6",
+        "group": "Another type of qualification",
+        "pct_inactive": 47.3
+      },
+      {
+        "variable": "Eth7",
+        "group": "Mixed",
+        "pct_inactive": 46.1
+      },
+      {
+        "variable": "Educ6",
+        "group": "No qualifications",
+        "pct_inactive": 46.1
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "borough": "Harrow",
+    "pct_inactive": 26.4,
+    "predicted_inactive": 21.6,
+    "residual": 4.8,
+    "trend_slope": -0.53,
+    "cluster": 1,
+    "priority_score": 0.35,
+    "supply": {
+      "n_sessions": 1050,
+      "sessions_per_10k": 39.9,
+      "pct_free": 2.7,
+      "n_providers": 2,
+      "n_activity_types": 9,
+      "top_activities": [
+        {
+          "type": "Other / Unspecified",
+          "sessions": 477
+        },
+        {
+          "type": "Personal Training",
+          "sessions": 252
+        },
+        {
+          "type": "Swimming",
+          "sessions": 230
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Age9",
+        "group": "75-84",
+        "pct_inactive": 50.1
+      },
+      {
+        "variable": "Educ6",
+        "group": "No qualifications",
+        "pct_inactive": 42.6
+      },
+      {
+        "variable": "IMD10",
+        "group": "Decile 7",
+        "pct_inactive": 39.6
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "borough": "Tower Hamlets",
+    "pct_inactive": 26.0,
+    "predicted_inactive": 25.0,
+    "residual": 1.0,
+    "trend_slope": 0.43,
+    "cluster": 1,
+    "priority_score": 0.27,
+    "supply": {
+      "n_sessions": 245,
+      "sessions_per_10k": 7.5,
+      "pct_free": 25.7,
+      "n_providers": 2,
+      "n_activity_types": 12,
+      "top_activities": [
+        {
+          "type": "Gym / Fitness",
+          "sessions": 95
+        },
+        {
+          "type": "Swimming",
+          "sessions": 60
+        },
+        {
+          "type": "Other / Unspecified",
+          "sessions": 30
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Age9",
+        "group": "45-54",
+        "pct_inactive": 46.8
+      },
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 46.0
+      },
+      {
+        "variable": "Eth7",
+        "group": "South Asian",
+        "pct_inactive": 37.8
+      }
+    ]
+  },
+  {
+    "rank": 11,
+    "borough": "Merton",
+    "pct_inactive": 23.7,
+    "predicted_inactive": 21.0,
+    "residual": 2.7,
+    "trend_slope": 0.83,
+    "cluster": 1,
+    "priority_score": 0.27,
+    "supply": {
+      "n_sessions": 224,
+      "sessions_per_10k": 10.4,
+      "pct_free": 44.6,
+      "n_providers": 2,
+      "n_activity_types": 9,
+      "top_activities": [
+        {
+          "type": "Bootcamp & Outdoor Fitness",
+          "sessions": 105
+        },
+        {
+          "type": "Personal Training",
+          "sessions": 57
+        },
+        {
+          "type": "Swimming",
+          "sessions": 23
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 50.1
+      },
+      {
+        "variable": "Age9",
+        "group": "75-84",
+        "pct_inactive": 48.7
+      },
+      {
+        "variable": "Educ6",
+        "group": "Level 3 and equivalents",
+        "pct_inactive": 45.4
+      }
+    ]
+  },
+  {
+    "rank": 12,
+    "borough": "Croydon",
+    "pct_inactive": 23.7,
+    "predicted_inactive": 22.3,
+    "residual": 1.4,
+    "trend_slope": -0.17,
+    "cluster": 1,
+    "priority_score": 0.21,
+    "supply": {
+      "n_sessions": 65,
+      "sessions_per_10k": 1.6,
+      "pct_free": 1.5,
+      "n_providers": 1,
+      "n_activity_types": 7,
+      "top_activities": [
+        {
+          "type": "Swimming",
+          "sessions": 20
+        },
+        {
+          "type": "Personal Training",
+          "sessions": 17
+        },
+        {
+          "type": "Cycling",
+          "sessions": 13
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Educ6",
+        "group": "Level 2 and equivalents",
+        "pct_inactive": 43.0
+      },
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 39.9
+      },
+      {
+        "variable": "Age9",
+        "group": "55-64",
+        "pct_inactive": 33.7
+      }
+    ]
+  },
+  {
+    "rank": 13,
+    "borough": "Bexley",
+    "pct_inactive": 26.1,
+    "predicted_inactive": 19.6,
+    "residual": 6.5,
+    "trend_slope": 0.24,
+    "cluster": 1,
+    "priority_score": 0.19,
+    "supply": {
+      "n_sessions": 475,
+      "sessions_per_10k": 18.9,
+      "pct_free": 99.4,
+      "n_providers": 2,
+      "n_activity_types": 5,
+      "top_activities": [
+        {
+          "type": "Bootcamp & Outdoor Fitness",
+          "sessions": 289
+        },
+        {
+          "type": "Yoga, Pilates & Studio",
+          "sessions": 88
+        },
+        {
+          "type": "Group Exercise",
+          "sessions": 60
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Age9",
+        "group": "75-84",
+        "pct_inactive": 50.7
+      },
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 38.9
+      },
+      {
+        "variable": "Eth7",
+        "group": "Black",
+        "pct_inactive": 38.1
+      }
+    ]
+  },
+  {
+    "rank": 14,
+    "borough": "Ealing",
+    "pct_inactive": 25.2,
+    "predicted_inactive": 24.5,
+    "residual": 0.7,
+    "trend_slope": -0.67,
+    "cluster": 1,
+    "priority_score": 0.13,
+    "supply": {
+      "n_sessions": 2009,
+      "sessions_per_10k": 53.5,
+      "pct_free": 0.4,
+      "n_providers": 2,
+      "n_activity_types": 10,
+      "top_activities": [
+        {
+          "type": "Other / Unspecified",
+          "sessions": 729
+        },
+        {
+          "type": "Swimming",
+          "sessions": 594
+        },
+        {
+          "type": "Personal Training",
+          "sessions": 590
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "IMD10",
+        "group": "Decile 3",
+        "pct_inactive": 43.6
+      },
+      {
+        "variable": "Educ6",
+        "group": "Level 2 and equivalents",
+        "pct_inactive": 38.0
+      },
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 34.4
+      }
+    ]
+  },
+  {
+    "rank": 15,
+    "borough": "Hackney",
+    "pct_inactive": 25.6,
+    "predicted_inactive": 31.0,
+    "residual": -5.4,
+    "trend_slope": 0.82,
+    "cluster": 1,
+    "priority_score": 0.09,
+    "supply": {
+      "n_sessions": 328,
+      "sessions_per_10k": 12.5,
+      "pct_free": 34.1,
+      "n_providers": 2,
+      "n_activity_types": 9,
+      "top_activities": [
+        {
+          "type": "Gym / Fitness",
+          "sessions": 83
+        },
+        {
+          "type": "Yoga, Pilates & Studio",
+          "sessions": 66
+        },
+        {
+          "type": "Personal Training",
+          "sessions": 62
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Educ6",
+        "group": "No qualifications",
+        "pct_inactive": 64.7
+      },
+      {
+        "variable": "Age9",
+        "group": "55-64",
+        "pct_inactive": 43.8
+      },
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 41.9
+      }
+    ]
+  },
+  {
+    "rank": 16,
+    "borough": "Lewisham",
+    "pct_inactive": 21.7,
+    "predicted_inactive": 20.3,
+    "residual": 1.4,
+    "trend_slope": -0.53,
+    "cluster": 0,
+    "priority_score": 0.04,
+    "supply": {
+      "n_sessions": 98,
+      "sessions_per_10k": 3.3,
+      "pct_free": 1.0,
+      "n_providers": 1,
+      "n_activity_types": 6,
+      "top_activities": [
+        {
+          "type": "Personal Training",
+          "sessions": 39
+        },
+        {
+          "type": "Swimming",
+          "sessions": 21
+        },
+        {
+          "type": "Yoga, Pilates & Studio",
+          "sessions": 19
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "IMD10",
+        "group": "Decile 2",
+        "pct_inactive": 39.2
+      },
+      {
+        "variable": "Age9",
+        "group": "55-64",
+        "pct_inactive": 36.2
+      },
+      {
+        "variable": "Eth7",
+        "group": "South Asian",
+        "pct_inactive": 32.8
+      }
+    ]
+  },
+  {
+    "rank": 17,
+    "borough": "Westminster",
+    "pct_inactive": 24.3,
+    "predicted_inactive": 23.6,
+    "residual": 0.7,
+    "trend_slope": 0.69,
+    "cluster": 1,
+    "priority_score": 0.03,
+    "supply": {
+      "n_sessions": 2174,
+      "sessions_per_10k": 102.8,
+      "pct_free": 10.2,
+      "n_providers": 2,
+      "n_activity_types": 10,
+      "top_activities": [
+        {
+          "type": "Swimming",
+          "sessions": 792
+        },
+        {
+          "type": "Personal Training",
+          "sessions": 761
+        },
+        {
+          "type": "Other / Unspecified",
+          "sessions": 214
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 46.5
+      },
+      {
+        "variable": "IMD10",
+        "group": "Decile 2",
+        "pct_inactive": 39.6
+      },
+      {
+        "variable": "Age9",
+        "group": "75-84",
+        "pct_inactive": 34.0
+      }
+    ]
+  },
+  {
+    "rank": 18,
+    "borough": "Havering",
+    "pct_inactive": 25.6,
+    "predicted_inactive": 23.6,
+    "residual": 2.0,
+    "trend_slope": -0.21,
+    "cluster": 1,
+    "priority_score": -0.0,
+    "supply": {
+      "n_sessions": 3328,
+      "sessions_per_10k": 124.1,
+      "pct_free": 1.2,
+      "n_providers": 2,
+      "n_activity_types": 9,
+      "top_activities": [
+        {
+          "type": "Personal Training",
+          "sessions": 1234
+        },
+        {
+          "type": "Other / Unspecified",
+          "sessions": 1115
+        },
+        {
+          "type": "Swimming",
+          "sessions": 689
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "IMD10",
+        "group": "Decile 3",
+        "pct_inactive": 52.4
+      },
+      {
+        "variable": "Educ6",
+        "group": "No qualifications",
+        "pct_inactive": 46.6
+      },
+      {
+        "variable": "IMD10",
+        "group": "Decile 2",
+        "pct_inactive": 44.9
+      }
+    ]
+  },
+  {
+    "rank": 19,
+    "borough": "Bromley",
+    "pct_inactive": 22.0,
+    "predicted_inactive": 19.4,
+    "residual": 2.6,
+    "trend_slope": -0.08,
+    "cluster": 1,
+    "priority_score": -0.01,
+    "supply": {
+      "n_sessions": 105,
+      "sessions_per_10k": 3.2,
+      "pct_free": 68.6,
+      "n_providers": 2,
+      "n_activity_types": 7,
+      "top_activities": [
+        {
+          "type": "Bootcamp & Outdoor Fitness",
+          "sessions": 73
+        },
+        {
+          "type": "Personal Training",
+          "sessions": 11
+        },
+        {
+          "type": "Yoga, Pilates & Studio",
+          "sessions": 10
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 49.1
+      },
+      {
+        "variable": "Age9",
+        "group": "75-84",
+        "pct_inactive": 35.8
+      },
+      {
+        "variable": "Educ6",
+        "group": "Level 2 and equivalents",
+        "pct_inactive": 27.1
+      }
+    ]
+  },
+  {
+    "rank": 20,
+    "borough": "Kensington and Chelsea",
+    "pct_inactive": 21.7,
+    "predicted_inactive": 26.0,
+    "residual": -4.3,
+    "trend_slope": 0.09,
+    "cluster": 0,
+    "priority_score": -0.16,
+    "supply": {
+      "n_sessions": 636,
+      "sessions_per_10k": 43.1,
+      "pct_free": 14.0,
+      "n_providers": 3,
+      "n_activity_types": 9,
+      "top_activities": [
+        {
+          "type": "Personal Training",
+          "sessions": 274
+        },
+        {
+          "type": "Bootcamp & Outdoor Fitness",
+          "sessions": 161
+        },
+        {
+          "type": "Other / Unspecified",
+          "sessions": 114
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 51.3
+      },
+      {
+        "variable": "IMD10",
+        "group": "Decile 1 (most deprived)",
+        "pct_inactive": 47.6
+      },
+      {
+        "variable": "Age9",
+        "group": "45-54",
+        "pct_inactive": 27.7
+      }
+    ]
+  },
+  {
+    "rank": 21,
+    "borough": "Brent",
+    "pct_inactive": 26.6,
+    "predicted_inactive": 24.0,
+    "residual": 2.6,
+    "trend_slope": -0.74,
+    "cluster": 1,
+    "priority_score": -0.17,
+    "supply": {
+      "n_sessions": 1634,
+      "sessions_per_10k": 47.4,
+      "pct_free": 34.3,
+      "n_providers": 2,
+      "n_activity_types": 10,
+      "top_activities": [
+        {
+          "type": "Personal Training",
+          "sessions": 450
+        },
+        {
+          "type": "Other / Unspecified",
+          "sessions": 364
+        },
+        {
+          "type": "Swimming",
+          "sessions": 338
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Educ6",
+        "group": "No qualifications",
+        "pct_inactive": 50.3
+      },
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 36.8
+      },
+      {
+        "variable": "IMD10",
+        "group": "Decile 2",
+        "pct_inactive": 34.4
+      }
+    ]
+  },
+  {
+    "rank": 22,
+    "borough": "Hammersmith and Fulham",
+    "pct_inactive": 16.9,
+    "predicted_inactive": 23.5,
+    "residual": -6.6,
+    "trend_slope": -0.63,
+    "cluster": 0,
+    "priority_score": -0.47,
+    "supply": {
+      "n_sessions": 106,
+      "sessions_per_10k": 5.7,
+      "pct_free": 0.0,
+      "n_providers": 1,
+      "n_activity_types": 8,
+      "top_activities": [
+        {
+          "type": "Personal Training",
+          "sessions": 47
+        },
+        {
+          "type": "Yoga, Pilates & Studio",
+          "sessions": 31
+        },
+        {
+          "type": "Cycling",
+          "sessions": 11
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 42.4
+      },
+      {
+        "variable": "Educ6",
+        "group": "Level 2 and equivalents",
+        "pct_inactive": 28.5
+      },
+      {
+        "variable": "IMD10",
+        "group": "Decile 2",
+        "pct_inactive": 28.1
+      }
+    ]
+  },
+  {
+    "rank": 23,
+    "borough": "Lambeth",
+    "pct_inactive": 19.3,
+    "predicted_inactive": 22.5,
+    "residual": -3.2,
+    "trend_slope": 0.13,
+    "cluster": 0,
+    "priority_score": -0.48,
+    "supply": {
+      "n_sessions": 166,
+      "sessions_per_10k": 5.3,
+      "pct_free": 54.8,
+      "n_providers": 2,
+      "n_activity_types": 7,
+      "top_activities": [
+        {
+          "type": "Bootcamp & Outdoor Fitness",
+          "sessions": 56
+        },
+        {
+          "type": "Yoga, Pilates & Studio",
+          "sessions": 34
+        },
+        {
+          "type": "Personal Training",
+          "sessions": 25
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Educ6",
+        "group": "Level 2 and equivalents",
+        "pct_inactive": 42.5
+      },
+      {
+        "variable": "Eth7",
+        "group": "Black",
+        "pct_inactive": 40.4
+      },
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 30.5
+      }
+    ]
+  },
+  {
+    "rank": 24,
+    "borough": "Southwark",
+    "pct_inactive": 18.8,
+    "predicted_inactive": 25.3,
+    "residual": -6.5,
+    "trend_slope": 0.22,
+    "cluster": 0,
+    "priority_score": -0.54,
+    "supply": {
+      "n_sessions": 2936,
+      "sessions_per_10k": 93.1,
+      "pct_free": 19.6,
+      "n_providers": 3,
+      "n_activity_types": 13,
+      "top_activities": [
+        {
+          "type": "Gym / Fitness",
+          "sessions": 1451
+        },
+        {
+          "type": "Swimming",
+          "sessions": 723
+        },
+        {
+          "type": "Group Exercise",
+          "sessions": 549
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Educ6",
+        "group": "Level 3 and equivalents",
+        "pct_inactive": 49.5
+      },
+      {
+        "variable": "Educ6",
+        "group": "Level 2 and equivalents",
+        "pct_inactive": 38.6
+      },
+      {
+        "variable": "Eth7",
+        "group": "Black",
+        "pct_inactive": 38.0
+      }
+    ]
+  },
+  {
+    "rank": 25,
+    "borough": "Islington",
+    "pct_inactive": 16.7,
+    "predicted_inactive": 25.3,
+    "residual": -8.6,
+    "trend_slope": -0.05,
+    "cluster": 0,
+    "priority_score": -0.55,
+    "supply": {
+      "n_sessions": 163,
+      "sessions_per_10k": 7.4,
+      "pct_free": 0.0,
+      "n_providers": 1,
+      "n_activity_types": 8,
+      "top_activities": [
+        {
+          "type": "Personal Training",
+          "sessions": 51
+        },
+        {
+          "type": "Yoga, Pilates & Studio",
+          "sessions": 43
+        },
+        {
+          "type": "Swimming",
+          "sessions": 19
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 38.4
+      },
+      {
+        "variable": "Educ6",
+        "group": "Level 2 and equivalents",
+        "pct_inactive": 30.9
+      },
+      {
+        "variable": "IMD10",
+        "group": "Decile 2",
+        "pct_inactive": 23.6
+      }
+    ]
+  },
+  {
+    "rank": 26,
+    "borough": "Richmond upon Thames",
+    "pct_inactive": 14.1,
+    "predicted_inactive": 22.7,
+    "residual": -8.6,
+    "trend_slope": -0.21,
+    "cluster": 0,
+    "priority_score": -0.56,
+    "supply": {
+      "n_sessions": 59,
+      "sessions_per_10k": 3.0,
+      "pct_free": 100.0,
+      "n_providers": 1,
+      "n_activity_types": 1,
+      "top_activities": [
+        {
+          "type": "Bootcamp & Outdoor Fitness",
+          "sessions": 59
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Age9",
+        "group": "75-84",
+        "pct_inactive": 29.0
+      },
+      {
+        "variable": "Eth7",
+        "group": "South Asian",
+        "pct_inactive": 24.2
+      },
+      {
+        "variable": "Educ6",
+        "group": "Level 2 and equivalents",
+        "pct_inactive": 24.0
+      }
+    ]
+  },
+  {
+    "rank": 27,
+    "borough": "Camden",
+    "pct_inactive": 17.3,
+    "predicted_inactive": 25.7,
+    "residual": -8.4,
+    "trend_slope": 0.56,
+    "cluster": 0,
+    "priority_score": -0.62,
+    "supply": {
+      "n_sessions": 159,
+      "sessions_per_10k": 7.2,
+      "pct_free": 42.1,
+      "n_providers": 2,
+      "n_activity_types": 9,
+      "top_activities": [
+        {
+          "type": "Bootcamp & Outdoor Fitness",
+          "sessions": 56
+        },
+        {
+          "type": "Swimming",
+          "sessions": 25
+        },
+        {
+          "type": "Personal Training",
+          "sessions": 24
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 39.1
+      },
+      {
+        "variable": "Eth7",
+        "group": "South Asian",
+        "pct_inactive": 34.4
+      },
+      {
+        "variable": "IMD10",
+        "group": "Decile 4",
+        "pct_inactive": 27.2
+      }
+    ]
+  },
+  {
+    "rank": 28,
+    "borough": "Barnet",
+    "pct_inactive": 17.0,
+    "predicted_inactive": 23.0,
+    "residual": -6.0,
+    "trend_slope": -1.61,
+    "cluster": 0,
+    "priority_score": -0.68,
+    "supply": {
+      "n_sessions": 360,
+      "sessions_per_10k": 9.1,
+      "pct_free": 19.4,
+      "n_providers": 2,
+      "n_activity_types": 8,
+      "top_activities": [
+        {
+          "type": "Personal Training",
+          "sessions": 227
+        },
+        {
+          "type": "Swimming",
+          "sessions": 85
+        },
+        {
+          "type": "Yoga, Pilates & Studio",
+          "sessions": 16
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Age9",
+        "group": "75-84",
+        "pct_inactive": 36.7
+      },
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 30.0
+      },
+      {
+        "variable": "Educ6",
+        "group": "Level 2 and equivalents",
+        "pct_inactive": 29.6
+      }
+    ]
+  },
+  {
+    "rank": 29,
+    "borough": "Kingston upon Thames",
+    "pct_inactive": 20.1,
+    "predicted_inactive": 19.4,
+    "residual": 0.7,
+    "trend_slope": -0.26,
+    "cluster": 0,
+    "priority_score": -1.09,
+    "supply": {
+      "n_sessions": 2276,
+      "sessions_per_10k": 133.5,
+      "pct_free": 80.2,
+      "n_providers": 2,
+      "n_activity_types": 11,
+      "top_activities": [
+        {
+          "type": "Racquet Sports",
+          "sessions": 1034
+        },
+        {
+          "type": "Personal Training",
+          "sessions": 392
+        },
+        {
+          "type": "Yoga, Pilates & Studio",
+          "sessions": 180
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 34.6
+      },
+      {
+        "variable": "IMD10",
+        "group": "Decile 5",
+        "pct_inactive": 28.7
+      },
+      {
+        "variable": "Age9",
+        "group": "75-84",
+        "pct_inactive": 26.6
+      }
+    ]
+  },
+  {
+    "rank": 30,
+    "borough": "Sutton",
+    "pct_inactive": 16.5,
+    "predicted_inactive": 25.4,
+    "residual": -8.9,
+    "trend_slope": -1.32,
+    "cluster": null,
+    "priority_score": -1.09,
+    "supply": {
+      "n_sessions": 1771,
+      "sessions_per_10k": 83.9,
+      "pct_free": 5.5,
+      "n_providers": 3,
+      "n_activity_types": 9,
+      "top_activities": [
+        {
+          "type": "Personal Training",
+          "sessions": 630
+        },
+        {
+          "type": "Other / Unspecified",
+          "sessions": 494
+        },
+        {
+          "type": "Swimming",
+          "sessions": 413
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "Disab3",
+        "group": "Limiting disability",
+        "pct_inactive": 33.4
+      },
+      {
+        "variable": "Educ6",
+        "group": "No qualifications",
+        "pct_inactive": 31.8
+      },
+      {
+        "variable": "Educ6",
+        "group": "Level 2 and equivalents",
+        "pct_inactive": 22.3
+      }
+    ]
+  },
+  {
+    "rank": 31,
+    "borough": "Wandsworth",
+    "pct_inactive": 12.1,
+    "predicted_inactive": 22.5,
+    "residual": -10.4,
+    "trend_slope": -0.8,
+    "cluster": 0,
+    "priority_score": -2.08,
+    "supply": {
+      "n_sessions": 6382,
+      "sessions_per_10k": 192.5,
+      "pct_free": 66.0,
+      "n_providers": 2,
+      "n_activity_types": 7,
+      "top_activities": [
+        {
+          "type": "Team Sports",
+          "sessions": 1884
+        },
+        {
+          "type": "Other / Unspecified",
+          "sessions": 1806
+        },
+        {
+          "type": "Racquet Sports",
+          "sessions": 1279
+        }
+      ]
+    },
+    "inequality_flags": [
+      {
+        "variable": "IMD10",
+        "group": "Decile 3",
+        "pct_inactive": 30.3
+      },
+      {
+        "variable": "Educ6",
+        "group": "Level 3 and equivalents",
+        "pct_inactive": 30.1
+      },
+      {
+        "variable": "Age9",
+        "group": "45-54",
+        "pct_inactive": 28.5
+      }
+    ]
+  }
+]
