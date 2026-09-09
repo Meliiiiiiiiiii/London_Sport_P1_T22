@@ -1,0 +1,9 @@
+borough,class,dominant_barrier,current_matching_supply_pct,recommendation,priority_score
+Croydon,blind spot risk,opportunity,0.0,Prioritise low-opportunity-barrier activity types (e.g. informal outdoor/community sessions),1.0
+Richmond upon Thames,blind spot risk,ability,0.0,Prioritise low-ability-barrier activity types (e.g. low-cost structured fitness options),1.0
+Redbridge,blind spot,opportunity,0.0,Prioritise low-opportunity-barrier activity types (e.g. informal outdoor/community sessions),1.0
+Hammersmith and Fulham,genuine desert,opportunity,3.8,Prioritise low-opportunity-barrier activity types (e.g. informal outdoor/community sessions),0.962
+Enfield,blind spot,opportunity,6.5,Prioritise low-opportunity-barrier activity types (e.g. informal outdoor/community sessions),0.935
+Bromley,genuine desert,ability,13.3,Prioritise low-ability-barrier activity types (e.g. low-cost structured fitness options),0.867
+Greenwich,blind spot risk,opportunity,20.4,Prioritise low-opportunity-barrier activity types (e.g. informal outdoor/community sessions),0.796
+Lambeth,blind spot risk,opportunity,33.7,Prioritise low-opportunity-barrier activity types (e.g. informal outdoor/community sessions),0.663
