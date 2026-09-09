@@ -1,7 +1,10 @@
-# Ignore the large data folders completely
+# raw feed data of open active
 Everyone_Active/
 Places_Leisure/
 Serco_Leisure/
 
-# Ignore the heavy SPSS survey data files
+# spss survey file
 *.sav
+
+#boundary file
+LAD2024boundary.geojson
